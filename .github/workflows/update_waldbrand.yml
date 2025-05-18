@@ -1,0 +1,27 @@
+name: Waldbranddaten aktualisieren
+
+on:
+  schedule:
+    - cron: '0 5 * * 1-5'  # werktags 7:00 Uhr MEZ
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install pandas lxml html5lib
+      - name: Run scraper
+        run: python update_waldbrand.py
+      - name: Commit and push result
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add waldbrand.json
+          git commit -m "Update Waldbranddaten"
+          git push
