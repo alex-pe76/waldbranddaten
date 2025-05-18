@@ -1,0 +1,4349 @@
+[
+  {
+    "Stationsname": "Freudenberg-Boxtal/Main",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Buchen (Kreis Neckar-Odenwald)",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Mannheim",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Niederstetten",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Ingelfingen-Stachenhausen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Waibstadt",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Waghäusel-Kirrlach",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Öhringen",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Kirchberg-Herboldshausen/Jagst",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Eppingen-Elsenz",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Obersulm-Willsbach",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Großerlach-Mannenweiler",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Ellwangen-Rindelbach",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Rheinstetten",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Mühlacker",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Sachsenheim",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Pforzheim-Ispringen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Kaisersbach-Cronhütte",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Stuttgart (Schnarrenberg)",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Schwäbisch Gmünd-Weiler",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Renningen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Baden-Baden-Geroldsau",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Stuttgart (Flughafen)",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Rheinau-Memprechtshofen",
+    "So 18.05.": "3",
+    "Mo 19.05.": "4",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Notzingen",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Stötten",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Neubulach-Oberhaugstett",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Hermaringen-Allewind",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Metzingen",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Merklingen",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Freudenstadt",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Ulm-Mähringen",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Ohlsbach",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Münsingen-Apfelstetten",
+    "So 18.05.": "1",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Hechingen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Lahr",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Wolfach",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Balingen-Bronnhaupten",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Laupheim",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Elzach-Fisnacht",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Rottweil",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Meßstetten-Appental",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Altheim (Kreis Biberach)",
+    "So 18.05.": "1",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Emmendingen-Mundingen",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Klippeneck",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Sigmaringen-Laiz",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Villingen-Schwenningen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Freiburg",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Buchenbach",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Pfullendorf",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Lenzkirch-Ruhbühl",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Müllheim",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Weingarten (Kreis Ravensburg)",
+    "So 18.05.": "2",
+    "Mo 19.05.": "4",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Leutkirch-Herlazhofen",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Singen",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Dachsberg-Wolpadingen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Konstanz",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Friedrichshafen-Unterraderach",
+    "So 18.05.": "3",
+    "Mo 19.05.": "4",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Wutöschingen-Ofteringen",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Rheinfelden",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Baden-Württemberg"
+  },
+  {
+    "Stationsname": "Ostheim vor der Rhön",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Teuschnitz",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Sandberg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Hof",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Lautertal-Oberlauter",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Bad Königshofen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Kronach",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Bad Kissingen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Schönwald/Ofr.-Brunn",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Staffelstein, Bad-Stublang",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Kahl/Main",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Schonungen-Mainberg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Wunsiedel-Schönbrunn",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Lohr-Halsbach/Main",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Neuhütten/Spessart",
+    "So 18.05.": "1",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Fichtelberg-Hüttstadl/Oberfranken",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Arnstein-Müdesheim",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Heinersreuth-Vollhof",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Bamberg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Tirschenreuth-Lodermühl",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Ebrach",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Neustadt-Filchendorf am Kulm",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Würzburg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Röllbach",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Kitzingen",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Weiden",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Gräfenberg-Kasberg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Möhrendorf-Kleinseebach",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Gollhofen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Nürnberg (Flughafen)",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Markt Erlbach-Hagenhofen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Pommelsbrunn-Mittelburg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Amberg-Unterammersricht",
+    "So 18.05.": "3",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Oberviechtach",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Kümmersbruck",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Nürnberg-Netzstall",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Waldmünchen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Rothenburg ob der Tauber",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Schwandorf",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Weidenbach-Weiherschneidbach",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Roth",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Schorndorf-Knöbling",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Feuchtwangen-Heilbronn",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Parsberg-Eglwang/Oberpfalz",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Regensburg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Zwiesel",
+    "So 18.05.": "2",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Weißenburg-Emetzheim",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Gelbelsee",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Eichstätt-Landershofen",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Metten",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Kösching",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Straubing",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Reimlingen",
+    "So 18.05.": "3",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Harburg",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Grainet-Rehberg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Saldenburg-Entschenreuth",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Mallersdorf-Pfaffenberg-Oberlindhart",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Donauwörth-Osterweiler",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Ingolstadt-Manching",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Neuburg an der Donau",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Elsendorf-Horneck",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Gottfrieding",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Aldersbach-Kramersepp",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Landshut-Reithof",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Dillingen/Donau-Fristingen",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Fürstenzell",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Günzburg",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Falkenberg (Kreis Rottal-Inn)",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Augsburg",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Altomünster-Maisbrunn",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Freising-Dürnast",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "München (Flughafen)",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Neuburg/Kammel-Langenhaslach",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Mühldorf",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Simbach/Inn",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Maisach-Galgen",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Lechfeld",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "München-Stadt",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Ebersberg-Halbing",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Trostberg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Amerang-Pfaffing",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Oberhaching-Laufzorn",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Memmingen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Chieming",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Wielenbach",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Holzkirchen",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Attenkam",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Kaufbeuren-Oberbeuren",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Siegsdorf-Höll",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Altenstadt",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Hohenpeißenberg",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Piding",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Kempten",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Bad Kohlgrub",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Oy-Mittelberg-Petersthal",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Kiefersfelden-Gach",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Sigmarszell",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Garmisch-Partenkirchen",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Oberstdorf",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Bayern"
+  },
+  {
+    "Stationsname": "Berlin-Buch",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Berlin"
+  },
+  {
+    "Stationsname": "Berlin-Marzahn",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "4",
+    "Do 22.05.": "4",
+    "Bundesland": "Berlin"
+  },
+  {
+    "Stationsname": "Berlin-Tempelhof",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Berlin"
+  },
+  {
+    "Stationsname": "Berlin-Dahlem",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Berlin"
+  },
+  {
+    "Stationsname": "Grünow",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Wittstock-Rote Mühle",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "4",
+    "Do 22.05.": "4",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Stechlin-Menz",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Lenzen/Elbe",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Angermünde",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Zehdenick",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Neuruppin-Alt Ruppin",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Kyritz",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "4",
+    "Do 22.05.": "4",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Heckelberg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "4",
+    "Do 22.05.": "3",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Berge",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "4",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Manschnow",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Müncheberg",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Potsdam",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "4",
+    "Do 22.05.": "4",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Berlin Brandenburg (Flughafen)",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Wusterwitz",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "4",
+    "Do 22.05.": "4",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Lindenberg",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Wiesenburg",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "4",
+    "Do 22.05.": "4",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Baruth",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Coschen",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Lübben-Blumenfelde",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Langenlipsdorf",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Cottbus",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Holzdorf-Bernsdorf",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "4",
+    "Do 22.05.": "4",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Doberlug-Kirchhain",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Schipkau-Klettwitz",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Brandenburg"
+  },
+  {
+    "Stationsname": "Bremerhaven",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Bremen"
+  },
+  {
+    "Stationsname": "Bremen (Flughafen)",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Bremen"
+  },
+  {
+    "Stationsname": "Hamburg (Flughafen)",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Hamburg"
+  },
+  {
+    "Stationsname": "Hamburg-Neuwiedenthal",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Hamburg"
+  },
+  {
+    "Stationsname": "Wesertal-Lippoldsberg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Twistetal-Mühlhausen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Schauenburg-Elgershausen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Eschwege",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Fritzlar/Eder",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Sontra",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Burgwald-Bottendorf",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Gilserberg-Moischeid",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Neukirchen-Hauptschwenda",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Bad Hersfeld",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Cölbe",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Neu-Ulrichstein",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Alsfeld-Eifa",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Tann/Rhön",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Wettenberg bei Gießen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Fulda-Horas",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Löhnberg-Obershausen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Hoherodskopf/Vogelsberg",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Wasserkuppe",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Runkel-Ennerich",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Bad Nauheim",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Schlüchtern-Herolz",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Gründau-Breitenborn",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Waldems-Reinborn",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Kleiner Feldberg/Taunus",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Wiesbaden-Auringen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Frankfurt/Main-Westend",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Offenbach-Wetterpark",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Frankfurt (Flughafen)",
+    "So 18.05.": "3",
+    "Mo 19.05.": "4",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Geisenheim",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Schaafheim-Schlierbach",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Darmstadt",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Michelstadt-Vielbrunn",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Michelstadt",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Oberzent-Beerfelden",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Hessen"
+  },
+  {
+    "Stationsname": "Arkona",
+    "So 18.05.": "2",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Insel Hiddensee",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Putbus",
+    "So 18.05.": "2",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Barth",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Steinhagen-Negast",
+    "So 18.05.": "2",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Greifswalder Oie",
+    "So 18.05.": "3",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Rostock-Warnemünde",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Karlshagen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Greifswald",
+    "So 18.05.": "2",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Groß Lüsewitz",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Tribsees",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Boltenhagen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Kirchdorf/Poel",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Laage-Kronskamp",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Anklam",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Gülzow-Prüzen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Teterow",
+    "So 18.05.": "3",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Ueckermünde",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Schwerin",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "4",
+    "Do 22.05.": "4",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Goldberg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Trollenhagen",
+    "So 18.05.": "3",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "4",
+    "Do 22.05.": "4",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Waren (Müritz)",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Boizenburg",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "4",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Grambow-Schwennenz",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "4",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Marnitz",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Feldberg/Mecklenburg",
+    "So 18.05.": "3",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "4",
+    "Do 22.05.": "3",
+    "Bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "Stationsname": "Cuxhaven",
+    "So 18.05.": "3",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Freiburg/Elbe",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Nordholz-Wanhöden",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Norderney",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Steinau (Kreis Cuxhaven)",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Wangerland-Hooksiel",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Borkum",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Mittelnkirchen-Hohenfelde",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Wittmundhafen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Bremervörde",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Emden",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Rosengarten-Klecken",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Worpswede-Hüttenbusch",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Wendisch Evern",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Rotenburg/Wümme",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Friesoythe-Altenoythe",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Lüchow",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Soltau",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Dörpen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Uelzen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Großenkneten",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Faßberg",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "4",
+    "Do 22.05.": "4",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Bassum",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Bergen",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Groß Berßen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Meppen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Nienburg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Wittingen-Vorhop",
+    "So 18.05.": "3",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Celle",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "4",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Diepholz",
+    "So 18.05.": "3",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Lingen-Baccum",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Alfhausen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Hannover (Flughafen)",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Wunstorf",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Barsinghausen-Hohenbostel",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Belm",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Braunschweig",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Bückeburg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Algermissen-Groß Lobke",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Helmstedt-Emmerstedt",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Hameln-Hastenbeck",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Alfeld",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Seesen",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Bad Harzburg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Bevern (Kreis Holzminden)",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Braunlage",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Moringen-Lutterbeck",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Herzberg",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Göttingen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Niedersachsen"
+  },
+  {
+    "Stationsname": "Rahden-Kleinendorf",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Münster/Osnabrück (Flughafen)",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Bad Salzuflen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Ahaus",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Bielefeld-Deppendorf",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Borken in Westfalen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Lügde-Paenbruch",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Ennigerloh-Ostenfelde",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Bad Lippspringe",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Lüdinghausen-Brochtrup",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Kleve",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Lippstadt-Bökenförde",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Waltrop-Abdinghof",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Werl",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Duisburg-Baerl",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Warburg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Bochum",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Geldern-Walbeck",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Arnsberg-Neheim",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Brilon-Thülen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Essen-Bredeney",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Gevelsberg-Oberbröking",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Düsseldorf (Flughafen)",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Tönisvorst",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Eslohe",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Lüdenscheid",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Wuppertal-Buchenhofen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Kahler Asten",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Lennestadt-Theten",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Mönchengladbach-Hilderath",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Meinerzhagen-Redlendorf",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Reichshof-Eckenhagen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Bad Berleburg-Stünzel",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Geilenkirchen-Neutevern",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Köln/Bonn (Flughafen)",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Neunkirchen-Seelscheid-Krawinkel",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Nörvenich-Niederbolheim",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Aachen-Orsbach",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Königswinter-Heiderhof",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Weilerswist-Lommersum",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Nideggen-Schmidt",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Kall-Sistig",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "Stationsname": "Hilgenroth",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Bad Marienberg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Hümmerich",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Bad Neuenahr-Ahrweiler",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Montabaur",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Andernach",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Nürburg-Barweiler",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Schneifelforsthaus",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Büchel",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Manderscheid",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Blankenrath",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Wahlbach bei Simmern",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Mainz-Lerchenberg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Hahn",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Olsdorf",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Bad Kreuznach",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Deuselbach",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Trier-Petrisberg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Trier",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Alzey",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Idar-Oberstein",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Ruppertsecken",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Worms",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Bad Dürkheim",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Kaiserslautern",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Weinbiet",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Pirmasens",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Bad Bergzabern",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Rheinland-Pfalz"
+  },
+  {
+    "Stationsname": "Weiskirchen/Saar",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Saarland"
+  },
+  {
+    "Stationsname": "Perl-Nennig",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Saarland"
+  },
+  {
+    "Stationsname": "Tholey",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Saarland"
+  },
+  {
+    "Stationsname": "Neunkirchen-Wellesweiler",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Saarland"
+  },
+  {
+    "Stationsname": "Berus",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Saarland"
+  },
+  {
+    "Stationsname": "Saarbrücken-Burbach",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Saarland"
+  },
+  {
+    "Stationsname": "Saarbrücken (Flughafen)",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Saarland"
+  },
+  {
+    "Stationsname": "Bad Muskau",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Klitzschen bei Torgau",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Hoyerswerda",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Leipzig/Halle (Flughafen)",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Leipzig-Holzhausen",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Oschatz",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Görlitz",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Kubschütz",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Klipphausen-Garsebach",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Dresden-Klotzsche (Flughafen)",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Geringswalde-Altgeringswalde",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Sohland/Spree",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Nossen",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Dresden-Hosterwitz",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Lichtenhain-Mittelndorf",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Dippoldiswalde-Reinberg",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Bertsdorf-Hörnitz",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Chemnitz",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Zinnwald-Georgenfeld",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Lichtentanne",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Marienberg",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Deutschneudorf-Brüderwiese",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Aue",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Treuen",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Plauen",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Carlsfeld",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "1",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Bad Elster-Sohl",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen"
+  },
+  {
+    "Stationsname": "Seehausen",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "4",
+    "Do 22.05.": "4",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Gardelegen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Demker",
+    "So 18.05.": "3",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "4",
+    "Do 22.05.": "4",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Genthin",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "4",
+    "Do 22.05.": "4",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Möckern-Drewitz",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Ummendorf",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Magdeburg",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Huy-Pabstorf",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Wittenberg",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Wernigerode",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Bernburg/Saale",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Quedlinburg",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Wernigerode-Schierke",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Köthen (Anhalt)",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Aschersleben-Mehringen",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Jeßnitz",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Oberharz am Brocken-Stiege",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Harzgerode",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Bad Lauchstädt",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Querfurt-Lodersleben",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Naumburg-Kreipitzsch/Saale",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Osterfeld",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "2",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "Zeitz",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Sachsen-Anhalt"
+  },
+  {
+    "Stationsname": "List auf Sylt",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Glücksburg-Meierwik",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Leck",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Brodersby-Schönhagen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Fehmarn",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Schleswig",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Hattstedt",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Schleswig-Jagel",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Kiel-Holtenau",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Sankt Peter-Ording",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Hohwacht",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Ostenfeld (Rendsburg)",
+    "So 18.05.": "3",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Hohn",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Erfde",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Helgoland",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Dörnick",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Pelzerhaken",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Elpersbüttel",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Wacken",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Padenstedt",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Hasenkrug-Hardebek",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Itzehoe",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Wittenborn",
+    "So 18.05.": "3",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Lübeck-Blankensee",
+    "So 18.05.": "3",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Quickborn",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Grambek",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Bundesland": "Schleswig-Holstein"
+  },
+  {
+    "Stationsname": "Leinefelde",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Artern",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Sondershausen",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Mühlhausen-Görmar/Thüringen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Olbersleben",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Dachwig",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Weimar-Schöndorf",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Eisenach",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Erfurt-Weimar (Flughafen)",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Starkenberg-Tegkwitz",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Jena",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Bad Berka (Flugplatz)",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Waltershausen",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Gera-Leumnitz",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Kleiner Inselsberg",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Salzungen, Bad-Gräfen-Nitzendorf",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Martinroda",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Schmieritz-Weltwitz",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Krölpa-Rockendorf",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Langenwetzendorf-Göttendorf",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Schmücke",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Schwarzburg",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Schleiz",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "1",
+    "Mi 21.05.": "1",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Meiningen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Birx/Rhön",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Neuhaus am Rennweg",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Bad Lobenstein",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  },
+  {
+    "Stationsname": "Veilsdorf",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Bundesland": "Thüringen"
+  }
+]

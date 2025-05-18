@@ -1,0 +1,282 @@
+[
+  {
+    "Stationsname": "Wesertal-Lippoldsberg",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Twistetal-Mühlhausen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Schauenburg-Elgershausen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Eschwege",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Fritzlar/Eder",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Sontra",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Burgwald-Bottendorf",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Gilserberg-Moischeid",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Neukirchen-Hauptschwenda",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Bad Hersfeld",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Cölbe",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3"
+  },
+  {
+    "Stationsname": "Neu-Ulrichstein",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Alsfeld-Eifa",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Tann/Rhön",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Wettenberg bei Gießen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Fulda-Horas",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Löhnberg-Obershausen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Hoherodskopf/Vogelsberg",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Wasserkuppe",
+    "So 18.05.": "1",
+    "Mo 19.05.": "1",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Runkel-Ennerich",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Bad Nauheim",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3"
+  },
+  {
+    "Stationsname": "Schlüchtern-Herolz",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Gründau-Breitenborn",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Waldems-Reinborn",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Kleiner Feldberg/Taunus",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Wiesbaden-Auringen",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3"
+  },
+  {
+    "Stationsname": "Frankfurt/Main-Westend",
+    "So 18.05.": "3",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3"
+  },
+  {
+    "Stationsname": "Offenbach-Wetterpark",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3"
+  },
+  {
+    "Stationsname": "Frankfurt (Flughafen)",
+    "So 18.05.": "3",
+    "Mo 19.05.": "4",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3"
+  },
+  {
+    "Stationsname": "Geisenheim",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3"
+  },
+  {
+    "Stationsname": "Schaafheim-Schlierbach",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3"
+  },
+  {
+    "Stationsname": "Darmstadt",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3"
+  },
+  {
+    "Stationsname": "Michelstadt-Vielbrunn",
+    "So 18.05.": "1",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Michelstadt",
+    "So 18.05.": "2",
+    "Mo 19.05.": "3",
+    "Di 20.05.": "3",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  },
+  {
+    "Stationsname": "Oberzent-Beerfelden",
+    "So 18.05.": "2",
+    "Mo 19.05.": "2",
+    "Di 20.05.": "2",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2"
+  }
+]
