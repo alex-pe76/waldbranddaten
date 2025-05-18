@@ -18,7 +18,7 @@ jobs:
         run: pip install pandas lxml html5lib beautifulsoup4
       - name: Run scraper
         run: python waldbranddaten.py
-         - name: Commit and push result
+      - name: Commit and push result
       env:
         GH_PAT: ${{ secrets.GH_PAT }}
       run: |
