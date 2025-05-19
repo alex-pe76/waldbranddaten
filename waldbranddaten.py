@@ -60,3 +60,31 @@ with open("waldbrand_gesamt.json", "w", encoding="utf-8") as f:
     json.dump(gesamt_daten, f, ensure_ascii=False, indent=2)
 
 print("✅ Gesamtdatei gespeichert: waldbrand_gesamt.json")
+
+# Geokoordinaten ergänzen (basierend auf lokal gespeicherter Excel-Tabelle)
+print("📍 Ergänze Geokoordinaten auf Basis von tabelle_stationen.xlsx...")
+try:
+    dwd_df = pd.read_excel("tabelle_stationen.xlsx")
+    dwd_df = dwd_df.rename(columns={
+        'Stationsname': 'Station',
+        'geogr. Breite': 'Latitude',
+        'geogr. Länge': 'Longitude'
+    })
+    dwd_df['Station'] = dwd_df['Station'].str.strip()
+
+    gefundene = 0
+    for eintrag in gesamt_daten:
+        station = eintrag.get("Station", "").strip()
+        match = dwd_df[dwd_df["Station"] == station]
+        if not match.empty:
+            eintrag["Latitude"] = match.iloc[0]["Latitude"]
+            eintrag["Longitude"] = match.iloc[0]["Longitude"]
+            gefundene += 1
+    print(f"✅ Koordinaten ergänzt für {gefundene} Stationen.")
+except Exception as e:
+    print(f"❌ Fehler beim Einlesen der DWD-Koordinatendaten: {e}")
+
+# Datei mit Koordinaten speichern
+with open("waldbrand_gesamt.json", "w", encoding="utf-8") as f:
+    json.dump(gesamt_daten, f, ensure_ascii=False, indent=2)
+print("✅ Gesamtdatei mit Koordinaten gespeichert: waldbrand_gesamt.json")
