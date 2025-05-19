@@ -62,21 +62,22 @@ with open("waldbrand_gesamt.json", "w", encoding="utf-8") as f:
 
 print("✅ Gesamtdatei gespeichert: waldbrand_gesamt.json")
 
-# Geokoordinaten ergänzen (basierend auf lokal gespeicherter Excel-Tabelle)
+# Geokoordinaten ergänzen (basierend auf lokal gespeicherter CSV-Tabelle)
 print("📍 Ergänze Geokoordinaten auf Basis von tabelle_stationen.csv...")
 try:
-    dwd_df = pd.read_csv("tabelle_stationen.csv", sep=";")
+    import difflib
+    dwd_df = pd.read_csv("tabelle_stationen.csv", delimiter=';', encoding='utf-8')
     dwd_df = dwd_df.rename(columns={
         'Stationsname': 'Station',
         'geogr. Breite': 'Latitude',
         'geogr. Länge': 'Longitude'
     })
-    dwd_df['Station'] = dwd_df['Station'].str.strip()
+    dwd_df['Station'] = dwd_df['Station'].astype(str).str.strip()
 
     gefundene = 0
     station_list = dwd_df["Station"].tolist()
     for eintrag in gesamt_daten:
-        station = eintrag.get("Station", "").strip()
+        station = eintrag.get("Stationsname", "").strip()
         close_matches = difflib.get_close_matches(station, station_list, n=1, cutoff=0.85)
         if close_matches:
             match = dwd_df[dwd_df["Station"] == close_matches[0]]
