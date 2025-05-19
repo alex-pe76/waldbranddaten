@@ -65,7 +65,7 @@ print("✅ Gesamtdatei gespeichert: waldbrand_gesamt.json")
 # Geokoordinaten ergänzen auf Basis von mosmix_stationskatalog.txt
 print("📍 Versuche Geokoordinaten über mosmix_stationskatalog.txt zu ergänzen...")
 try:
-    with open("mosmix_stationskatalog.txt", encoding="latin1") as f:
+    with open("mosmix_stationskatalog.txt", encoding="cp1252") as f:
         lines = f.readlines()
         entries = []
         for line in lines:
