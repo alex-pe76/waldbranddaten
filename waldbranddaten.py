@@ -62,32 +62,38 @@ with open("waldbrand_gesamt.json", "w", encoding="utf-8") as f:
 
 print("✅ Gesamtdatei gespeichert: waldbrand_gesamt.json")
 
-# Geokoordinaten ergänzen (basierend auf lokal gespeicherter CSV-Tabelle)
-print("📍 Ergänze Geokoordinaten auf Basis von tabelle_stationen.csv...")
+# Geokoordinaten ergänzen auf Basis von mosmix_stationskatalog.txt
+print("📍 Versuche Geokoordinaten über mosmix_stationskatalog.txt zu ergänzen...")
 try:
-    import difflib
-    dwd_df = pd.read_csv("tabelle_stationen.csv", delimiter=';', encoding='utf-8')
-    dwd_df = dwd_df.rename(columns={
-        'Stationsname': 'Station',
-        'geogr. Breite': 'Latitude',
-        'geogr. Länge': 'Longitude'
-    })
-    dwd_df['Station'] = dwd_df['Station'].astype(str).str.strip()
+    with open("mosmix_stationskatalog.txt", encoding="utf-8") as f:
+        lines = f.readlines()
+        entries = []
+        for line in lines:
+            parts = line.strip().split()
+            if len(parts) >= 5 and parts[0].isdigit():
+                station_id = parts[0]
+                name = " ".join(parts[2:-3])
+                lat = parts[-3]
+                lon = parts[-2]
+                entries.append({"Station": name, "Latitude": lat, "Longitude": lon})
 
-    gefundene = 0
-    station_list = dwd_df["Station"].tolist()
-    for eintrag in gesamt_daten:
-        station = eintrag.get("Stationsname", "").strip()
-        close_matches = difflib.get_close_matches(station, station_list, n=1, cutoff=0.85)
-        if close_matches:
-            match = dwd_df[dwd_df["Station"] == close_matches[0]]
-            if not match.empty:
-                eintrag["Latitude"] = match.iloc[0]["Latitude"]
-                eintrag["Longitude"] = match.iloc[0]["Longitude"]
-                gefundene += 1
-    print(f"✅ Koordinaten ergänzt für {gefundene} Stationen.")
+        station_df = pd.DataFrame(entries)
+        station_df["Station"] = station_df["Station"].astype(str).str.strip()
+        station_list = station_df["Station"].tolist()
+
+        gefundene = 0
+        for eintrag in gesamt_daten:
+            station = eintrag.get("Stationsname", "").strip()
+            close_matches = difflib.get_close_matches(station, station_list, n=1, cutoff=0.85)
+            if close_matches:
+                match = station_df[station_df["Station"] == close_matches[0]]
+                if not match.empty:
+                    eintrag["Latitude"] = match.iloc[0]["Latitude"]
+                    eintrag["Longitude"] = match.iloc[0]["Longitude"]
+                    gefundene += 1
+        print(f"✅ Koordinaten ergänzt für {gefundene} Stationen.")
 except Exception as e:
-    print(f"❌ Fehler beim Einlesen der DWD-Koordinatendaten: {e}")
+    print(f"❌ Fehler beim Einlesen der MOSMIX-Daten: {e}")
 
 # Datei mit Koordinaten speichern
 with open("waldbrand_gesamt.json", "w", encoding="utf-8") as f:
