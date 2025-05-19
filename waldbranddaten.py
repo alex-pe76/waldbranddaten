@@ -64,7 +64,7 @@ print("✅ Gesamtdatei gespeichert: waldbrand_gesamt.json")
 # Geokoordinaten ergänzen (basierend auf lokal gespeicherter Excel-Tabelle)
 print("📍 Ergänze Geokoordinaten auf Basis von tabelle_stationen.csv...")
 try:
-    dwd_df = pd.read_csv("tabelle_stationen.csv")
+    dwd_df = pd.read_csv("tabelle_stationen.csv", sep=";")
     dwd_df = dwd_df.rename(columns={
         'Stationsname': 'Station',
         'geogr. Breite': 'Latitude',
