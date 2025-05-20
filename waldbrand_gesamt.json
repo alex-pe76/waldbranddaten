@@ -4573,7 +4573,7 @@
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
     "Bundesland": "Sachsen-Anhalt",
-    "Latitude": NaN,
+    "Latitude": 0.0,
     "Longitude": 52.13
   },
   {
@@ -4854,7 +4854,7 @@
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
     "Bundesland": "Schleswig-Holstein",
-    "Latitude": NaN,
+    "Latitude": 0.0,
     "Longitude": 54.36
   },
   {
