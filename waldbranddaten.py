@@ -168,9 +168,11 @@ except Exception as e:
 # Datei mit Koordinaten speichern
 with open("waldbrand_gesamt.json", "w", encoding="utf-8") as f:
     for eintrag in gesamt_daten:
-        if "Latitude" not in eintrag or eintrag["Latitude"] is None:
+        lat = eintrag.get("Latitude")
+        lon = eintrag.get("Longitude")
+        if not isinstance(lat, (int, float)) or pd.isna(lat):
             eintrag["Latitude"] = 0.0
-        if "Longitude" not in eintrag or eintrag["Longitude"] is None:
+        if not isinstance(lon, (int, float)) or pd.isna(lon):
             eintrag["Longitude"] = 0.0
     json.dump(gesamt_daten, f, ensure_ascii=False, indent=2)
 print("✅ Gesamtdatei mit Koordinaten gespeichert: waldbrand_gesamt.json")
