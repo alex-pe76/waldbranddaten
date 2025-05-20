@@ -1,7 +1,6 @@
 import pandas as pd
 import json
 import re
-from rapidfuzz import process
 
 bundeslaender = {
     "BW": "Baden-Württemberg",
