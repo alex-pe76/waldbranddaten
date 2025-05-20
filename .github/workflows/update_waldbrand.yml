@@ -17,7 +17,7 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install dependencies
-        run: pip install pandas lxml html5lib
+        run: pip install pandas lxml html5lib rapidfuzz
       - name: Run scraper
         run: python waldbranddaten.py
       - name: Commit and push result
