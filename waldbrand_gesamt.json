@@ -1450,7 +1450,9 @@
         "name": "HOELLGRABEN",
         "score": 0.0
       }
-    ]
+    ],
+    "Latitude": 0.0,
+    "Longitude": 0.0
   },
   {
     "Stationsname": "München (Flughafen)",
@@ -2694,7 +2696,9 @@
         "name": "HOELLGRABEN",
         "score": 0.0
       }
-    ]
+    ],
+    "Latitude": 0.0,
+    "Longitude": 0.0
   },
   {
     "Stationsname": "Teterow",
@@ -2915,7 +2919,9 @@
         "name": "HOELLGRABEN",
         "score": 0.0
       }
-    ]
+    ],
+    "Latitude": 0.0,
+    "Longitude": 0.0
   },
   {
     "Stationsname": "Bremervörde",
@@ -3444,7 +3450,9 @@
         "name": "HOELLGRABEN",
         "score": 0.0
       }
-    ]
+    ],
+    "Latitude": 0.0,
+    "Longitude": 0.0
   },
   {
     "Stationsname": "Ennigerloh-Ostenfelde",
@@ -4798,7 +4806,9 @@
         "name": "HOELLGRABEN",
         "score": 0.0
       }
-    ]
+    ],
+    "Latitude": 0.0,
+    "Longitude": 0.0
   },
   {
     "Stationsname": "Leck",
@@ -4832,7 +4842,9 @@
         "name": "HOELLGRABEN",
         "score": 0.0
       }
-    ]
+    ],
+    "Latitude": 0.0,
+    "Longitude": 0.0
   },
   {
     "Stationsname": "Fehmarn",
@@ -5031,7 +5043,9 @@
         "name": "HOELLGRABEN",
         "score": 0.0
       }
-    ]
+    ],
+    "Latitude": 0.0,
+    "Longitude": 0.0
   },
   {
     "Stationsname": "Itzehoe",
