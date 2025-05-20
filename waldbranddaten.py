@@ -1,6 +1,7 @@
 import pandas as pd
 import json
-import difflib
+import re
+from rapidfuzz import process
 
 bundeslaender = {
     "BW": "Baden-Württemberg",
@@ -56,42 +57,111 @@ for kuerzel in bundeslaender.keys():
                 eintrag["Bundesland"] = bundeslaender[kuerzel]
             gesamt_daten.extend(eintraege)
 
+# Nach dem Einlesen von gesamt_daten: Doppelte normalisierte Stationsnamen identifizieren
+from collections import Counter
+
+def normalize_name(name):
+    name = name.upper()
+    name = name.replace("Ä", "AE").replace("Ö", "OE").replace("Ü", "UE")
+    name = name.replace("ä", "AE").replace("ö", "OE").replace("ü", "UE")
+    name = name.replace("ß", "SS")
+    name = re.sub(r"[^\w\s]", " ", name)  # Entferne Sonderzeichen wie . und - und ersetze sie durch Leerzeichen
+    name = re.sub(r"\s+", " ", name)  # Mehrfache Leerzeichen zusammenfassen
+    return name.strip()
+
+counter = Counter([normalize_name(e.get("Stationsname", "")) for e in gesamt_daten])
+mehrfach_namen = {k: v for k, v in counter.items() if v > 1}
+print(f"👀 Mehrfache Stationsnamen (normalisiert): {mehrfach_namen}")
+
 # Gesamtdatei schreiben
 with open("waldbrand_gesamt.json", "w", encoding="utf-8") as f:
     json.dump(gesamt_daten, f, ensure_ascii=False, indent=2)
 
 print("✅ Gesamtdatei gespeichert: waldbrand_gesamt.json")
 
-# Geokoordinaten ergänzen auf Basis von mosmix_stationskatalog.txt
-print("📍 Versuche Geokoordinaten über mosmix_stationskatalog.txt zu ergänzen...")
+ # Geokoordinaten ergänzen auf Basis von mosmix_stationskatalog1.txt
+print("📍 Versuche Geokoordinaten über mosmix_stationskatalog1.txt zu ergänzen...")
 try:
-    with open("mosmix_stationskatalog.txt", encoding="cp1252") as f:
-        lines = f.readlines()
-        entries = []
-        for line in lines:
-            parts = line.strip().split()
-            if len(parts) >= 5 and parts[0].isdigit():
-                station_id = parts[0]
-                name = " ".join(parts[2:-3])
-                lat = parts[-3]
-                lon = parts[-2]
-                entries.append({"Station": name, "Latitude": lat, "Longitude": lon})
+    df_mosmix = pd.read_csv("mosmix_stationskatalog1.txt", sep="\t", encoding="utf-8", usecols=["NAME", "LAT", "LON"])
+    df_mosmix = df_mosmix.rename(columns={"NAME": "Station", "LAT": "Latitude", "LON": "Longitude"})
+    df_mosmix["Latitude"] = pd.to_numeric(df_mosmix["Latitude"].astype(str).str.replace(",", "."), errors="coerce")
+    df_mosmix["Longitude"] = pd.to_numeric(df_mosmix["Longitude"].astype(str).str.replace(",", "."), errors="coerce")
 
-        station_df = pd.DataFrame(entries)
-        station_df["Station"] = station_df["Station"].astype(str).str.strip()
-        station_list = station_df["Station"].tolist()
+    df_mosmix["norm_station"] = df_mosmix["Station"].apply(normalize_name)
+    station_list = df_mosmix["norm_station"].tolist()
 
-        gefundene = 0
-        for eintrag in gesamt_daten:
-            station = eintrag.get("Stationsname", "").strip()
-            close_matches = difflib.get_close_matches(station, station_list, n=1, cutoff=0.85)
-            if close_matches:
-                match = station_df[station_df["Station"] == close_matches[0]]
-                if not match.empty:
-                    eintrag["Latitude"] = match.iloc[0]["Latitude"]
-                    eintrag["Longitude"] = match.iloc[0]["Longitude"]
+    # Neue Matching-Logik (siehe Aufgabenstellung)
+    unmatched = []
+    gefundene = 0
+
+    # Vorbereitung für TF-IDF
+    try:
+        from sklearn.feature_extraction.text import TfidfVectorizer
+        from sklearn.metrics.pairwise import cosine_similarity
+        tfidf_vectorizer = TfidfVectorizer().fit(station_list)
+        station_matrix = tfidf_vectorizer.transform(station_list)
+    except ImportError:
+        tfidf_vectorizer = None
+        station_matrix = None
+
+    for eintrag in gesamt_daten:
+        station_raw = eintrag.get("Stationsname", "")
+        norm_name = normalize_name(station_raw)
+        tokens = norm_name.split()
+        match = pd.DataFrame()
+
+        # Versuche exakten Match mit jedem Token
+        for token in tokens:
+            temp_match = df_mosmix[df_mosmix["norm_station"] == token]
+            if temp_match.shape[0] == 1:
+                match = temp_match
+                break
+
+        # Wenn kein direkter Match, prüfe, ob alle Tokens in einem norm_station-Eintrag enthalten sind
+        if match.shape[0] != 1:
+            token_set = set(tokens)
+            for _, row in df_mosmix.iterrows():
+                station_tokens = set(row["norm_station"].split())
+                if token_set.issubset(station_tokens):
+                    match = pd.DataFrame([row])
+                    break
+
+        if match.shape[0] == 1:
+            m = match.iloc[0]
+            eintrag["Latitude"] = float(m["Latitude"])
+            eintrag["Longitude"] = float(m["Longitude"])
+            gefundene += 1
+            print(f"🔍 Match: '{station_raw}' → '{m['norm_station']}' → Koordinaten: ({m['Latitude']}, {m['Longitude']})")
+        else:
+            # Direkt TF-IDF Matching für alle übrigen Fälle
+            if tfidf_vectorizer is not None and station_matrix is not None:
+                query_vec = tfidf_vectorizer.transform([norm_name])
+                similarities = cosine_similarity(query_vec, station_matrix).flatten()
+                best_idx = similarities.argmax()
+                best_score = similarities[best_idx]
+                if best_score > 0.4:
+                    best_match_name = station_list[best_idx]
+                    match_row = df_mosmix[df_mosmix["norm_station"] == best_match_name].iloc[0]
+                    eintrag["Latitude"] = float(match_row["Latitude"])
+                    eintrag["Longitude"] = float(match_row["Longitude"])
                     gefundene += 1
-        print(f"✅ Koordinaten ergänzt für {gefundene} Stationen.")
+                    print(f"📐 TF-IDF-Match: '{station_raw}' → '{best_match_name}' → Koordinaten: ({match_row['Latitude']}, {match_row['Longitude']})")
+                else:
+                    # Füge Vorschlagsliste hinzu
+                    top_indices = similarities.argsort()[-3:][::-1]
+                    vorschlaege = []
+                    for idx in top_indices:
+                        kandidat = station_list[idx]
+                        score = similarities[idx]
+                        vorschlaege.append({"name": kandidat, "score": round(float(score), 3)})
+                    eintrag["Vorschlaege"] = vorschlaege
+                    unmatched.append(station_raw)
+                    print(f"❓ Kein sicherer Match für '{station_raw}'. Vorschläge: {vorschlaege}")
+            else:
+                unmatched.append(station_raw)
+
+    print(f"✅ Koordinaten ergänzt für {gefundene} Stationen.")
+    print(f"ℹ️ Keine Übereinstimmung für {len(unmatched)} Stationen, z. B.: {unmatched[:5]}")
 except Exception as e:
     print(f"❌ Fehler beim Einlesen der MOSMIX-Daten: {e}")
 
