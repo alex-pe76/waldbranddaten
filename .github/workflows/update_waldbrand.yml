@@ -2,7 +2,7 @@ name: Waldbranddaten aktualisieren
 
 on:
   schedule:
-    - cron: '0 5 * * 1-5'  # werktags 7:00 Uhr MEZ
+    - cron: '0 6 * * *'  # jeden Tag um 6:00 Uhr MEZ
   workflow_dispatch:
 
 jobs:
