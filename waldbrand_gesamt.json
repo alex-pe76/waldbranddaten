@@ -6,7 +6,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 49.46,
+    "Longitude": 9.25
   },
   {
     "Stationsname": "Buchen (Kreis Neckar-Odenwald)",
@@ -15,7 +17,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 49.31,
+    "Longitude": 9.19
   },
   {
     "Stationsname": "Mannheim",
@@ -24,7 +28,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 49.31,
+    "Longitude": 8.33
   },
   {
     "Stationsname": "Niederstetten",
@@ -33,7 +39,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 49.24,
+    "Longitude": 9.58
   },
   {
     "Stationsname": "Ingelfingen-Stachenhausen",
@@ -42,7 +50,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 49.2,
+    "Longitude": 9.42
   },
   {
     "Stationsname": "Waibstadt",
@@ -51,7 +61,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 49.17,
+    "Longitude": 8.55
   },
   {
     "Stationsname": "Waghäusel-Kirrlach",
@@ -60,7 +72,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 49.14,
+    "Longitude": 8.32
   },
   {
     "Stationsname": "Öhringen",
@@ -69,7 +83,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 49.13,
+    "Longitude": 9.31
   },
   {
     "Stationsname": "Kirchberg-Herboldshausen/Jagst",
@@ -78,7 +94,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 49.11,
+    "Longitude": 9.59
   },
   {
     "Stationsname": "Eppingen-Elsenz",
@@ -87,7 +105,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 49.1,
+    "Longitude": 8.51
   },
   {
     "Stationsname": "Obersulm-Willsbach",
@@ -96,7 +116,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 49.08,
+    "Longitude": 9.21
   },
   {
     "Stationsname": "Großerlach-Mannenweiler",
@@ -105,7 +127,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 49.01,
+    "Longitude": 9.36
   },
   {
     "Stationsname": "Ellwangen-Rindelbach",
@@ -114,7 +138,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.59,
+    "Longitude": 10.08
   },
   {
     "Stationsname": "Rheinstetten",
@@ -123,7 +149,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.58,
+    "Longitude": 8.19
   },
   {
     "Stationsname": "Mühlacker",
@@ -132,7 +160,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.58,
+    "Longitude": 8.52
   },
   {
     "Stationsname": "Sachsenheim",
@@ -141,7 +171,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.57,
+    "Longitude": 9.04
   },
   {
     "Stationsname": "Pforzheim-Ispringen",
@@ -150,7 +182,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.54,
+    "Longitude": 8.44
   },
   {
     "Stationsname": "Kaisersbach-Cronhütte",
@@ -159,7 +193,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.55,
+    "Longitude": 9.41
   },
   {
     "Stationsname": "Stuttgart (Schnarrenberg)",
@@ -168,7 +204,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.4,
+    "Longitude": 9.11
   },
   {
     "Stationsname": "Schwäbisch Gmünd-Weiler",
@@ -177,7 +215,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 49.07,
+    "Longitude": 9.45
   },
   {
     "Stationsname": "Renningen",
@@ -186,7 +226,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.46,
+    "Longitude": 8.57
   },
   {
     "Stationsname": "Baden-Baden-Geroldsau",
@@ -195,7 +237,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.46,
+    "Longitude": 8.15
   },
   {
     "Stationsname": "Stuttgart (Flughafen)",
@@ -204,7 +248,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.4,
+    "Longitude": 9.11
   },
   {
     "Stationsname": "Rheinau-Memprechtshofen",
@@ -213,7 +259,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 49.26,
+    "Longitude": 8.33
   },
   {
     "Stationsname": "Notzingen",
@@ -222,7 +270,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.4,
+    "Longitude": 9.28
   },
   {
     "Stationsname": "Stötten",
@@ -231,7 +281,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.4,
+    "Longitude": 9.52
   },
   {
     "Stationsname": "Neubulach-Oberhaugstett",
@@ -240,7 +292,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.39,
+    "Longitude": 8.41
   },
   {
     "Stationsname": "Hermaringen-Allewind",
@@ -249,7 +303,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.37,
+    "Longitude": 10.16
   },
   {
     "Stationsname": "Metzingen",
@@ -258,7 +314,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.32,
+    "Longitude": 9.16
   },
   {
     "Stationsname": "Merklingen",
@@ -267,7 +325,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.3,
+    "Longitude": 9.42
   },
   {
     "Stationsname": "Freudenstadt",
@@ -276,7 +336,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.27,
+    "Longitude": 8.24
   },
   {
     "Stationsname": "Ulm-Mähringen",
@@ -285,7 +347,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.23,
+    "Longitude": 9.57
   },
   {
     "Stationsname": "Ohlsbach",
@@ -294,7 +358,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.26,
+    "Longitude": 7.59
   },
   {
     "Stationsname": "Münsingen-Apfelstetten",
@@ -303,7 +369,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.23,
+    "Longitude": 9.29
   },
   {
     "Stationsname": "Hechingen",
@@ -312,7 +380,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.23,
+    "Longitude": 8.59
   },
   {
     "Stationsname": "Lahr",
@@ -321,7 +391,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.22,
+    "Longitude": 7.5
   },
   {
     "Stationsname": "Wolfach",
@@ -330,7 +402,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.18,
+    "Longitude": 8.14
   },
   {
     "Stationsname": "Balingen-Bronnhaupten",
@@ -339,7 +413,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.17,
+    "Longitude": 8.53
   },
   {
     "Stationsname": "Laupheim",
@@ -348,7 +424,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.13,
+    "Longitude": 9.55
   },
   {
     "Stationsname": "Elzach-Fisnacht",
@@ -357,7 +435,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.12,
+    "Longitude": 8.07
   },
   {
     "Stationsname": "Rottweil",
@@ -366,7 +446,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.11,
+    "Longitude": 8.38
   },
   {
     "Stationsname": "Meßstetten-Appental",
@@ -375,7 +457,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.11,
+    "Longitude": 9.0
   },
   {
     "Stationsname": "Altheim (Kreis Biberach)",
@@ -384,7 +468,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.07,
+    "Longitude": 9.48
   },
   {
     "Stationsname": "Emmendingen-Mundingen",
@@ -393,7 +479,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.08,
+    "Longitude": 7.5
   },
   {
     "Stationsname": "Klippeneck",
@@ -402,7 +490,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.07,
+    "Longitude": 8.45
   },
   {
     "Stationsname": "Sigmaringen-Laiz",
@@ -411,7 +501,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.04,
+    "Longitude": 9.11
   },
   {
     "Stationsname": "Villingen-Schwenningen",
@@ -420,7 +512,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.03,
+    "Longitude": 8.28
   },
   {
     "Stationsname": "Freiburg",
@@ -429,7 +523,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 48.01,
+    "Longitude": 7.5
   },
   {
     "Stationsname": "Buchenbach",
@@ -438,7 +534,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 47.58,
+    "Longitude": 8.0
   },
   {
     "Stationsname": "Pfullendorf",
@@ -447,7 +545,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 47.56,
+    "Longitude": 9.17
   },
   {
     "Stationsname": "Lenzkirch-Ruhbühl",
@@ -456,7 +556,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 47.52,
+    "Longitude": 8.14
   },
   {
     "Stationsname": "Müllheim",
@@ -465,7 +567,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 47.49,
+    "Longitude": 7.38
   },
   {
     "Stationsname": "Weingarten (Kreis Ravensburg)",
@@ -474,7 +578,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 47.48,
+    "Longitude": 9.37
   },
   {
     "Stationsname": "Leutkirch-Herlazhofen",
@@ -483,7 +589,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 47.5,
+    "Longitude": 10.01
   },
   {
     "Stationsname": "Singen",
@@ -492,7 +600,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 47.45,
+    "Longitude": 8.49
   },
   {
     "Stationsname": "Dachsberg-Wolpadingen",
@@ -501,7 +611,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 47.42,
+    "Longitude": 8.07
   },
   {
     "Stationsname": "Konstanz",
@@ -510,7 +622,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 47.41,
+    "Longitude": 9.11
   },
   {
     "Stationsname": "Friedrichshafen-Unterraderach",
@@ -519,7 +633,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 47.4,
+    "Longitude": 9.31
   },
   {
     "Stationsname": "Wutöschingen-Ofteringen",
@@ -528,7 +644,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 47.41,
+    "Longitude": 8.23
   },
   {
     "Stationsname": "Rheinfelden",
@@ -537,7 +655,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Baden-Württemberg"
+    "Bundesland": "Baden-Württemberg",
+    "Latitude": 47.34,
+    "Longitude": 7.47
   },
   {
     "Stationsname": "Ostheim vor der Rhön",
@@ -546,7 +666,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 50.27,
+    "Longitude": 10.13
   },
   {
     "Stationsname": "Teuschnitz",
@@ -555,7 +677,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 50.24,
+    "Longitude": 11.23
   },
   {
     "Stationsname": "Sandberg",
@@ -564,7 +688,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 50.21,
+    "Longitude": 10.0
   },
   {
     "Stationsname": "Hof",
@@ -573,7 +699,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 50.19,
+    "Longitude": 11.53
   },
   {
     "Stationsname": "Lautertal-Oberlauter",
@@ -582,7 +710,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.43,
+    "Longitude": 8.41
   },
   {
     "Stationsname": "Bad Königshofen",
@@ -591,7 +721,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 50.17,
+    "Longitude": 10.27
   },
   {
     "Stationsname": "Kronach",
@@ -600,7 +732,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 50.14,
+    "Longitude": 11.2
   },
   {
     "Stationsname": "Bad Kissingen",
@@ -609,7 +743,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 50.12,
+    "Longitude": 10.05
   },
   {
     "Stationsname": "Schönwald/Ofr.-Brunn",
@@ -618,7 +754,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.23,
+    "Longitude": 11.22
   },
   {
     "Stationsname": "Staffelstein, Bad-Stublang",
@@ -627,7 +765,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 50.07,
+    "Longitude": 11.0
   },
   {
     "Stationsname": "Kahl/Main",
@@ -636,7 +776,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 50.04,
+    "Longitude": 9.01
   },
   {
     "Stationsname": "Schonungen-Mainberg",
@@ -645,7 +787,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 50.04,
+    "Longitude": 10.18
   },
   {
     "Stationsname": "Wunsiedel-Schönbrunn",
@@ -654,7 +798,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.34,
+    "Longitude": 12.12
   },
   {
     "Stationsname": "Lohr-Halsbach/Main",
@@ -663,7 +809,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 50.01,
+    "Longitude": 9.37
   },
   {
     "Stationsname": "Neuhütten/Spessart",
@@ -672,7 +820,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 50.01,
+    "Longitude": 9.25
   },
   {
     "Stationsname": "Fichtelberg-Hüttstadl/Oberfranken",
@@ -681,7 +831,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 50.26,
+    "Longitude": 12.57
   },
   {
     "Stationsname": "Arnstein-Müdesheim",
@@ -690,7 +842,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.58,
+    "Longitude": 9.55
   },
   {
     "Stationsname": "Heinersreuth-Vollhof",
@@ -699,7 +853,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.58,
+    "Longitude": 11.31
   },
   {
     "Stationsname": "Bamberg",
@@ -708,7 +864,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.53,
+    "Longitude": 10.55
   },
   {
     "Stationsname": "Tirschenreuth-Lodermühl",
@@ -717,7 +875,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.53,
+    "Longitude": 12.21
   },
   {
     "Stationsname": "Ebrach",
@@ -726,7 +886,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.51,
+    "Longitude": 10.29
   },
   {
     "Stationsname": "Neustadt-Filchendorf am Kulm",
@@ -735,7 +897,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.49,
+    "Longitude": 11.52
   },
   {
     "Stationsname": "Würzburg",
@@ -744,7 +908,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.46,
+    "Longitude": 9.58
   },
   {
     "Stationsname": "Röllbach",
@@ -753,7 +919,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.46,
+    "Longitude": 9.15
   },
   {
     "Stationsname": "Kitzingen",
@@ -762,7 +930,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.44,
+    "Longitude": 10.12
   },
   {
     "Stationsname": "Weiden",
@@ -771,7 +941,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.4,
+    "Longitude": 12.11
   },
   {
     "Stationsname": "Gräfenberg-Kasberg",
@@ -780,7 +952,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.39,
+    "Longitude": 11.15
   },
   {
     "Stationsname": "Möhrendorf-Kleinseebach",
@@ -789,7 +963,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.39,
+    "Longitude": 11.01
   },
   {
     "Stationsname": "Gollhofen",
@@ -798,7 +974,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.34,
+    "Longitude": 10.11
   },
   {
     "Stationsname": "Nürnberg (Flughafen)",
@@ -807,7 +985,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.3,
+    "Longitude": 11.03
   },
   {
     "Stationsname": "Markt Erlbach-Hagenhofen",
@@ -816,7 +996,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.32,
+    "Longitude": 10.38
   },
   {
     "Stationsname": "Pommelsbrunn-Mittelburg",
@@ -825,7 +1007,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.29,
+    "Longitude": 11.32
   },
   {
     "Stationsname": "Amberg-Unterammersricht",
@@ -834,7 +1018,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.28,
+    "Longitude": 11.51
   },
   {
     "Stationsname": "Oberviechtach",
@@ -843,7 +1029,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.27,
+    "Longitude": 12.25
   },
   {
     "Stationsname": "Kümmersbruck",
@@ -852,7 +1040,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.26,
+    "Longitude": 11.54
   },
   {
     "Stationsname": "Nürnberg-Netzstall",
@@ -861,7 +1051,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.3,
+    "Longitude": 11.03
   },
   {
     "Stationsname": "Waldmünchen",
@@ -870,7 +1062,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.23,
+    "Longitude": 12.41
   },
   {
     "Stationsname": "Rothenburg ob der Tauber",
@@ -879,7 +1073,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.23,
+    "Longitude": 10.1
   },
   {
     "Stationsname": "Schwandorf",
@@ -888,7 +1084,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.2,
+    "Longitude": 12.07
   },
   {
     "Stationsname": "Weidenbach-Weiherschneidbach",
@@ -897,7 +1095,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.13,
+    "Longitude": 10.37
   },
   {
     "Stationsname": "Roth",
@@ -906,7 +1106,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.13,
+    "Longitude": 11.06
   },
   {
     "Stationsname": "Schorndorf-Knöbling",
@@ -915,7 +1117,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.47,
+    "Longitude": 9.31
   },
   {
     "Stationsname": "Feuchtwangen-Heilbronn",
@@ -924,7 +1128,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.1,
+    "Longitude": 10.22
   },
   {
     "Stationsname": "Parsberg-Eglwang/Oberpfalz",
@@ -933,7 +1139,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.09,
+    "Longitude": 11.41
   },
   {
     "Stationsname": "Regensburg",
@@ -942,7 +1150,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.02,
+    "Longitude": 12.06
   },
   {
     "Stationsname": "Zwiesel",
@@ -951,7 +1161,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.02,
+    "Longitude": 13.14
   },
   {
     "Stationsname": "Weißenburg-Emetzheim",
@@ -960,7 +1172,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 49.01,
+    "Longitude": 10.56
   },
   {
     "Stationsname": "Gelbelsee",
@@ -969,7 +1183,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.57,
+    "Longitude": 11.26
   },
   {
     "Stationsname": "Eichstätt-Landershofen",
@@ -978,7 +1194,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.54,
+    "Longitude": 11.1
   },
   {
     "Stationsname": "Metten",
@@ -987,7 +1205,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.51,
+    "Longitude": 12.55
   },
   {
     "Stationsname": "Kösching",
@@ -996,7 +1216,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.5,
+    "Longitude": 11.29
   },
   {
     "Stationsname": "Straubing",
@@ -1005,7 +1227,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.5,
+    "Longitude": 12.34
   },
   {
     "Stationsname": "Reimlingen",
@@ -1014,7 +1238,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.5,
+    "Longitude": 10.31
   },
   {
     "Stationsname": "Harburg",
@@ -1023,7 +1249,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.47,
+    "Longitude": 10.43
   },
   {
     "Stationsname": "Grainet-Rehberg",
@@ -1032,7 +1260,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.47,
+    "Longitude": 13.38
   },
   {
     "Stationsname": "Saldenburg-Entschenreuth",
@@ -1041,7 +1271,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.47,
+    "Longitude": 13.19
   },
   {
     "Stationsname": "Mallersdorf-Pfaffenberg-Oberlindhart",
@@ -1050,7 +1282,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.47,
+    "Longitude": 12.15
   },
   {
     "Stationsname": "Donauwörth-Osterweiler",
@@ -1059,7 +1293,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.43,
+    "Longitude": 10.47
   },
   {
     "Stationsname": "Ingolstadt-Manching",
@@ -1068,7 +1304,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.43,
+    "Longitude": 11.32
   },
   {
     "Stationsname": "Neuburg an der Donau",
@@ -1077,7 +1315,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.43,
+    "Longitude": 11.13
   },
   {
     "Stationsname": "Elsendorf-Horneck",
@@ -1086,7 +1326,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.42,
+    "Longitude": 11.48
   },
   {
     "Stationsname": "Gottfrieding",
@@ -1095,7 +1337,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.4,
+    "Longitude": 12.32
   },
   {
     "Stationsname": "Aldersbach-Kramersepp",
@@ -1104,7 +1348,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.37,
+    "Longitude": 13.03
   },
   {
     "Stationsname": "Landshut-Reithof",
@@ -1113,7 +1359,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.32,
+    "Longitude": 12.08
   },
   {
     "Stationsname": "Dillingen/Donau-Fristingen",
@@ -1122,7 +1370,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.34,
+    "Longitude": 10.34
   },
   {
     "Stationsname": "Fürstenzell",
@@ -1131,7 +1381,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.33,
+    "Longitude": 13.21
   },
   {
     "Stationsname": "Günzburg",
@@ -1140,7 +1392,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.29,
+    "Longitude": 10.16
   },
   {
     "Stationsname": "Falkenberg (Kreis Rottal-Inn)",
@@ -1149,7 +1403,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.29,
+    "Longitude": 12.43
   },
   {
     "Stationsname": "Augsburg",
@@ -1158,7 +1414,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.26,
+    "Longitude": 10.56
   },
   {
     "Stationsname": "Altomünster-Maisbrunn",
@@ -1167,7 +1425,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.23,
+    "Longitude": 11.15
   },
   {
     "Stationsname": "Freising-Dürnast",
@@ -1176,7 +1436,21 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Vorschlaege": [
+      {
+        "name": "",
+        "score": 0.0
+      },
+      {
+        "name": "JENNER",
+        "score": 0.0
+      },
+      {
+        "name": "HOELLGRABEN",
+        "score": 0.0
+      }
+    ]
   },
   {
     "Stationsname": "München (Flughafen)",
@@ -1185,7 +1459,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.22,
+    "Longitude": 11.48
   },
   {
     "Stationsname": "Neuburg/Kammel-Langenhaslach",
@@ -1194,7 +1470,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.19,
+    "Longitude": 10.23
   },
   {
     "Stationsname": "Mühldorf",
@@ -1203,7 +1481,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.17,
+    "Longitude": 12.3
   },
   {
     "Stationsname": "Simbach/Inn",
@@ -1212,7 +1492,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.16,
+    "Longitude": 13.02
   },
   {
     "Stationsname": "Maisach-Galgen",
@@ -1221,7 +1503,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.13,
+    "Longitude": 11.12
   },
   {
     "Stationsname": "Lechfeld",
@@ -1230,7 +1514,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.11,
+    "Longitude": 10.51
   },
   {
     "Stationsname": "München-Stadt",
@@ -1239,7 +1525,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.1,
+    "Longitude": 11.32
   },
   {
     "Stationsname": "Ebersberg-Halbing",
@@ -1248,7 +1536,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.05,
+    "Longitude": 11.57
   },
   {
     "Stationsname": "Trostberg",
@@ -1257,7 +1547,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.01,
+    "Longitude": 12.33
   },
   {
     "Stationsname": "Amerang-Pfaffing",
@@ -1266,7 +1558,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.01,
+    "Longitude": 12.17
   },
   {
     "Stationsname": "Oberhaching-Laufzorn",
@@ -1275,7 +1569,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 48.01,
+    "Longitude": 11.33
   },
   {
     "Stationsname": "Memmingen",
@@ -1284,7 +1580,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 47.59,
+    "Longitude": 10.14
   },
   {
     "Stationsname": "Chieming",
@@ -1293,7 +1591,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 47.53,
+    "Longitude": 12.32
   },
   {
     "Stationsname": "Wielenbach",
@@ -1302,7 +1602,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 47.53,
+    "Longitude": 11.1
   },
   {
     "Stationsname": "Holzkirchen",
@@ -1311,7 +1613,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 47.53,
+    "Longitude": 11.42
   },
   {
     "Stationsname": "Attenkam",
@@ -1320,7 +1624,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 47.53,
+    "Longitude": 11.22
   },
   {
     "Stationsname": "Kaufbeuren-Oberbeuren",
@@ -1329,7 +1635,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 47.53,
+    "Longitude": 10.36
   },
   {
     "Stationsname": "Siegsdorf-Höll",
@@ -1338,7 +1646,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 47.5,
+    "Longitude": 12.39
   },
   {
     "Stationsname": "Altenstadt",
@@ -1347,7 +1657,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 47.5,
+    "Longitude": 10.52
   },
   {
     "Stationsname": "Hohenpeißenberg",
@@ -1356,7 +1668,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 47.48,
+    "Longitude": 11.01
   },
   {
     "Stationsname": "Piding",
@@ -1365,7 +1679,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 47.46,
+    "Longitude": 12.55
   },
   {
     "Stationsname": "Kempten",
@@ -1374,7 +1690,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 47.43,
+    "Longitude": 10.2
   },
   {
     "Stationsname": "Bad Kohlgrub",
@@ -1383,7 +1701,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 47.4,
+    "Longitude": 11.05
   },
   {
     "Stationsname": "Oy-Mittelberg-Petersthal",
@@ -1392,7 +1712,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 47.38,
+    "Longitude": 10.23
   },
   {
     "Stationsname": "Kiefersfelden-Gach",
@@ -1401,7 +1723,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 47.37,
+    "Longitude": 12.1
   },
   {
     "Stationsname": "Sigmarszell",
@@ -1410,7 +1734,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 47.35,
+    "Longitude": 9.44
   },
   {
     "Stationsname": "Garmisch-Partenkirchen",
@@ -1419,7 +1745,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 47.29,
+    "Longitude": 11.04
   },
   {
     "Stationsname": "Oberstdorf",
@@ -1428,7 +1756,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Bayern"
+    "Bundesland": "Bayern",
+    "Latitude": 47.24,
+    "Longitude": 10.17
   },
   {
     "Stationsname": "Berlin-Buch",
@@ -1437,7 +1767,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "1",
-    "Bundesland": "Berlin"
+    "Bundesland": "Berlin",
+    "Latitude": 52.38,
+    "Longitude": 13.3
   },
   {
     "Stationsname": "Berlin-Marzahn",
@@ -1446,7 +1778,9 @@
     "Do 22.05.": "4",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Berlin"
+    "Bundesland": "Berlin",
+    "Latitude": 52.32,
+    "Longitude": 13.34
   },
   {
     "Stationsname": "Berlin-Tempelhof",
@@ -1455,7 +1789,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Berlin"
+    "Bundesland": "Berlin",
+    "Latitude": 52.28,
+    "Longitude": 13.24
   },
   {
     "Stationsname": "Berlin-Dahlem",
@@ -1464,7 +1800,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Berlin"
+    "Bundesland": "Berlin",
+    "Latitude": 52.28,
+    "Longitude": 13.18
   },
   {
     "Stationsname": "Grünow",
@@ -1473,7 +1811,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 53.19,
+    "Longitude": 13.56
   },
   {
     "Stationsname": "Wittstock-Rote Mühle",
@@ -1482,7 +1822,9 @@
     "Do 22.05.": "4",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 53.11,
+    "Longitude": 12.31
   },
   {
     "Stationsname": "Stechlin-Menz",
@@ -1491,7 +1833,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 53.06,
+    "Longitude": 13.02
   },
   {
     "Stationsname": "Lenzen/Elbe",
@@ -1500,7 +1844,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 53.06,
+    "Longitude": 11.29
   },
   {
     "Stationsname": "Angermünde",
@@ -1509,7 +1855,9 @@
     "Do 22.05.": "4",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 53.02,
+    "Longitude": 14.0
   },
   {
     "Stationsname": "Zehdenick",
@@ -1518,7 +1866,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 52.58,
+    "Longitude": 13.2
   },
   {
     "Stationsname": "Neuruppin-Alt Ruppin",
@@ -1527,7 +1877,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 52.54,
+    "Longitude": 12.49
   },
   {
     "Stationsname": "Kyritz",
@@ -1536,7 +1888,9 @@
     "Do 22.05.": "4",
     "Fr 23.05.": "2",
     "Sa 24.05.": "1",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 52.56,
+    "Longitude": 12.25
   },
   {
     "Stationsname": "Heckelberg",
@@ -1545,7 +1899,9 @@
     "Do 22.05.": "4",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 52.45,
+    "Longitude": 13.5
   },
   {
     "Stationsname": "Berge",
@@ -1554,7 +1910,9 @@
     "Do 22.05.": "4",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 52.37,
+    "Longitude": 12.47
   },
   {
     "Stationsname": "Manschnow",
@@ -1563,7 +1921,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "1",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 52.33,
+    "Longitude": 14.33
   },
   {
     "Stationsname": "Müncheberg",
@@ -1572,7 +1932,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 52.31,
+    "Longitude": 14.07
   },
   {
     "Stationsname": "Potsdam",
@@ -1581,7 +1943,9 @@
     "Do 22.05.": "4",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 52.23,
+    "Longitude": 13.04
   },
   {
     "Stationsname": "Berlin Brandenburg (Flughafen)",
@@ -1590,7 +1954,9 @@
     "Do 22.05.": "4",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 52.23,
+    "Longitude": 13.31
   },
   {
     "Stationsname": "Wusterwitz",
@@ -1599,7 +1965,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 52.22,
+    "Longitude": 12.23
   },
   {
     "Stationsname": "Lindenberg",
@@ -1608,7 +1976,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 52.13,
+    "Longitude": 14.07
   },
   {
     "Stationsname": "Wiesenburg",
@@ -1617,7 +1987,9 @@
     "Do 22.05.": "4",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 52.07,
+    "Longitude": 12.28
   },
   {
     "Stationsname": "Baruth",
@@ -1626,7 +1998,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 52.04,
+    "Longitude": 13.3
   },
   {
     "Stationsname": "Coschen",
@@ -1635,7 +2009,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 52.01,
+    "Longitude": 14.44
   },
   {
     "Stationsname": "Lübben-Blumenfelde",
@@ -1644,7 +2020,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 51.56,
+    "Longitude": 13.53
   },
   {
     "Stationsname": "Langenlipsdorf",
@@ -1653,7 +2031,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 51.55,
+    "Longitude": 13.05
   },
   {
     "Stationsname": "Cottbus",
@@ -1662,7 +2042,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 51.47,
+    "Longitude": 14.19
   },
   {
     "Stationsname": "Holzdorf-Bernsdorf",
@@ -1671,7 +2053,9 @@
     "Do 22.05.": "4",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 51.46,
+    "Longitude": 13.11
   },
   {
     "Stationsname": "Doberlug-Kirchhain",
@@ -1680,7 +2064,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 51.39,
+    "Longitude": 13.34
   },
   {
     "Stationsname": "Schipkau-Klettwitz",
@@ -1689,7 +2075,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Brandenburg"
+    "Bundesland": "Brandenburg",
+    "Latitude": 51.34,
+    "Longitude": 13.53
   },
   {
     "Stationsname": "Bremerhaven",
@@ -1698,7 +2086,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Bremen"
+    "Bundesland": "Bremen",
+    "Latitude": 53.32,
+    "Longitude": 8.35
   },
   {
     "Stationsname": "Bremen (Flughafen)",
@@ -1707,7 +2097,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Bremen"
+    "Bundesland": "Bremen",
+    "Latitude": 53.03,
+    "Longitude": 8.48
   },
   {
     "Stationsname": "Hamburg (Flughafen)",
@@ -1716,7 +2108,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hamburg"
+    "Bundesland": "Hamburg",
+    "Latitude": 53.38,
+    "Longitude": 10.0
   },
   {
     "Stationsname": "Hamburg-Neuwiedenthal",
@@ -1725,7 +2119,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hamburg"
+    "Bundesland": "Hamburg",
+    "Latitude": 53.29,
+    "Longitude": 9.54
   },
   {
     "Stationsname": "Wesertal-Lippoldsberg",
@@ -1734,7 +2130,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 51.37,
+    "Longitude": 9.35
   },
   {
     "Stationsname": "Twistetal-Mühlhausen",
@@ -1743,7 +2141,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 51.12,
+    "Longitude": 10.3
   },
   {
     "Stationsname": "Schauenburg-Elgershausen",
@@ -1752,7 +2152,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 51.17,
+    "Longitude": 9.22
   },
   {
     "Stationsname": "Eschwege",
@@ -1761,7 +2163,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 51.11,
+    "Longitude": 10.04
   },
   {
     "Stationsname": "Fritzlar/Eder",
@@ -1770,7 +2174,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 51.07,
+    "Longitude": 9.17
   },
   {
     "Stationsname": "Sontra",
@@ -1779,7 +2185,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 51.03,
+    "Longitude": 9.55
   },
   {
     "Stationsname": "Burgwald-Bottendorf",
@@ -1788,7 +2196,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 51.02,
+    "Longitude": 8.49
   },
   {
     "Stationsname": "Gilserberg-Moischeid",
@@ -1797,7 +2207,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.58,
+    "Longitude": 9.03
   },
   {
     "Stationsname": "Neukirchen-Hauptschwenda",
@@ -1806,7 +2218,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 51.04,
+    "Longitude": 10.2
   },
   {
     "Stationsname": "Bad Hersfeld",
@@ -1815,7 +2229,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.51,
+    "Longitude": 9.44
   },
   {
     "Stationsname": "Cölbe",
@@ -1824,7 +2240,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.51,
+    "Longitude": 8.46
   },
   {
     "Stationsname": "Neu-Ulrichstein",
@@ -1833,7 +2251,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.35,
+    "Longitude": 9.12
   },
   {
     "Stationsname": "Alsfeld-Eifa",
@@ -1842,7 +2262,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.44,
+    "Longitude": 9.2
   },
   {
     "Stationsname": "Tann/Rhön",
@@ -1851,7 +2273,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.38,
+    "Longitude": 10.01
   },
   {
     "Stationsname": "Wettenberg bei Gießen",
@@ -1860,7 +2284,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.36,
+    "Longitude": 8.38
   },
   {
     "Stationsname": "Fulda-Horas",
@@ -1869,7 +2295,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.33,
+    "Longitude": 9.39
   },
   {
     "Stationsname": "Löhnberg-Obershausen",
@@ -1878,7 +2306,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.34,
+    "Longitude": 8.14
   },
   {
     "Stationsname": "Hoherodskopf/Vogelsberg",
@@ -1887,7 +2317,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.32,
+    "Longitude": 9.14
   },
   {
     "Stationsname": "Wasserkuppe",
@@ -1896,7 +2328,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.3,
+    "Longitude": 9.56
   },
   {
     "Stationsname": "Runkel-Ennerich",
@@ -1905,7 +2339,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.23,
+    "Longitude": 8.08
   },
   {
     "Stationsname": "Bad Nauheim",
@@ -1914,7 +2350,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.22,
+    "Longitude": 8.46
   },
   {
     "Stationsname": "Schlüchtern-Herolz",
@@ -1923,7 +2361,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.21,
+    "Longitude": 9.31
   },
   {
     "Stationsname": "Gründau-Breitenborn",
@@ -1932,7 +2372,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.16,
+    "Longitude": 9.11
   },
   {
     "Stationsname": "Waldems-Reinborn",
@@ -1941,7 +2383,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.16,
+    "Longitude": 8.21
   },
   {
     "Stationsname": "Kleiner Feldberg/Taunus",
@@ -1950,7 +2394,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 47.53,
+    "Longitude": 8.0
   },
   {
     "Stationsname": "Wiesbaden-Auringen",
@@ -1959,7 +2405,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.03,
+    "Longitude": 8.2
   },
   {
     "Stationsname": "Frankfurt/Main-Westend",
@@ -1968,7 +2416,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.05,
+    "Longitude": 8.35
   },
   {
     "Stationsname": "Offenbach-Wetterpark",
@@ -1977,7 +2427,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.07,
+    "Longitude": 8.44
   },
   {
     "Stationsname": "Frankfurt (Flughafen)",
@@ -1986,7 +2438,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 50.05,
+    "Longitude": 8.35
   },
   {
     "Stationsname": "Geisenheim",
@@ -1995,7 +2449,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 49.59,
+    "Longitude": 7.57
   },
   {
     "Stationsname": "Schaafheim-Schlierbach",
@@ -2004,7 +2460,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 49.55,
+    "Longitude": 8.58
   },
   {
     "Stationsname": "Darmstadt",
@@ -2013,7 +2471,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 49.53,
+    "Longitude": 8.41
   },
   {
     "Stationsname": "Michelstadt-Vielbrunn",
@@ -2022,7 +2482,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 49.43,
+    "Longitude": 9.06
   },
   {
     "Stationsname": "Michelstadt",
@@ -2031,7 +2493,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 49.43,
+    "Longitude": 9.06
   },
   {
     "Stationsname": "Oberzent-Beerfelden",
@@ -2040,7 +2504,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Hessen"
+    "Bundesland": "Hessen",
+    "Latitude": 49.34,
+    "Longitude": 8.58
   },
   {
     "Stationsname": "Arkona",
@@ -2049,7 +2515,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 54.41,
+    "Longitude": 13.26
   },
   {
     "Stationsname": "Insel Hiddensee",
@@ -2058,7 +2526,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 54.34,
+    "Longitude": 13.06
   },
   {
     "Stationsname": "Putbus",
@@ -2067,7 +2537,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "1",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 54.22,
+    "Longitude": 13.29
   },
   {
     "Stationsname": "Barth",
@@ -2076,7 +2548,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 54.2,
+    "Longitude": 12.43
   },
   {
     "Stationsname": "Steinhagen-Negast",
@@ -2085,7 +2559,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "1",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 52.01,
+    "Longitude": 8.25
   },
   {
     "Stationsname": "Greifswalder Oie",
@@ -2094,7 +2570,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 54.14,
+    "Longitude": 13.55
   },
   {
     "Stationsname": "Rostock-Warnemünde",
@@ -2103,7 +2581,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 54.11,
+    "Longitude": 12.05
   },
   {
     "Stationsname": "Karlshagen",
@@ -2112,7 +2592,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 54.06,
+    "Longitude": 13.49
   },
   {
     "Stationsname": "Greifswald",
@@ -2121,7 +2603,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 54.06,
+    "Longitude": 13.25
   },
   {
     "Stationsname": "Groß Lüsewitz",
@@ -2130,7 +2614,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 54.04,
+    "Longitude": 12.2
   },
   {
     "Stationsname": "Tribsees",
@@ -2139,7 +2625,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "1",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 54.05,
+    "Longitude": 12.47
   },
   {
     "Stationsname": "Boltenhagen",
@@ -2148,7 +2636,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "1",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 54.0,
+    "Longitude": 11.11
   },
   {
     "Stationsname": "Kirchdorf/Poel",
@@ -2157,7 +2647,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 54.0,
+    "Longitude": 11.26
   },
   {
     "Stationsname": "Laage-Kronskamp",
@@ -2166,7 +2658,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 53.55,
+    "Longitude": 12.17
   },
   {
     "Stationsname": "Anklam",
@@ -2175,7 +2669,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 53.5,
+    "Longitude": 13.41
   },
   {
     "Stationsname": "Gülzow-Prüzen",
@@ -2184,7 +2680,21 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Vorschlaege": [
+      {
+        "name": "",
+        "score": 0.0
+      },
+      {
+        "name": "JENNER",
+        "score": 0.0
+      },
+      {
+        "name": "HOELLGRABEN",
+        "score": 0.0
+      }
+    ]
   },
   {
     "Stationsname": "Teterow",
@@ -2193,7 +2703,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 53.46,
+    "Longitude": 12.37
   },
   {
     "Stationsname": "Ueckermünde",
@@ -2202,7 +2714,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 53.44,
+    "Longitude": 14.04
   },
   {
     "Stationsname": "Schwerin",
@@ -2211,7 +2725,9 @@
     "Do 22.05.": "4",
     "Fr 23.05.": "3",
     "Sa 24.05.": "1",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 53.38,
+    "Longitude": 11.23
   },
   {
     "Stationsname": "Goldberg",
@@ -2220,7 +2736,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "1",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 53.37,
+    "Longitude": 12.06
   },
   {
     "Stationsname": "Trollenhagen",
@@ -2229,7 +2747,9 @@
     "Do 22.05.": "4",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 53.36,
+    "Longitude": 13.18
   },
   {
     "Stationsname": "Waren (Müritz)",
@@ -2238,7 +2758,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "1",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 53.31,
+    "Longitude": 12.4
   },
   {
     "Stationsname": "Boizenburg",
@@ -2247,7 +2769,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "1",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 53.23,
+    "Longitude": 10.41
   },
   {
     "Stationsname": "Grambow-Schwennenz",
@@ -2256,7 +2780,9 @@
     "Do 22.05.": "4",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 53.23,
+    "Longitude": 14.22
   },
   {
     "Stationsname": "Marnitz",
@@ -2265,7 +2791,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 53.19,
+    "Longitude": 11.56
   },
   {
     "Stationsname": "Feldberg/Mecklenburg",
@@ -2274,7 +2802,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Mecklenburg-Vorpommern"
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Latitude": 53.19,
+    "Longitude": 13.25
   },
   {
     "Stationsname": "Cuxhaven",
@@ -2283,7 +2813,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 53.52,
+    "Longitude": 8.43
   },
   {
     "Stationsname": "Freiburg/Elbe",
@@ -2292,7 +2824,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 48.01,
+    "Longitude": 7.5
   },
   {
     "Stationsname": "Nordholz-Wanhöden",
@@ -2301,7 +2835,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 53.46,
+    "Longitude": 8.4
   },
   {
     "Stationsname": "Norderney",
@@ -2310,7 +2846,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 53.43,
+    "Longitude": 7.09
   },
   {
     "Stationsname": "Steinau (Kreis Cuxhaven)",
@@ -2319,7 +2857,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 53.52,
+    "Longitude": 8.43
   },
   {
     "Stationsname": "Wangerland-Hooksiel",
@@ -2328,7 +2868,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 53.38,
+    "Longitude": 8.05
   },
   {
     "Stationsname": "Borkum",
@@ -2337,7 +2879,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 53.34,
+    "Longitude": 6.45
   },
   {
     "Stationsname": "Mittelnkirchen-Hohenfelde",
@@ -2346,7 +2890,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 53.33,
+    "Longitude": 9.37
   },
   {
     "Stationsname": "Wittmundhafen",
@@ -2355,7 +2901,21 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Vorschlaege": [
+      {
+        "name": "",
+        "score": 0.0
+      },
+      {
+        "name": "JENNER",
+        "score": 0.0
+      },
+      {
+        "name": "HOELLGRABEN",
+        "score": 0.0
+      }
+    ]
   },
   {
     "Stationsname": "Bremervörde",
@@ -2364,7 +2924,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 53.3,
+    "Longitude": 9.1
   },
   {
     "Stationsname": "Emden",
@@ -2373,7 +2935,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 53.21,
+    "Longitude": 7.12
   },
   {
     "Stationsname": "Rosengarten-Klecken",
@@ -2382,7 +2946,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 53.22,
+    "Longitude": 9.57
   },
   {
     "Stationsname": "Worpswede-Hüttenbusch",
@@ -2391,7 +2957,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 53.17,
+    "Longitude": 8.59
   },
   {
     "Stationsname": "Wendisch Evern",
@@ -2400,7 +2968,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "1",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 53.13,
+    "Longitude": 10.28
   },
   {
     "Stationsname": "Rotenburg/Wümme",
@@ -2409,7 +2979,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 53.08,
+    "Longitude": 9.21
   },
   {
     "Stationsname": "Friesoythe-Altenoythe",
@@ -2418,7 +2990,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 53.01,
+    "Longitude": 7.52
   },
   {
     "Stationsname": "Lüchow",
@@ -2427,7 +3001,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.58,
+    "Longitude": 11.08
   },
   {
     "Stationsname": "Soltau",
@@ -2436,7 +3012,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.58,
+    "Longitude": 9.47
   },
   {
     "Stationsname": "Dörpen",
@@ -2445,7 +3023,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.57,
+    "Longitude": 7.19
   },
   {
     "Stationsname": "Uelzen",
@@ -2454,7 +3034,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.56,
+    "Longitude": 10.32
   },
   {
     "Stationsname": "Großenkneten",
@@ -2463,7 +3045,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.55,
+    "Longitude": 8.13
   },
   {
     "Stationsname": "Faßberg",
@@ -2472,7 +3056,9 @@
     "Do 22.05.": "4",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.55,
+    "Longitude": 10.11
   },
   {
     "Stationsname": "Bassum",
@@ -2481,7 +3067,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.52,
+    "Longitude": 8.42
   },
   {
     "Stationsname": "Bergen",
@@ -2490,7 +3078,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 60.18,
+    "Longitude": 5.13
   },
   {
     "Stationsname": "Groß Berßen",
@@ -2499,7 +3089,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.46,
+    "Longitude": 7.29
   },
   {
     "Stationsname": "Meppen",
@@ -2508,7 +3100,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.42,
+    "Longitude": 7.18
   },
   {
     "Stationsname": "Nienburg",
@@ -2517,7 +3111,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.4,
+    "Longitude": 9.13
   },
   {
     "Stationsname": "Wittingen-Vorhop",
@@ -2526,7 +3122,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.43,
+    "Longitude": 10.44
   },
   {
     "Stationsname": "Celle",
@@ -2535,7 +3133,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.36,
+    "Longitude": 10.01
   },
   {
     "Stationsname": "Diepholz",
@@ -2544,7 +3144,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.35,
+    "Longitude": 8.21
   },
   {
     "Stationsname": "Lingen-Baccum",
@@ -2553,7 +3155,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.31,
+    "Longitude": 7.25
   },
   {
     "Stationsname": "Alfhausen",
@@ -2562,7 +3166,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.29,
+    "Longitude": 7.55
   },
   {
     "Stationsname": "Hannover (Flughafen)",
@@ -2571,7 +3177,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.28,
+    "Longitude": 9.41
   },
   {
     "Stationsname": "Wunstorf",
@@ -2580,7 +3188,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.27,
+    "Longitude": 9.26
   },
   {
     "Stationsname": "Barsinghausen-Hohenbostel",
@@ -2589,7 +3199,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.18,
+    "Longitude": 9.28
   },
   {
     "Stationsname": "Belm",
@@ -2598,7 +3210,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.19,
+    "Longitude": 8.1
   },
   {
     "Stationsname": "Braunschweig",
@@ -2607,7 +3221,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.17,
+    "Longitude": 10.27
   },
   {
     "Stationsname": "Bückeburg",
@@ -2616,7 +3232,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.17,
+    "Longitude": 9.05
   },
   {
     "Stationsname": "Algermissen-Groß Lobke",
@@ -2625,7 +3243,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.11,
+    "Longitude": 9.57
   },
   {
     "Stationsname": "Helmstedt-Emmerstedt",
@@ -2634,7 +3254,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.15,
+    "Longitude": 10.58
   },
   {
     "Stationsname": "Hameln-Hastenbeck",
@@ -2643,7 +3265,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 52.05,
+    "Longitude": 9.25
   },
   {
     "Stationsname": "Alfeld",
@@ -2652,7 +3276,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 51.58,
+    "Longitude": 9.48
   },
   {
     "Stationsname": "Seesen",
@@ -2661,7 +3287,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 51.54,
+    "Longitude": 10.11
   },
   {
     "Stationsname": "Bad Harzburg",
@@ -2670,7 +3298,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 51.54,
+    "Longitude": 10.34
   },
   {
     "Stationsname": "Bevern (Kreis Holzminden)",
@@ -2679,7 +3309,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 51.49,
+    "Longitude": 9.28
   },
   {
     "Stationsname": "Braunlage",
@@ -2688,7 +3320,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "1",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 51.43,
+    "Longitude": 10.36
   },
   {
     "Stationsname": "Moringen-Lutterbeck",
@@ -2697,7 +3331,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 51.43,
+    "Longitude": 9.5
   },
   {
     "Stationsname": "Herzberg",
@@ -2706,7 +3342,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 51.38,
+    "Longitude": 10.22
   },
   {
     "Stationsname": "Göttingen",
@@ -2715,7 +3353,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Niedersachsen"
+    "Bundesland": "Niedersachsen",
+    "Latitude": 51.3,
+    "Longitude": 9.57
   },
   {
     "Stationsname": "Rahden-Kleinendorf",
@@ -2724,7 +3364,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 52.27,
+    "Longitude": 8.35
   },
   {
     "Stationsname": "Münster/Osnabrück (Flughafen)",
@@ -2733,7 +3375,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 52.15,
+    "Longitude": 8.03
   },
   {
     "Stationsname": "Bad Salzuflen",
@@ -2742,7 +3386,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 52.06,
+    "Longitude": 8.45
   },
   {
     "Stationsname": "Ahaus",
@@ -2751,7 +3397,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 52.05,
+    "Longitude": 6.56
   },
   {
     "Stationsname": "Bielefeld-Deppendorf",
@@ -2760,7 +3408,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.58,
+    "Longitude": 8.33
   },
   {
     "Stationsname": "Borken in Westfalen",
@@ -2769,7 +3419,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.52,
+    "Longitude": 6.53
   },
   {
     "Stationsname": "Lügde-Paenbruch",
@@ -2778,7 +3430,21 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Vorschlaege": [
+      {
+        "name": "",
+        "score": 0.0
+      },
+      {
+        "name": "JENNER",
+        "score": 0.0
+      },
+      {
+        "name": "HOELLGRABEN",
+        "score": 0.0
+      }
+    ]
   },
   {
     "Stationsname": "Ennigerloh-Ostenfelde",
@@ -2787,7 +3453,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.51,
+    "Longitude": 8.02
   },
   {
     "Stationsname": "Bad Lippspringe",
@@ -2796,7 +3464,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.47,
+    "Longitude": 8.5
   },
   {
     "Stationsname": "Lüdinghausen-Brochtrup",
@@ -2805,7 +3475,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.46,
+    "Longitude": 7.31
   },
   {
     "Stationsname": "Kleve",
@@ -2814,7 +3486,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.46,
+    "Longitude": 6.06
   },
   {
     "Stationsname": "Lippstadt-Bökenförde",
@@ -2823,7 +3497,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.38,
+    "Longitude": 8.23
   },
   {
     "Stationsname": "Waltrop-Abdinghof",
@@ -2832,7 +3508,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.38,
+    "Longitude": 7.24
   },
   {
     "Stationsname": "Werl",
@@ -2841,7 +3519,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.35,
+    "Longitude": 7.53
   },
   {
     "Stationsname": "Duisburg-Baerl",
@@ -2850,7 +3530,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.28,
+    "Longitude": 6.44
   },
   {
     "Stationsname": "Warburg",
@@ -2859,7 +3541,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.3,
+    "Longitude": 9.07
   },
   {
     "Stationsname": "Bochum",
@@ -2868,7 +3552,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.28,
+    "Longitude": 7.11
   },
   {
     "Stationsname": "Geldern-Walbeck",
@@ -2877,7 +3563,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.3,
+    "Longitude": 6.14
   },
   {
     "Stationsname": "Arnsberg-Neheim",
@@ -2886,7 +3574,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.23,
+    "Longitude": 8.04
   },
   {
     "Stationsname": "Brilon-Thülen",
@@ -2895,7 +3585,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.25,
+    "Longitude": 8.39
   },
   {
     "Stationsname": "Essen-Bredeney",
@@ -2904,7 +3596,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.24,
+    "Longitude": 6.58
   },
   {
     "Stationsname": "Gevelsberg-Oberbröking",
@@ -2913,7 +3607,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.2,
+    "Longitude": 7.2
   },
   {
     "Stationsname": "Düsseldorf (Flughafen)",
@@ -2922,7 +3618,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.18,
+    "Longitude": 6.46
   },
   {
     "Stationsname": "Tönisvorst",
@@ -2931,7 +3629,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.17,
+    "Longitude": 6.26
   },
   {
     "Stationsname": "Eslohe",
@@ -2940,7 +3640,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.16,
+    "Longitude": 8.1
   },
   {
     "Stationsname": "Lüdenscheid",
@@ -2949,7 +3651,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.15,
+    "Longitude": 7.38
   },
   {
     "Stationsname": "Wuppertal-Buchenhofen",
@@ -2958,7 +3662,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.13,
+    "Longitude": 7.07
   },
   {
     "Stationsname": "Kahler Asten",
@@ -2967,7 +3673,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.11,
+    "Longitude": 8.29
   },
   {
     "Stationsname": "Lennestadt-Theten",
@@ -2976,7 +3684,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.08,
+    "Longitude": 8.02
   },
   {
     "Stationsname": "Mönchengladbach-Hilderath",
@@ -2985,7 +3695,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.14,
+    "Longitude": 6.3
   },
   {
     "Stationsname": "Meinerzhagen-Redlendorf",
@@ -2994,7 +3706,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 51.05,
+    "Longitude": 7.38
   },
   {
     "Stationsname": "Reichshof-Eckenhagen",
@@ -3003,7 +3717,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 50.58,
+    "Longitude": 7.43
   },
   {
     "Stationsname": "Bad Berleburg-Stünzel",
@@ -3012,7 +3728,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 50.59,
+    "Longitude": 8.22
   },
   {
     "Stationsname": "Geilenkirchen-Neutevern",
@@ -3021,7 +3739,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 50.58,
+    "Longitude": 6.03
   },
   {
     "Stationsname": "Köln/Bonn (Flughafen)",
@@ -3030,7 +3750,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 50.52,
+    "Longitude": 7.1
   },
   {
     "Stationsname": "Neunkirchen-Seelscheid-Krawinkel",
@@ -3039,7 +3761,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 50.5,
+    "Longitude": 7.22
   },
   {
     "Stationsname": "Nörvenich-Niederbolheim",
@@ -3048,7 +3772,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 50.5,
+    "Longitude": 6.4
   },
   {
     "Stationsname": "Aachen-Orsbach",
@@ -3057,7 +3783,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 50.47,
+    "Longitude": 6.06
   },
   {
     "Stationsname": "Königswinter-Heiderhof",
@@ -3066,7 +3794,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 50.4,
+    "Longitude": 7.11
   },
   {
     "Stationsname": "Weilerswist-Lommersum",
@@ -3075,7 +3805,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 50.43,
+    "Longitude": 6.47
   },
   {
     "Stationsname": "Nideggen-Schmidt",
@@ -3084,7 +3816,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 50.4,
+    "Longitude": 6.25
   },
   {
     "Stationsname": "Kall-Sistig",
@@ -3093,7 +3827,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Nordrhein-Westfalen"
+    "Bundesland": "Nordrhein-Westfalen",
+    "Latitude": 50.3,
+    "Longitude": 6.32
   },
   {
     "Stationsname": "Hilgenroth",
@@ -3102,7 +3838,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 50.44,
+    "Longitude": 7.39
   },
   {
     "Stationsname": "Bad Marienberg",
@@ -3111,7 +3849,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 50.39,
+    "Longitude": 13.09
   },
   {
     "Stationsname": "Hümmerich",
@@ -3120,7 +3860,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 50.34,
+    "Longitude": 7.29
   },
   {
     "Stationsname": "Bad Neuenahr-Ahrweiler",
@@ -3129,7 +3871,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 50.32,
+    "Longitude": 7.05
   },
   {
     "Stationsname": "Montabaur",
@@ -3138,7 +3882,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 50.26,
+    "Longitude": 7.49
   },
   {
     "Stationsname": "Andernach",
@@ -3147,7 +3893,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 50.26,
+    "Longitude": 7.26
   },
   {
     "Stationsname": "Nürburg-Barweiler",
@@ -3156,7 +3904,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 50.2,
+    "Longitude": 6.57
   },
   {
     "Stationsname": "Schneifelforsthaus",
@@ -3165,7 +3915,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 50.17,
+    "Longitude": 6.25
   },
   {
     "Stationsname": "Büchel",
@@ -3174,7 +3926,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 50.1,
+    "Longitude": 7.04
   },
   {
     "Stationsname": "Manderscheid",
@@ -3183,7 +3937,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 50.06,
+    "Longitude": 6.48
   },
   {
     "Stationsname": "Blankenrath",
@@ -3192,7 +3948,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 50.02,
+    "Longitude": 7.18
   },
   {
     "Stationsname": "Wahlbach bei Simmern",
@@ -3201,7 +3959,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 50.0,
+    "Longitude": 7.35
   },
   {
     "Stationsname": "Mainz-Lerchenberg",
@@ -3210,7 +3970,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 49.59,
+    "Longitude": 8.16
   },
   {
     "Stationsname": "Hahn",
@@ -3219,7 +3981,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 49.57,
+    "Longitude": 7.16
   },
   {
     "Stationsname": "Olsdorf",
@@ -3228,7 +3992,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 49.56,
+    "Longitude": 6.23
   },
   {
     "Stationsname": "Bad Kreuznach",
@@ -3237,7 +4003,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 49.51,
+    "Longitude": 7.52
   },
   {
     "Stationsname": "Deuselbach",
@@ -3246,7 +4014,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 49.46,
+    "Longitude": 7.03
   },
   {
     "Stationsname": "Trier-Petrisberg",
@@ -3255,7 +4025,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 49.45,
+    "Longitude": 6.4
   },
   {
     "Stationsname": "Trier",
@@ -3264,7 +4036,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 49.45,
+    "Longitude": 6.4
   },
   {
     "Stationsname": "Alzey",
@@ -3273,7 +4047,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 49.45,
+    "Longitude": 8.07
   },
   {
     "Stationsname": "Idar-Oberstein",
@@ -3282,7 +4058,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 49.42,
+    "Longitude": 7.2
   },
   {
     "Stationsname": "Ruppertsecken",
@@ -3291,7 +4069,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 49.39,
+    "Longitude": 7.53
   },
   {
     "Stationsname": "Worms",
@@ -3300,7 +4080,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 49.38,
+    "Longitude": 8.23
   },
   {
     "Stationsname": "Bad Dürkheim",
@@ -3309,7 +4091,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 49.28,
+    "Longitude": 8.11
   },
   {
     "Stationsname": "Kaiserslautern",
@@ -3318,7 +4102,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 49.27,
+    "Longitude": 7.47
   },
   {
     "Stationsname": "Weinbiet",
@@ -3327,7 +4113,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 49.23,
+    "Longitude": 8.07
   },
   {
     "Stationsname": "Pirmasens",
@@ -3336,7 +4124,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 49.13,
+    "Longitude": 7.35
   },
   {
     "Stationsname": "Bad Bergzabern",
@@ -3345,7 +4135,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Rheinland-Pfalz"
+    "Bundesland": "Rheinland-Pfalz",
+    "Latitude": 49.07,
+    "Longitude": 8.0
   },
   {
     "Stationsname": "Weiskirchen/Saar",
@@ -3354,7 +4146,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Saarland"
+    "Bundesland": "Saarland",
+    "Latitude": 49.33,
+    "Longitude": 6.49
   },
   {
     "Stationsname": "Perl-Nennig",
@@ -3363,7 +4157,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Saarland"
+    "Bundesland": "Saarland",
+    "Latitude": 49.28,
+    "Longitude": 6.23
   },
   {
     "Stationsname": "Tholey",
@@ -3372,7 +4168,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Saarland"
+    "Bundesland": "Saarland",
+    "Latitude": 49.29,
+    "Longitude": 7.03
   },
   {
     "Stationsname": "Neunkirchen-Wellesweiler",
@@ -3381,7 +4179,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Saarland"
+    "Bundesland": "Saarland",
+    "Latitude": 50.5,
+    "Longitude": 7.22
   },
   {
     "Stationsname": "Berus",
@@ -3390,7 +4190,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Saarland"
+    "Bundesland": "Saarland",
+    "Latitude": 49.16,
+    "Longitude": 6.41
   },
   {
     "Stationsname": "Saarbrücken-Burbach",
@@ -3399,7 +4201,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Saarland"
+    "Bundesland": "Saarland",
+    "Latitude": 49.13,
+    "Longitude": 7.07
   },
   {
     "Stationsname": "Saarbrücken (Flughafen)",
@@ -3408,7 +4212,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Saarland"
+    "Bundesland": "Saarland",
+    "Latitude": 49.13,
+    "Longitude": 7.07
   },
   {
     "Stationsname": "Bad Muskau",
@@ -3417,7 +4223,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 51.34,
+    "Longitude": 14.42
   },
   {
     "Stationsname": "Klitzschen bei Torgau",
@@ -3426,7 +4234,9 @@
     "Do 22.05.": "4",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 51.35,
+    "Longitude": 13.0
   },
   {
     "Stationsname": "Hoyerswerda",
@@ -3435,7 +4245,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 51.27,
+    "Longitude": 14.15
   },
   {
     "Stationsname": "Leipzig/Halle (Flughafen)",
@@ -3444,7 +4256,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 51.19,
+    "Longitude": 12.25
   },
   {
     "Stationsname": "Leipzig-Holzhausen",
@@ -3453,7 +4267,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 51.19,
+    "Longitude": 12.25
   },
   {
     "Stationsname": "Oschatz",
@@ -3462,7 +4278,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 51.18,
+    "Longitude": 13.05
   },
   {
     "Stationsname": "Görlitz",
@@ -3471,7 +4289,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 51.1,
+    "Longitude": 14.57
   },
   {
     "Stationsname": "Kubschütz",
@@ -3480,7 +4300,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 51.1,
+    "Longitude": 14.3
   },
   {
     "Stationsname": "Klipphausen-Garsebach",
@@ -3489,7 +4311,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 51.08,
+    "Longitude": 13.26
   },
   {
     "Stationsname": "Dresden-Klotzsche (Flughafen)",
@@ -3498,7 +4322,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 51.08,
+    "Longitude": 13.45
   },
   {
     "Stationsname": "Geringswalde-Altgeringswalde",
@@ -3507,7 +4333,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 51.05,
+    "Longitude": 12.56
   },
   {
     "Stationsname": "Sohland/Spree",
@@ -3516,7 +4344,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 51.04,
+    "Longitude": 14.26
   },
   {
     "Stationsname": "Nossen",
@@ -3525,7 +4355,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 51.03,
+    "Longitude": 13.18
   },
   {
     "Stationsname": "Dresden-Hosterwitz",
@@ -3534,7 +4366,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 51.01,
+    "Longitude": 13.51
   },
   {
     "Stationsname": "Lichtenhain-Mittelndorf",
@@ -3543,7 +4377,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 50.56,
+    "Longitude": 14.13
   },
   {
     "Stationsname": "Dippoldiswalde-Reinberg",
@@ -3552,7 +4388,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 50.55,
+    "Longitude": 13.43
   },
   {
     "Stationsname": "Bertsdorf-Hörnitz",
@@ -3561,7 +4399,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 50.54,
+    "Longitude": 14.45
   },
   {
     "Stationsname": "Chemnitz",
@@ -3570,7 +4410,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 50.47,
+    "Longitude": 12.52
   },
   {
     "Stationsname": "Zinnwald-Georgenfeld",
@@ -3579,7 +4421,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 50.44,
+    "Longitude": 13.45
   },
   {
     "Stationsname": "Lichtentanne",
@@ -3588,7 +4432,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 50.41,
+    "Longitude": 12.26
   },
   {
     "Stationsname": "Marienberg",
@@ -3597,7 +4443,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 50.39,
+    "Longitude": 13.09
   },
   {
     "Stationsname": "Deutschneudorf-Brüderwiese",
@@ -3606,7 +4454,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 50.37,
+    "Longitude": 13.29
   },
   {
     "Stationsname": "Aue",
@@ -3615,7 +4465,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 50.36,
+    "Longitude": 12.43
   },
   {
     "Stationsname": "Treuen",
@@ -3624,7 +4476,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 50.33,
+    "Longitude": 12.17
   },
   {
     "Stationsname": "Plauen",
@@ -3633,7 +4487,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 50.29,
+    "Longitude": 12.08
   },
   {
     "Stationsname": "Carlsfeld",
@@ -3642,7 +4498,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 50.26,
+    "Longitude": 12.37
   },
   {
     "Stationsname": "Bad Elster-Sohl",
@@ -3651,7 +4509,9 @@
     "Do 22.05.": "1",
     "Fr 23.05.": "1",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen"
+    "Bundesland": "Sachsen",
+    "Latitude": 50.16,
+    "Longitude": 12.16
   },
   {
     "Stationsname": "Seehausen",
@@ -3660,7 +4520,9 @@
     "Do 22.05.": "4",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 52.53,
+    "Longitude": 11.44
   },
   {
     "Stationsname": "Gardelegen",
@@ -3669,7 +4531,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "1",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 52.31,
+    "Longitude": 11.23
   },
   {
     "Stationsname": "Demker",
@@ -3678,7 +4542,9 @@
     "Do 22.05.": "4",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 52.31,
+    "Longitude": 11.51
   },
   {
     "Stationsname": "Genthin",
@@ -3687,7 +4553,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 52.23,
+    "Longitude": 12.1
   },
   {
     "Stationsname": "Möckern-Drewitz",
@@ -3696,7 +4564,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": NaN,
+    "Longitude": 52.13
   },
   {
     "Stationsname": "Ummendorf",
@@ -3705,7 +4575,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 52.1,
+    "Longitude": 11.11
   },
   {
     "Stationsname": "Magdeburg",
@@ -3714,7 +4586,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 52.07,
+    "Longitude": 11.35
   },
   {
     "Stationsname": "Huy-Pabstorf",
@@ -3723,7 +4597,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 52.02,
+    "Longitude": 10.58
   },
   {
     "Stationsname": "Wittenberg",
@@ -3732,7 +4608,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 51.53,
+    "Longitude": 12.38
   },
   {
     "Stationsname": "Wernigerode",
@@ -3741,7 +4619,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 51.51,
+    "Longitude": 10.46
   },
   {
     "Stationsname": "Bernburg/Saale",
@@ -3750,7 +4630,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 51.5,
+    "Longitude": 11.43
   },
   {
     "Stationsname": "Quedlinburg",
@@ -3759,7 +4641,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 51.47,
+    "Longitude": 11.09
   },
   {
     "Stationsname": "Wernigerode-Schierke",
@@ -3768,7 +4652,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "1",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 51.51,
+    "Longitude": 10.46
   },
   {
     "Stationsname": "Köthen (Anhalt)",
@@ -3777,7 +4663,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 51.45,
+    "Longitude": 12.01
   },
   {
     "Stationsname": "Aschersleben-Mehringen",
@@ -3786,7 +4674,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 51.44,
+    "Longitude": 11.31
   },
   {
     "Stationsname": "Jeßnitz",
@@ -3795,7 +4685,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 51.41,
+    "Longitude": 12.18
   },
   {
     "Stationsname": "Oberharz am Brocken-Stiege",
@@ -3804,7 +4696,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 51.48,
+    "Longitude": 10.37
   },
   {
     "Stationsname": "Harzgerode",
@@ -3813,7 +4707,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 51.39,
+    "Longitude": 11.08
   },
   {
     "Stationsname": "Bad Lauchstädt",
@@ -3822,7 +4718,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 51.23,
+    "Longitude": 11.53
   },
   {
     "Stationsname": "Querfurt-Lodersleben",
@@ -3831,7 +4729,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 51.23,
+    "Longitude": 11.35
   },
   {
     "Stationsname": "Naumburg-Kreipitzsch/Saale",
@@ -3840,7 +4740,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 51.06,
+    "Longitude": 11.43
   },
   {
     "Stationsname": "Osterfeld",
@@ -3849,7 +4751,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 51.05,
+    "Longitude": 11.56
   },
   {
     "Stationsname": "Zeitz",
@@ -3858,7 +4762,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Sachsen-Anhalt"
+    "Bundesland": "Sachsen-Anhalt",
+    "Latitude": 51.04,
+    "Longitude": 12.08
   },
   {
     "Stationsname": "List auf Sylt",
@@ -3867,7 +4773,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 55.01,
+    "Longitude": 8.25
   },
   {
     "Stationsname": "Glücksburg-Meierwik",
@@ -3876,7 +4784,21 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Vorschlaege": [
+      {
+        "name": "",
+        "score": 0.0
+      },
+      {
+        "name": "JENNER",
+        "score": 0.0
+      },
+      {
+        "name": "HOELLGRABEN",
+        "score": 0.0
+      }
+    ]
   },
   {
     "Stationsname": "Leck",
@@ -3885,7 +4807,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.48,
+    "Longitude": 8.57
   },
   {
     "Stationsname": "Brodersby-Schönhagen",
@@ -3894,7 +4818,21 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Vorschlaege": [
+      {
+        "name": "",
+        "score": 0.0
+      },
+      {
+        "name": "JENNER",
+        "score": 0.0
+      },
+      {
+        "name": "HOELLGRABEN",
+        "score": 0.0
+      }
+    ]
   },
   {
     "Stationsname": "Fehmarn",
@@ -3903,7 +4841,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": NaN,
+    "Longitude": 54.36
   },
   {
     "Stationsname": "Schleswig",
@@ -3912,7 +4852,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "1",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.32,
+    "Longitude": 9.33
   },
   {
     "Stationsname": "Hattstedt",
@@ -3921,7 +4863,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.32,
+    "Longitude": 9.02
   },
   {
     "Stationsname": "Schleswig-Jagel",
@@ -3930,7 +4874,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "1",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.32,
+    "Longitude": 9.33
   },
   {
     "Stationsname": "Kiel-Holtenau",
@@ -3939,7 +4885,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "1",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.23,
+    "Longitude": 10.09
   },
   {
     "Stationsname": "Sankt Peter-Ording",
@@ -3948,7 +4896,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.2,
+    "Longitude": 8.36
   },
   {
     "Stationsname": "Hohwacht",
@@ -3957,7 +4907,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.19,
+    "Longitude": 10.4
   },
   {
     "Stationsname": "Ostenfeld (Rendsburg)",
@@ -3966,7 +4918,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.19,
+    "Longitude": 9.48
   },
   {
     "Stationsname": "Hohn",
@@ -3975,7 +4929,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.19,
+    "Longitude": 9.32
   },
   {
     "Stationsname": "Erfde",
@@ -3984,7 +4940,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "1",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.18,
+    "Longitude": 9.19
   },
   {
     "Stationsname": "Helgoland",
@@ -3993,7 +4951,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.1,
+    "Longitude": 7.53
   },
   {
     "Stationsname": "Dörnick",
@@ -4002,7 +4962,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "1",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.1,
+    "Longitude": 10.21
   },
   {
     "Stationsname": "Pelzerhaken",
@@ -4011,7 +4973,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "1",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.05,
+    "Longitude": 10.53
   },
   {
     "Stationsname": "Elpersbüttel",
@@ -4020,7 +4984,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "3",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.04,
+    "Longitude": 9.01
   },
   {
     "Stationsname": "Wacken",
@@ -4029,7 +4995,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.01,
+    "Longitude": 9.23
   },
   {
     "Stationsname": "Padenstedt",
@@ -4038,7 +5006,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "1",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.02,
+    "Longitude": 9.55
   },
   {
     "Stationsname": "Hasenkrug-Hardebek",
@@ -4047,7 +5017,21 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Vorschlaege": [
+      {
+        "name": "",
+        "score": 0.0
+      },
+      {
+        "name": "JENNER",
+        "score": 0.0
+      },
+      {
+        "name": "HOELLGRABEN",
+        "score": 0.0
+      }
+    ]
   },
   {
     "Stationsname": "Itzehoe",
@@ -4056,7 +5040,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.0,
+    "Longitude": 9.35
   },
   {
     "Stationsname": "Wittenborn",
@@ -4065,7 +5051,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 53.55,
+    "Longitude": 10.14
   },
   {
     "Stationsname": "Lübeck-Blankensee",
@@ -4074,7 +5062,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "1",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 53.49,
+    "Longitude": 10.42
   },
   {
     "Stationsname": "Quickborn",
@@ -4083,7 +5073,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "1",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 53.44,
+    "Longitude": 9.53
   },
   {
     "Stationsname": "Grambek",
@@ -4092,7 +5084,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "1",
     "Sa 24.05.": "1",
-    "Bundesland": "Schleswig-Holstein"
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 53.34,
+    "Longitude": 10.41
   },
   {
     "Stationsname": "Leinefelde",
@@ -4101,7 +5095,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 51.23,
+    "Longitude": 10.19
   },
   {
     "Stationsname": "Artern",
@@ -4110,7 +5106,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 51.22,
+    "Longitude": 11.17
   },
   {
     "Stationsname": "Sondershausen",
@@ -4119,7 +5117,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 51.22,
+    "Longitude": 10.54
   },
   {
     "Stationsname": "Mühlhausen-Görmar/Thüringen",
@@ -4128,7 +5128,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 51.12,
+    "Longitude": 10.3
   },
   {
     "Stationsname": "Olbersleben",
@@ -4137,7 +5139,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 51.09,
+    "Longitude": 11.2
   },
   {
     "Stationsname": "Dachwig",
@@ -4146,7 +5150,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 51.04,
+    "Longitude": 10.52
   },
   {
     "Stationsname": "Weimar-Schöndorf",
@@ -4155,7 +5161,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.59,
+    "Longitude": 11.19
   },
   {
     "Stationsname": "Eisenach",
@@ -4164,7 +5172,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 51.0,
+    "Longitude": 10.22
   },
   {
     "Stationsname": "Erfurt-Weimar (Flughafen)",
@@ -4173,7 +5183,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "3",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.59,
+    "Longitude": 10.58
   },
   {
     "Stationsname": "Starkenberg-Tegkwitz",
@@ -4182,7 +5194,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.59,
+    "Longitude": 12.2
   },
   {
     "Stationsname": "Jena",
@@ -4191,7 +5205,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.56,
+    "Longitude": 11.35
   },
   {
     "Stationsname": "Bad Berka (Flugplatz)",
@@ -4200,7 +5216,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 51.41,
+    "Longitude": 10.07
   },
   {
     "Stationsname": "Waltershausen",
@@ -4209,7 +5227,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.54,
+    "Longitude": 10.33
   },
   {
     "Stationsname": "Gera-Leumnitz",
@@ -4218,7 +5238,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.53,
+    "Longitude": 12.08
   },
   {
     "Stationsname": "Kleiner Inselsberg",
@@ -4227,7 +5249,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.51,
+    "Longitude": 10.29
   },
   {
     "Stationsname": "Salzungen, Bad-Gräfen-Nitzendorf",
@@ -4236,7 +5260,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.48,
+    "Longitude": 10.13
   },
   {
     "Stationsname": "Martinroda",
@@ -4245,7 +5271,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.44,
+    "Longitude": 10.53
   },
   {
     "Stationsname": "Schmieritz-Weltwitz",
@@ -4254,7 +5282,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.44,
+    "Longitude": 11.5
   },
   {
     "Stationsname": "Krölpa-Rockendorf",
@@ -4263,7 +5293,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.41,
+    "Longitude": 11.31
   },
   {
     "Stationsname": "Langenwetzendorf-Göttendorf",
@@ -4272,7 +5304,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.4,
+    "Longitude": 12.05
   },
   {
     "Stationsname": "Schmücke",
@@ -4281,7 +5315,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.39,
+    "Longitude": 10.46
   },
   {
     "Stationsname": "Schwarzburg",
@@ -4290,7 +5326,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.38,
+    "Longitude": 11.11
   },
   {
     "Stationsname": "Schleiz",
@@ -4299,7 +5337,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.34,
+    "Longitude": 11.48
   },
   {
     "Stationsname": "Meiningen",
@@ -4308,7 +5348,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.34,
+    "Longitude": 10.23
   },
   {
     "Stationsname": "Birx/Rhön",
@@ -4317,7 +5359,9 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.32,
+    "Longitude": 10.03
   },
   {
     "Stationsname": "Neuhaus am Rennweg",
@@ -4326,7 +5370,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.3,
+    "Longitude": 11.08
   },
   {
     "Stationsname": "Bad Lobenstein",
@@ -4335,7 +5381,9 @@
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.27,
+    "Longitude": 11.38
   },
   {
     "Stationsname": "Veilsdorf",
@@ -4344,6 +5392,8 @@
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
     "Sa 24.05.": "2",
-    "Bundesland": "Thüringen"
+    "Bundesland": "Thüringen",
+    "Latitude": 50.25,
+    "Longitude": 10.49
   }
 ]
