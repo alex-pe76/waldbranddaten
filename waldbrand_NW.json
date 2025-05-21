@@ -1,338 +1,338 @@
 [
   {
     "Stationsname": "Rahden-Kleinendorf",
-    "Di 20.05.": "3",
     "Mi 21.05.": "3",
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
-    "Sa 24.05.": "2"
+    "Sa 24.05.": "3",
+    "So 25.05.": "2"
   },
   {
     "Stationsname": "Münster/Osnabrück (Flughafen)",
-    "Di 20.05.": "3",
     "Mi 21.05.": "3",
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
-    "Sa 24.05.": "2"
+    "Sa 24.05.": "2",
+    "So 25.05.": "3"
   },
   {
     "Stationsname": "Bad Salzuflen",
-    "Di 20.05.": "3",
     "Mi 21.05.": "3",
-    "Do 22.05.": "2",
+    "Do 22.05.": "3",
     "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
+    "Sa 24.05.": "2",
+    "So 25.05.": "2"
   },
   {
     "Stationsname": "Ahaus",
-    "Di 20.05.": "3",
     "Mi 21.05.": "3",
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
+    "Sa 24.05.": "2",
+    "So 25.05.": "2"
   },
   {
     "Stationsname": "Bielefeld-Deppendorf",
-    "Di 20.05.": "2",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Borken in Westfalen",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "3",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Lügde-Paenbruch",
-    "Di 20.05.": "2",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Ennigerloh-Ostenfelde",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "3",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Bad Lippspringe",
-    "Di 20.05.": "2",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Lüdinghausen-Brochtrup",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "3",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Kleve",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "3",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Lippstadt-Bökenförde",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "3",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Waltrop-Abdinghof",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "3",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Werl",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Duisburg-Baerl",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "3",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Warburg",
-    "Di 20.05.": "2",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "3",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Bochum",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Geldern-Walbeck",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Arnsberg-Neheim",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Brilon-Thülen",
-    "Di 20.05.": "2",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Essen-Bredeney",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Gevelsberg-Oberbröking",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Düsseldorf (Flughafen)",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "3",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "3"
-  },
-  {
-    "Stationsname": "Tönisvorst",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "3",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "3"
-  },
-  {
-    "Stationsname": "Eslohe",
-    "Di 20.05.": "2",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Lüdenscheid",
-    "Di 20.05.": "2",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Wuppertal-Buchenhofen",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Kahler Asten",
-    "Di 20.05.": "2",
-    "Mi 21.05.": "2",
-    "Do 22.05.": "3",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Lennestadt-Theten",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Mönchengladbach-Hilderath",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Meinerzhagen-Redlendorf",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "3",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Reichshof-Eckenhagen",
-    "Di 20.05.": "2",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Bad Berleburg-Stünzel",
-    "Di 20.05.": "2",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Geilenkirchen-Neutevern",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "3",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "3"
-  },
-  {
-    "Stationsname": "Köln/Bonn (Flughafen)",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "3",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Neunkirchen-Seelscheid-Krawinkel",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "3",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Nörvenich-Niederbolheim",
-    "Di 20.05.": "3",
     "Mi 21.05.": "3",
     "Do 22.05.": "3",
     "Fr 23.05.": "3",
-    "Sa 24.05.": "3"
+    "Sa 24.05.": "2",
+    "So 25.05.": "3"
+  },
+  {
+    "Stationsname": "Borken in Westfalen",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "3",
+    "So 25.05.": "3"
+  },
+  {
+    "Stationsname": "Lügde-Paenbruch",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "2"
+  },
+  {
+    "Stationsname": "Ennigerloh-Ostenfelde",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "3"
+  },
+  {
+    "Stationsname": "Bad Lippspringe",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "2"
+  },
+  {
+    "Stationsname": "Lüdinghausen-Brochtrup",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "2"
+  },
+  {
+    "Stationsname": "Kleve",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "3",
+    "Sa 24.05.": "2",
+    "So 25.05.": "2"
+  },
+  {
+    "Stationsname": "Lippstadt-Bökenförde",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "3",
+    "Sa 24.05.": "2",
+    "So 25.05.": "3"
+  },
+  {
+    "Stationsname": "Waltrop-Abdinghof",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "1"
+  },
+  {
+    "Stationsname": "Werl",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "3",
+    "Sa 24.05.": "2",
+    "So 25.05.": "2"
+  },
+  {
+    "Stationsname": "Duisburg-Baerl",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "3",
+    "Sa 24.05.": "3",
+    "So 25.05.": "2"
+  },
+  {
+    "Stationsname": "Warburg",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "2"
+  },
+  {
+    "Stationsname": "Bochum",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "2"
+  },
+  {
+    "Stationsname": "Geldern-Walbeck",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "3",
+    "Sa 24.05.": "3",
+    "So 25.05.": "3"
+  },
+  {
+    "Stationsname": "Arnsberg-Neheim",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "1"
+  },
+  {
+    "Stationsname": "Brilon-Thülen",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "2"
+  },
+  {
+    "Stationsname": "Essen-Bredeney",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "1"
+  },
+  {
+    "Stationsname": "Gevelsberg-Oberbröking",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "1"
+  },
+  {
+    "Stationsname": "Düsseldorf (Flughafen)",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "3",
+    "Sa 24.05.": "3",
+    "So 25.05.": "2"
+  },
+  {
+    "Stationsname": "Tönisvorst",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "3",
+    "Sa 24.05.": "3",
+    "So 25.05.": "2"
+  },
+  {
+    "Stationsname": "Eslohe",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "2"
+  },
+  {
+    "Stationsname": "Lüdenscheid",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "2",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "2"
+  },
+  {
+    "Stationsname": "Wuppertal-Buchenhofen",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "1"
+  },
+  {
+    "Stationsname": "Kahler Asten",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "2"
+  },
+  {
+    "Stationsname": "Lennestadt-Theten",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "3"
+  },
+  {
+    "Stationsname": "Mönchengladbach-Hilderath",
+    "Mi 21.05.": "2",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "3"
+  },
+  {
+    "Stationsname": "Meinerzhagen-Redlendorf",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "1"
+  },
+  {
+    "Stationsname": "Reichshof-Eckenhagen",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "2"
+  },
+  {
+    "Stationsname": "Bad Berleburg-Stünzel",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "2",
+    "Fr 23.05.": "2",
+    "Sa 24.05.": "2",
+    "So 25.05.": "2"
+  },
+  {
+    "Stationsname": "Geilenkirchen-Neutevern",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "3",
+    "Sa 24.05.": "3",
+    "So 25.05.": "2"
+  },
+  {
+    "Stationsname": "Köln/Bonn (Flughafen)",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "3",
+    "Sa 24.05.": "3",
+    "So 25.05.": "1"
+  },
+  {
+    "Stationsname": "Neunkirchen-Seelscheid-Krawinkel",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "3",
+    "Sa 24.05.": "3",
+    "So 25.05.": "3"
+  },
+  {
+    "Stationsname": "Nörvenich-Niederbolheim",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "3",
+    "Sa 24.05.": "3",
+    "So 25.05.": "3"
   },
   {
     "Stationsname": "Aachen-Orsbach",
-    "Di 20.05.": "3",
     "Mi 21.05.": "3",
-    "Do 22.05.": "3",
+    "Do 22.05.": "2",
     "Fr 23.05.": "2",
-    "Sa 24.05.": "3"
+    "Sa 24.05.": "3",
+    "So 25.05.": "3"
   },
   {
     "Stationsname": "Königswinter-Heiderhof",
-    "Di 20.05.": "3",
-    "Mi 21.05.": "3",
-    "Do 22.05.": "2",
-    "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
-  },
-  {
-    "Stationsname": "Weilerswist-Lommersum",
-    "Di 20.05.": "3",
     "Mi 21.05.": "3",
     "Do 22.05.": "3",
     "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
+    "Sa 24.05.": "3",
+    "So 25.05.": "3"
+  },
+  {
+    "Stationsname": "Weilerswist-Lommersum",
+    "Mi 21.05.": "3",
+    "Do 22.05.": "3",
+    "Fr 23.05.": "3",
+    "Sa 24.05.": "3",
+    "So 25.05.": "3"
   },
   {
     "Stationsname": "Nideggen-Schmidt",
-    "Di 20.05.": "3",
     "Mi 21.05.": "3",
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
+    "Sa 24.05.": "2",
+    "So 25.05.": "3"
   },
   {
     "Stationsname": "Kall-Sistig",
-    "Di 20.05.": "3",
     "Mi 21.05.": "3",
     "Do 22.05.": "2",
     "Fr 23.05.": "2",
-    "Sa 24.05.": "2"
+    "Sa 24.05.": "3",
+    "So 25.05.": "3"
   }
 ]
