@@ -1,226 +1,226 @@
 [
   {
     "Stationsname": "Leinefelde",
-    "Sa 31.05.": "2",
     "So 01.06.": "1",
-    "Mo 02.06.": "2",
+    "Mo 02.06.": "1",
     "Di 03.06.": "2",
-    "Mi 04.06.": "2"
+    "Mi 04.06.": "2",
+    "Do 05.06.": "2"
   },
   {
     "Stationsname": "Artern",
-    "Sa 31.05.": "2",
     "So 01.06.": "2",
-    "Mo 02.06.": "2",
+    "Mo 02.06.": "1",
     "Di 03.06.": "2",
-    "Mi 04.06.": "2"
+    "Mi 04.06.": "2",
+    "Do 05.06.": "2"
   },
   {
     "Stationsname": "Sondershausen",
-    "Sa 31.05.": "3",
     "So 01.06.": "2",
     "Mo 02.06.": "2",
     "Di 03.06.": "3",
-    "Mi 04.06.": "3"
+    "Mi 04.06.": "3",
+    "Do 05.06.": "3"
   },
   {
     "Stationsname": "Mühlhausen-Görmar/Thüringen",
-    "Sa 31.05.": "2",
     "So 01.06.": "2",
     "Mo 02.06.": "2",
     "Di 03.06.": "2",
-    "Mi 04.06.": "2"
+    "Mi 04.06.": "2",
+    "Do 05.06.": "2"
   },
   {
     "Stationsname": "Olbersleben",
-    "Sa 31.05.": "3",
     "So 01.06.": "2",
-    "Mo 02.06.": "2",
-    "Di 03.06.": "3",
-    "Mi 04.06.": "3"
+    "Mo 02.06.": "1",
+    "Di 03.06.": "2",
+    "Mi 04.06.": "3",
+    "Do 05.06.": "2"
   },
   {
     "Stationsname": "Dachwig",
-    "Sa 31.05.": "2",
-    "So 01.06.": "1",
+    "So 01.06.": "2",
     "Mo 02.06.": "2",
     "Di 03.06.": "2",
-    "Mi 04.06.": "2"
+    "Mi 04.06.": "2",
+    "Do 05.06.": "2"
   },
   {
     "Stationsname": "Weimar-Schöndorf",
-    "Sa 31.05.": "2",
     "So 01.06.": "2",
     "Mo 02.06.": "2",
     "Di 03.06.": "2",
-    "Mi 04.06.": "2"
+    "Mi 04.06.": "2",
+    "Do 05.06.": "2"
   },
   {
     "Stationsname": "Eisenach",
-    "Sa 31.05.": "2",
     "So 01.06.": "2",
     "Mo 02.06.": "2",
     "Di 03.06.": "2",
-    "Mi 04.06.": "2"
+    "Mi 04.06.": "3",
+    "Do 05.06.": "2"
   },
   {
     "Stationsname": "Erfurt-Weimar (Flughafen)",
-    "Sa 31.05.": "3",
-    "So 01.06.": "2",
-    "Mo 02.06.": "2",
-    "Di 03.06.": "2",
-    "Mi 04.06.": "3"
-  },
-  {
-    "Stationsname": "Starkenberg-Tegkwitz",
-    "Sa 31.05.": "3",
-    "So 01.06.": "2",
-    "Mo 02.06.": "1",
-    "Di 03.06.": "2",
-    "Mi 04.06.": "2"
-  },
-  {
-    "Stationsname": "Jena",
-    "Sa 31.05.": "2",
-    "So 01.06.": "2",
-    "Mo 02.06.": "2",
-    "Di 03.06.": "2",
-    "Mi 04.06.": "2"
-  },
-  {
-    "Stationsname": "Bad Berka (Flugplatz)",
-    "Sa 31.05.": "2",
-    "So 01.06.": "2",
-    "Mo 02.06.": "2",
-    "Di 03.06.": "2",
-    "Mi 04.06.": "2"
-  },
-  {
-    "Stationsname": "Waltershausen",
-    "Sa 31.05.": "2",
-    "So 01.06.": "2",
-    "Mo 02.06.": "2",
-    "Di 03.06.": "2",
-    "Mi 04.06.": "2"
-  },
-  {
-    "Stationsname": "Gera-Leumnitz",
-    "Sa 31.05.": "2",
-    "So 01.06.": "2",
-    "Mo 02.06.": "1",
-    "Di 03.06.": "2",
-    "Mi 04.06.": "2"
-  },
-  {
-    "Stationsname": "Kleiner Inselsberg",
-    "Sa 31.05.": "1",
-    "So 01.06.": "1",
-    "Mo 02.06.": "1",
-    "Di 03.06.": "1",
-    "Mi 04.06.": "1"
-  },
-  {
-    "Stationsname": "Salzungen, Bad-Gräfen-Nitzendorf",
-    "Sa 31.05.": "2",
-    "So 01.06.": "1",
-    "Mo 02.06.": "1",
-    "Di 03.06.": "1",
-    "Mi 04.06.": "2"
-  },
-  {
-    "Stationsname": "Martinroda",
-    "Sa 31.05.": "2",
-    "So 01.06.": "2",
-    "Mo 02.06.": "2",
-    "Di 03.06.": "2",
-    "Mi 04.06.": "2"
-  },
-  {
-    "Stationsname": "Schmieritz-Weltwitz",
-    "Sa 31.05.": "2",
-    "So 01.06.": "2",
-    "Mo 02.06.": "1",
-    "Di 03.06.": "2",
-    "Mi 04.06.": "2"
-  },
-  {
-    "Stationsname": "Krölpa-Rockendorf",
-    "Sa 31.05.": "2",
-    "So 01.06.": "2",
-    "Mo 02.06.": "2",
-    "Di 03.06.": "2",
-    "Mi 04.06.": "2"
-  },
-  {
-    "Stationsname": "Langenwetzendorf-Göttendorf",
-    "Sa 31.05.": "2",
-    "So 01.06.": "2",
-    "Mo 02.06.": "1",
-    "Di 03.06.": "2",
-    "Mi 04.06.": "2"
-  },
-  {
-    "Stationsname": "Schmücke",
-    "Sa 31.05.": "1",
-    "So 01.06.": "1",
-    "Mo 02.06.": "1",
-    "Di 03.06.": "1",
-    "Mi 04.06.": "1"
-  },
-  {
-    "Stationsname": "Schwarzburg",
-    "Sa 31.05.": "3",
     "So 01.06.": "2",
     "Mo 02.06.": "2",
     "Di 03.06.": "3",
-    "Mi 04.06.": "2"
+    "Mi 04.06.": "3",
+    "Do 05.06.": "3"
   },
   {
-    "Stationsname": "Schleiz",
-    "Sa 31.05.": "2",
+    "Stationsname": "Starkenberg-Tegkwitz",
     "So 01.06.": "2",
     "Mo 02.06.": "1",
     "Di 03.06.": "2",
-    "Mi 04.06.": "2"
+    "Mi 04.06.": "2",
+    "Do 05.06.": "2"
   },
   {
-    "Stationsname": "Meiningen",
-    "Sa 31.05.": "2",
+    "Stationsname": "Jena",
     "So 01.06.": "1",
     "Mo 02.06.": "1",
     "Di 03.06.": "1",
-    "Mi 04.06.": "2"
+    "Mi 04.06.": "2",
+    "Do 05.06.": "2"
   },
   {
-    "Stationsname": "Birx/Rhön",
-    "Sa 31.05.": "1",
+    "Stationsname": "Bad Berka (Flugplatz)",
     "So 01.06.": "1",
-    "Mo 02.06.": "1",
-    "Di 03.06.": "1",
-    "Mi 04.06.": "2"
-  },
-  {
-    "Stationsname": "Neuhaus am Rennweg",
-    "Sa 31.05.": "1",
-    "So 01.06.": "1",
-    "Mo 02.06.": "1",
+    "Mo 02.06.": "2",
     "Di 03.06.": "2",
-    "Mi 04.06.": "2"
+    "Mi 04.06.": "2",
+    "Do 05.06.": "2"
   },
   {
-    "Stationsname": "Bad Lobenstein",
-    "Sa 31.05.": "2",
+    "Stationsname": "Waltershausen",
+    "So 01.06.": "2",
+    "Mo 02.06.": "2",
+    "Di 03.06.": "3",
+    "Mi 04.06.": "2",
+    "Do 05.06.": "1"
+  },
+  {
+    "Stationsname": "Gera-Leumnitz",
+    "So 01.06.": "1",
+    "Mo 02.06.": "1",
+    "Di 03.06.": "1",
+    "Mi 04.06.": "2",
+    "Do 05.06.": "1"
+  },
+  {
+    "Stationsname": "Kleiner Inselsberg",
+    "So 01.06.": "1",
+    "Mo 02.06.": "1",
+    "Di 03.06.": "1",
+    "Mi 04.06.": "1",
+    "Do 05.06.": "1"
+  },
+  {
+    "Stationsname": "Salzungen, Bad-Gräfen-Nitzendorf",
+    "So 01.06.": "1",
+    "Mo 02.06.": "1",
+    "Di 03.06.": "1",
+    "Mi 04.06.": "2",
+    "Do 05.06.": "2"
+  },
+  {
+    "Stationsname": "Martinroda",
     "So 01.06.": "2",
     "Mo 02.06.": "2",
     "Di 03.06.": "2",
-    "Mi 04.06.": "2"
+    "Mi 04.06.": "2",
+    "Do 05.06.": "2"
   },
   {
-    "Stationsname": "Veilsdorf",
-    "Sa 31.05.": "2",
+    "Stationsname": "Schmieritz-Weltwitz",
+    "So 01.06.": "2",
+    "Mo 02.06.": "1",
+    "Di 03.06.": "2",
+    "Mi 04.06.": "2",
+    "Do 05.06.": "1"
+  },
+  {
+    "Stationsname": "Krölpa-Rockendorf",
     "So 01.06.": "1",
     "Mo 02.06.": "1",
     "Di 03.06.": "1",
-    "Mi 04.06.": "1"
+    "Mi 04.06.": "2",
+    "Do 05.06.": "2"
+  },
+  {
+    "Stationsname": "Langenwetzendorf-Göttendorf",
+    "So 01.06.": "1",
+    "Mo 02.06.": "1",
+    "Di 03.06.": "1",
+    "Mi 04.06.": "2",
+    "Do 05.06.": "1"
+  },
+  {
+    "Stationsname": "Schmücke",
+    "So 01.06.": "1",
+    "Mo 02.06.": "1",
+    "Di 03.06.": "1",
+    "Mi 04.06.": "1",
+    "Do 05.06.": "1"
+  },
+  {
+    "Stationsname": "Schwarzburg",
+    "So 01.06.": "2",
+    "Mo 02.06.": "2",
+    "Di 03.06.": "3",
+    "Mi 04.06.": "2",
+    "Do 05.06.": "1"
+  },
+  {
+    "Stationsname": "Schleiz",
+    "So 01.06.": "1",
+    "Mo 02.06.": "1",
+    "Di 03.06.": "1",
+    "Mi 04.06.": "2",
+    "Do 05.06.": "1"
+  },
+  {
+    "Stationsname": "Meiningen",
+    "So 01.06.": "1",
+    "Mo 02.06.": "1",
+    "Di 03.06.": "2",
+    "Mi 04.06.": "2",
+    "Do 05.06.": "2"
+  },
+  {
+    "Stationsname": "Birx/Rhön",
+    "So 01.06.": "1",
+    "Mo 02.06.": "1",
+    "Di 03.06.": "1",
+    "Mi 04.06.": "1",
+    "Do 05.06.": "1"
+  },
+  {
+    "Stationsname": "Neuhaus am Rennweg",
+    "So 01.06.": "2",
+    "Mo 02.06.": "1",
+    "Di 03.06.": "1",
+    "Mi 04.06.": "1",
+    "Do 05.06.": "1"
+  },
+  {
+    "Stationsname": "Bad Lobenstein",
+    "So 01.06.": "2",
+    "Mo 02.06.": "2",
+    "Di 03.06.": "2",
+    "Mi 04.06.": "2",
+    "Do 05.06.": "1"
+  },
+  {
+    "Stationsname": "Veilsdorf",
+    "So 01.06.": "2",
+    "Mo 02.06.": "1",
+    "Di 03.06.": "1",
+    "Mi 04.06.": "1",
+    "Do 05.06.": "1"
   }
 ]
