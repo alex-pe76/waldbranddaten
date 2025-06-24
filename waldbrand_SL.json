@@ -1,58 +1,58 @@
 [
   {
     "Stationsname": "Weiskirchen/Saar",
-    "Mo 23.06.": "2",
-    "Di 24.06.": "3",
-    "Mi 25.06.": "3",
-    "Do 26.06.": "1",
-    "Fr 27.06.": "2"
-  },
-  {
-    "Stationsname": "Perl-Nennig",
-    "Mo 23.06.": "3",
-    "Di 24.06.": "3",
-    "Mi 25.06.": "3",
-    "Do 26.06.": "1",
-    "Fr 27.06.": "2"
-  },
-  {
-    "Stationsname": "Tholey",
-    "Mo 23.06.": "3",
-    "Di 24.06.": "3",
-    "Mi 25.06.": "3",
-    "Do 26.06.": "1",
-    "Fr 27.06.": "2"
-  },
-  {
-    "Stationsname": "Neunkirchen-Wellesweiler",
-    "Mo 23.06.": "2",
-    "Di 24.06.": "3",
-    "Mi 25.06.": "3",
-    "Do 26.06.": "1",
-    "Fr 27.06.": "2"
-  },
-  {
-    "Stationsname": "Berus",
-    "Mo 23.06.": "3",
     "Di 24.06.": "3",
     "Mi 25.06.": "3",
     "Do 26.06.": "2",
-    "Fr 27.06.": "2"
+    "Fr 27.06.": "2",
+    "Sa 28.06.": "3"
   },
   {
-    "Stationsname": "Saarbrücken-Burbach",
-    "Mo 23.06.": "3",
-    "Di 24.06.": "3",
-    "Mi 25.06.": "4",
-    "Do 26.06.": "1",
-    "Fr 27.06.": "3"
-  },
-  {
-    "Stationsname": "Saarbrücken (Flughafen)",
-    "Mo 23.06.": "3",
+    "Stationsname": "Perl-Nennig",
     "Di 24.06.": "3",
     "Mi 25.06.": "3",
     "Do 26.06.": "1",
-    "Fr 27.06.": "2"
+    "Fr 27.06.": "2",
+    "Sa 28.06.": "3"
+  },
+  {
+    "Stationsname": "Tholey",
+    "Di 24.06.": "3",
+    "Mi 25.06.": "3",
+    "Do 26.06.": "2",
+    "Fr 27.06.": "2",
+    "Sa 28.06.": "3"
+  },
+  {
+    "Stationsname": "Neunkirchen-Wellesweiler",
+    "Di 24.06.": "3",
+    "Mi 25.06.": "3",
+    "Do 26.06.": "3",
+    "Fr 27.06.": "3",
+    "Sa 28.06.": "3"
+  },
+  {
+    "Stationsname": "Berus",
+    "Di 24.06.": "3",
+    "Mi 25.06.": "3",
+    "Do 26.06.": "3",
+    "Fr 27.06.": "3",
+    "Sa 28.06.": "3"
+  },
+  {
+    "Stationsname": "Saarbrücken-Burbach",
+    "Di 24.06.": "3",
+    "Mi 25.06.": "3",
+    "Do 26.06.": "3",
+    "Fr 27.06.": "3",
+    "Sa 28.06.": "4"
+  },
+  {
+    "Stationsname": "Saarbrücken (Flughafen)",
+    "Di 24.06.": "3",
+    "Mi 25.06.": "3",
+    "Do 26.06.": "3",
+    "Fr 27.06.": "3",
+    "Sa 28.06.": "3"
   }
 ]
