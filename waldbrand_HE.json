@@ -1,282 +1,282 @@
 [
   {
     "Stationsname": "Wesertal-Lippoldsberg",
-    "Mo 30.06.": "3",
     "Di 01.07.": "4",
     "Mi 02.07.": "4",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
     "Stationsname": "Twistetal-Mühlhausen",
-    "Mo 30.06.": "3",
-    "Di 01.07.": "3",
+    "Di 01.07.": "4",
     "Mi 02.07.": "4",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
     "Stationsname": "Schauenburg-Elgershausen",
-    "Mo 30.06.": "3",
-    "Di 01.07.": "4",
+    "Di 01.07.": "3",
     "Mi 02.07.": "4",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
     "Stationsname": "Eschwege",
-    "Mo 30.06.": "3",
     "Di 01.07.": "3",
     "Mi 02.07.": "4",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
     "Stationsname": "Fritzlar/Eder",
-    "Mo 30.06.": "3",
-    "Di 01.07.": "4",
+    "Di 01.07.": "3",
     "Mi 02.07.": "4",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
     "Stationsname": "Sontra",
-    "Mo 30.06.": "3",
     "Di 01.07.": "4",
     "Mi 02.07.": "4",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
     "Stationsname": "Burgwald-Bottendorf",
-    "Mo 30.06.": "3",
     "Di 01.07.": "4",
     "Mi 02.07.": "4",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
     "Stationsname": "Gilserberg-Moischeid",
-    "Mo 30.06.": "3",
-    "Di 01.07.": "4",
+    "Di 01.07.": "3",
     "Mi 02.07.": "4",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
     "Stationsname": "Neukirchen-Hauptschwenda",
-    "Mo 30.06.": "3",
     "Di 01.07.": "3",
     "Mi 02.07.": "3",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
     "Stationsname": "Bad Hersfeld",
-    "Mo 30.06.": "3",
     "Di 01.07.": "4",
     "Mi 02.07.": "4",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
     "Stationsname": "Cölbe",
-    "Mo 30.06.": "3",
     "Di 01.07.": "4",
     "Mi 02.07.": "4",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
     "Stationsname": "Neu-Ulrichstein",
-    "Mo 30.06.": "3",
     "Di 01.07.": "4",
     "Mi 02.07.": "4",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
     "Stationsname": "Alsfeld-Eifa",
-    "Mo 30.06.": "4",
     "Di 01.07.": "4",
     "Mi 02.07.": "4",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
     "Stationsname": "Tann/Rhön",
-    "Mo 30.06.": "4",
     "Di 01.07.": "4",
     "Mi 02.07.": "4",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
     "Stationsname": "Wettenberg bei Gießen",
-    "Mo 30.06.": "3",
     "Di 01.07.": "3",
     "Mi 02.07.": "4",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
     "Stationsname": "Fulda-Horas",
-    "Mo 30.06.": "4",
     "Di 01.07.": "4",
     "Mi 02.07.": "4",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
     "Stationsname": "Löhnberg-Obershausen",
-    "Mo 30.06.": "3",
     "Di 01.07.": "4",
     "Mi 02.07.": "4",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
     "Stationsname": "Hoherodskopf/Vogelsberg",
-    "Mo 30.06.": "3",
-    "Di 01.07.": "3",
-    "Mi 02.07.": "4",
-    "Do 03.07.": "3",
-    "Fr 04.07.": "3"
-  },
-  {
-    "Stationsname": "Wasserkuppe",
-    "Mo 30.06.": "3",
-    "Di 01.07.": "3",
-    "Mi 02.07.": "4",
-    "Do 03.07.": "3",
-    "Fr 04.07.": "2"
-  },
-  {
-    "Stationsname": "Runkel-Ennerich",
-    "Mo 30.06.": "3",
-    "Di 01.07.": "3",
-    "Mi 02.07.": "4",
-    "Do 03.07.": "3",
-    "Fr 04.07.": "3"
-  },
-  {
-    "Stationsname": "Bad Nauheim",
-    "Mo 30.06.": "3",
-    "Di 01.07.": "4",
-    "Mi 02.07.": "4",
-    "Do 03.07.": "3",
-    "Fr 04.07.": "3"
-  },
-  {
-    "Stationsname": "Schlüchtern-Herolz",
-    "Mo 30.06.": "3",
-    "Di 01.07.": "4",
-    "Mi 02.07.": "4",
-    "Do 03.07.": "3",
-    "Fr 04.07.": "3"
-  },
-  {
-    "Stationsname": "Gründau-Breitenborn",
-    "Mo 30.06.": "3",
-    "Di 01.07.": "4",
-    "Mi 02.07.": "4",
-    "Do 03.07.": "3",
-    "Fr 04.07.": "3"
-  },
-  {
-    "Stationsname": "Waldems-Reinborn",
-    "Mo 30.06.": "3",
-    "Di 01.07.": "3",
-    "Mi 02.07.": "4",
-    "Do 03.07.": "3",
-    "Fr 04.07.": "3"
-  },
-  {
-    "Stationsname": "Kleiner Feldberg/Taunus",
-    "Mo 30.06.": "3",
-    "Di 01.07.": "3",
-    "Mi 02.07.": "4",
-    "Do 03.07.": "3",
-    "Fr 04.07.": "3"
-  },
-  {
-    "Stationsname": "Wiesbaden-Auringen",
-    "Mo 30.06.": "3",
-    "Di 01.07.": "4",
-    "Mi 02.07.": "4",
-    "Do 03.07.": "3",
-    "Fr 04.07.": "3"
-  },
-  {
-    "Stationsname": "Frankfurt/Main-Westend",
-    "Mo 30.06.": "4",
-    "Di 01.07.": "4",
-    "Mi 02.07.": "5",
-    "Do 03.07.": "4",
-    "Fr 04.07.": "4"
-  },
-  {
-    "Stationsname": "Offenbach-Wetterpark",
-    "Mo 30.06.": "4",
-    "Di 01.07.": "4",
-    "Mi 02.07.": "5",
-    "Do 03.07.": "4",
-    "Fr 04.07.": "4"
-  },
-  {
-    "Stationsname": "Frankfurt (Flughafen)",
-    "Mo 30.06.": "4",
-    "Di 01.07.": "4",
-    "Mi 02.07.": "5",
-    "Do 03.07.": "4",
-    "Fr 04.07.": "4"
-  },
-  {
-    "Stationsname": "Geisenheim",
-    "Mo 30.06.": "4",
-    "Di 01.07.": "4",
-    "Mi 02.07.": "4",
-    "Do 03.07.": "3",
-    "Fr 04.07.": "3"
-  },
-  {
-    "Stationsname": "Schaafheim-Schlierbach",
-    "Mo 30.06.": "3",
-    "Di 01.07.": "4",
-    "Mi 02.07.": "4",
-    "Do 03.07.": "4",
-    "Fr 04.07.": "4"
-  },
-  {
-    "Stationsname": "Darmstadt",
-    "Mo 30.06.": "4",
-    "Di 01.07.": "5",
-    "Mi 02.07.": "5",
-    "Do 03.07.": "4",
-    "Fr 04.07.": "4"
-  },
-  {
-    "Stationsname": "Michelstadt-Vielbrunn",
-    "Mo 30.06.": "2",
     "Di 01.07.": "3",
     "Mi 02.07.": "3",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   },
   {
-    "Stationsname": "Michelstadt",
-    "Mo 30.06.": "3",
-    "Di 01.07.": "4",
-    "Mi 02.07.": "4",
-    "Do 03.07.": "3",
-    "Fr 04.07.": "3"
-  },
-  {
-    "Stationsname": "Oberzent-Beerfelden",
-    "Mo 30.06.": "3",
+    "Stationsname": "Wasserkuppe",
     "Di 01.07.": "3",
     "Mi 02.07.": "4",
     "Do 03.07.": "3",
-    "Fr 04.07.": "3"
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
+  },
+  {
+    "Stationsname": "Runkel-Ennerich",
+    "Di 01.07.": "4",
+    "Mi 02.07.": "4",
+    "Do 03.07.": "3",
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
+  },
+  {
+    "Stationsname": "Bad Nauheim",
+    "Di 01.07.": "4",
+    "Mi 02.07.": "4",
+    "Do 03.07.": "3",
+    "Fr 04.07.": "4",
+    "Sa 05.07.": "4"
+  },
+  {
+    "Stationsname": "Schlüchtern-Herolz",
+    "Di 01.07.": "4",
+    "Mi 02.07.": "4",
+    "Do 03.07.": "3",
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
+  },
+  {
+    "Stationsname": "Gründau-Breitenborn",
+    "Di 01.07.": "4",
+    "Mi 02.07.": "4",
+    "Do 03.07.": "3",
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
+  },
+  {
+    "Stationsname": "Waldems-Reinborn",
+    "Di 01.07.": "4",
+    "Mi 02.07.": "4",
+    "Do 03.07.": "3",
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
+  },
+  {
+    "Stationsname": "Kleiner Feldberg/Taunus",
+    "Di 01.07.": "4",
+    "Mi 02.07.": "4",
+    "Do 03.07.": "3",
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
+  },
+  {
+    "Stationsname": "Wiesbaden-Auringen",
+    "Di 01.07.": "4",
+    "Mi 02.07.": "4",
+    "Do 03.07.": "3",
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
+  },
+  {
+    "Stationsname": "Frankfurt/Main-Westend",
+    "Di 01.07.": "5",
+    "Mi 02.07.": "5",
+    "Do 03.07.": "4",
+    "Fr 04.07.": "4",
+    "Sa 05.07.": "5"
+  },
+  {
+    "Stationsname": "Offenbach-Wetterpark",
+    "Di 01.07.": "5",
+    "Mi 02.07.": "5",
+    "Do 03.07.": "3",
+    "Fr 04.07.": "4",
+    "Sa 05.07.": "4"
+  },
+  {
+    "Stationsname": "Frankfurt (Flughafen)",
+    "Di 01.07.": "4",
+    "Mi 02.07.": "4",
+    "Do 03.07.": "4",
+    "Fr 04.07.": "5",
+    "Sa 05.07.": "5"
+  },
+  {
+    "Stationsname": "Geisenheim",
+    "Di 01.07.": "4",
+    "Mi 02.07.": "4",
+    "Do 03.07.": "3",
+    "Fr 04.07.": "4",
+    "Sa 05.07.": "4"
+  },
+  {
+    "Stationsname": "Schaafheim-Schlierbach",
+    "Di 01.07.": "4",
+    "Mi 02.07.": "4",
+    "Do 03.07.": "3",
+    "Fr 04.07.": "4",
+    "Sa 05.07.": "4"
+  },
+  {
+    "Stationsname": "Darmstadt",
+    "Di 01.07.": "4",
+    "Mi 02.07.": "5",
+    "Do 03.07.": "4",
+    "Fr 04.07.": "4",
+    "Sa 05.07.": "4"
+  },
+  {
+    "Stationsname": "Michelstadt-Vielbrunn",
+    "Di 01.07.": "3",
+    "Mi 02.07.": "3",
+    "Do 03.07.": "2",
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
+  },
+  {
+    "Stationsname": "Michelstadt",
+    "Di 01.07.": "3",
+    "Mi 02.07.": "4",
+    "Do 03.07.": "3",
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
+  },
+  {
+    "Stationsname": "Oberzent-Beerfelden",
+    "Di 01.07.": "3",
+    "Mi 02.07.": "4",
+    "Do 03.07.": "3",
+    "Fr 04.07.": "3",
+    "Sa 05.07.": "3"
   }
 ]
