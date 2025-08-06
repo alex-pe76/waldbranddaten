@@ -1,226 +1,226 @@
 [
   {
     "Stationsname": "Leinefelde",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "2",
+    "Mi 06.08.": "1",
     "Do 07.08.": "2",
     "Fr 08.08.": "2",
-    "Sa 09.08.": "3"
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
   },
   {
     "Stationsname": "Artern",
-    "Di 05.08.": "1",
     "Mi 06.08.": "1",
     "Do 07.08.": "2",
     "Fr 08.08.": "2",
-    "Sa 09.08.": "3"
+    "Sa 09.08.": "2",
+    "So 10.08.": "3"
   },
   {
     "Stationsname": "Sondershausen",
-    "Di 05.08.": "1",
     "Mi 06.08.": "1",
     "Do 07.08.": "2",
     "Fr 08.08.": "2",
-    "Sa 09.08.": "3"
+    "Sa 09.08.": "2",
+    "So 10.08.": "3"
   },
   {
     "Stationsname": "Mühlhausen-Görmar/Thüringen",
-    "Di 05.08.": "1",
     "Mi 06.08.": "1",
     "Do 07.08.": "2",
     "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
+    "Sa 09.08.": "3",
+    "So 10.08.": "3"
   },
   {
     "Stationsname": "Olbersleben",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "2",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Dachwig",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "2",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Weimar-Schöndorf",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "2",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Eisenach",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "2",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Erfurt-Weimar (Flughafen)",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "2",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Starkenberg-Tegkwitz",
-    "Di 05.08.": "2",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "2",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Jena",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "2",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Bad Berka (Flugplatz)",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "2",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Waltershausen",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "2",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Gera-Leumnitz",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "2",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Kleiner Inselsberg",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Salzungen, Bad-Gräfen-Nitzendorf",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Martinroda",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Schmieritz-Weltwitz",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "2",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Krölpa-Rockendorf",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "2",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Langenwetzendorf-Göttendorf",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "2",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Schmücke",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Schwarzburg",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "2",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Schleiz",
-    "Di 05.08.": "1",
     "Mi 06.08.": "1",
     "Do 07.08.": "2",
     "Fr 08.08.": "3",
-    "Sa 09.08.": "3"
+    "Sa 09.08.": "3",
+    "So 10.08.": "3"
   },
   {
-    "Stationsname": "Meiningen",
-    "Di 05.08.": "1",
+    "Stationsname": "Dachwig",
     "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
+    "Do 07.08.": "2",
+    "Fr 08.08.": "3",
+    "Sa 09.08.": "3",
+    "So 10.08.": "3"
   },
   {
-    "Stationsname": "Birx/Rhön",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Neuhaus am Rennweg",
-    "Di 05.08.": "1",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
-  },
-  {
-    "Stationsname": "Bad Lobenstein",
-    "Di 05.08.": "1",
+    "Stationsname": "Weimar-Schöndorf",
     "Mi 06.08.": "1",
     "Do 07.08.": "2",
     "Fr 08.08.": "2",
-    "Sa 09.08.": "3"
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
   },
   {
-    "Stationsname": "Veilsdorf",
-    "Di 05.08.": "1",
+    "Stationsname": "Eisenach",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "2",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
+  },
+  {
+    "Stationsname": "Erfurt-Weimar (Flughafen)",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "2",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
+  },
+  {
+    "Stationsname": "Starkenberg-Tegkwitz",
     "Mi 06.08.": "1",
     "Do 07.08.": "1",
     "Fr 08.08.": "2",
-    "Sa 09.08.": "2"
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
+  },
+  {
+    "Stationsname": "Jena",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
+  },
+  {
+    "Stationsname": "Bad Berka (Flugplatz)",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
+  },
+  {
+    "Stationsname": "Waltershausen",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "2",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
+  },
+  {
+    "Stationsname": "Gera-Leumnitz",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
+  },
+  {
+    "Stationsname": "Kleiner Inselsberg",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
+  },
+  {
+    "Stationsname": "Salzungen, Bad-Gräfen-Nitzendorf",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
+  },
+  {
+    "Stationsname": "Martinroda",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
+  },
+  {
+    "Stationsname": "Schmieritz-Weltwitz",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
+  },
+  {
+    "Stationsname": "Krölpa-Rockendorf",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "2",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "3",
+    "So 10.08.": "3"
+  },
+  {
+    "Stationsname": "Langenwetzendorf-Göttendorf",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
+  },
+  {
+    "Stationsname": "Schmücke",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
+  },
+  {
+    "Stationsname": "Schwarzburg",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
+  },
+  {
+    "Stationsname": "Schleiz",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "2",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "3",
+    "So 10.08.": "3"
+  },
+  {
+    "Stationsname": "Meiningen",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "2",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
+  },
+  {
+    "Stationsname": "Birx/Rhön",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
+  },
+  {
+    "Stationsname": "Neuhaus am Rennweg",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
+  },
+  {
+    "Stationsname": "Bad Lobenstein",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "2",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "3"
+  },
+  {
+    "Stationsname": "Veilsdorf",
+    "Mi 06.08.": "1",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2"
   }
 ]
