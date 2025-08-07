@@ -1,218 +1,218 @@
 [
   {
     "Stationsname": "Bad Muskau",
-    "Mi 06.08.": "1",
     "Do 07.08.": "1",
-    "Fr 08.08.": "3",
-    "Sa 09.08.": "2",
-    "So 10.08.": "2"
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "3",
+    "So 10.08.": "3",
+    "Mo 11.08.": "3"
   },
   {
     "Stationsname": "Klitzschen bei Torgau",
-    "Mi 06.08.": "1",
     "Do 07.08.": "2",
     "Fr 08.08.": "3",
     "Sa 09.08.": "3",
-    "So 10.08.": "3"
+    "So 10.08.": "3",
+    "Mo 11.08.": "3"
   },
   {
     "Stationsname": "Hoyerswerda",
-    "Mi 06.08.": "1",
     "Do 07.08.": "1",
-    "Fr 08.08.": "3",
+    "Fr 08.08.": "2",
     "Sa 09.08.": "3",
-    "So 10.08.": "3"
+    "So 10.08.": "3",
+    "Mo 11.08.": "3"
   },
   {
     "Stationsname": "Leipzig/Halle (Flughafen)",
-    "Mi 06.08.": "1",
     "Do 07.08.": "2",
     "Fr 08.08.": "2",
     "Sa 09.08.": "2",
-    "So 10.08.": "2"
+    "So 10.08.": "2",
+    "Mo 11.08.": "3"
   },
   {
     "Stationsname": "Leipzig-Holzhausen",
-    "Mi 06.08.": "1",
     "Do 07.08.": "2",
     "Fr 08.08.": "2",
-    "Sa 09.08.": "2",
-    "So 10.08.": "2"
+    "Sa 09.08.": "3",
+    "So 10.08.": "2",
+    "Mo 11.08.": "3"
   },
   {
     "Stationsname": "Oschatz",
-    "Mi 06.08.": "1",
     "Do 07.08.": "2",
     "Fr 08.08.": "3",
     "Sa 09.08.": "3",
-    "So 10.08.": "3"
+    "So 10.08.": "3",
+    "Mo 11.08.": "3"
   },
   {
     "Stationsname": "Görlitz",
-    "Mi 06.08.": "1",
     "Do 07.08.": "1",
     "Fr 08.08.": "2",
     "Sa 09.08.": "2",
-    "So 10.08.": "2"
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
   },
   {
     "Stationsname": "Kubschütz",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2",
-    "So 10.08.": "2"
-  },
-  {
-    "Stationsname": "Klipphausen-Garsebach",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2",
-    "So 10.08.": "2"
-  },
-  {
-    "Stationsname": "Dresden-Klotzsche (Flughafen)",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2",
-    "So 10.08.": "2"
-  },
-  {
-    "Stationsname": "Geringswalde-Altgeringswalde",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2",
-    "So 10.08.": "2"
-  },
-  {
-    "Stationsname": "Sohland/Spree",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2",
-    "So 10.08.": "2"
-  },
-  {
-    "Stationsname": "Nossen",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2",
-    "So 10.08.": "2"
-  },
-  {
-    "Stationsname": "Dresden-Hosterwitz",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2",
-    "So 10.08.": "2"
-  },
-  {
-    "Stationsname": "Lichtenhain-Mittelndorf",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2",
-    "So 10.08.": "2"
-  },
-  {
-    "Stationsname": "Dippoldiswalde-Reinberg",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2",
-    "So 10.08.": "2"
-  },
-  {
-    "Stationsname": "Bertsdorf-Hörnitz",
-    "Mi 06.08.": "1",
     "Do 07.08.": "2",
     "Fr 08.08.": "2",
     "Sa 09.08.": "2",
-    "So 10.08.": "2"
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
   },
   {
-    "Stationsname": "Chemnitz",
-    "Mi 06.08.": "1",
+    "Stationsname": "Klipphausen-Garsebach",
     "Do 07.08.": "1",
     "Fr 08.08.": "2",
     "Sa 09.08.": "2",
-    "So 10.08.": "2"
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
   },
   {
-    "Stationsname": "Zinnwald-Georgenfeld",
-    "Mi 06.08.": "1",
+    "Stationsname": "Dresden-Klotzsche (Flughafen)",
+    "Do 07.08.": "2",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2",
+    "Mo 11.08.": "3"
+  },
+  {
+    "Stationsname": "Geringswalde-Altgeringswalde",
     "Do 07.08.": "1",
     "Fr 08.08.": "2",
     "Sa 09.08.": "2",
-    "So 10.08.": "2"
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
   },
   {
-    "Stationsname": "Lichtentanne",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2",
-    "So 10.08.": "2"
-  },
-  {
-    "Stationsname": "Marienberg",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2",
-    "So 10.08.": "2"
-  },
-  {
-    "Stationsname": "Deutschneudorf-Brüderwiese",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2",
-    "So 10.08.": "2"
-  },
-  {
-    "Stationsname": "Aue",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2",
-    "So 10.08.": "2"
-  },
-  {
-    "Stationsname": "Treuen",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "2",
-    "So 10.08.": "2"
-  },
-  {
-    "Stationsname": "Plauen",
-    "Mi 06.08.": "1",
-    "Do 07.08.": "1",
-    "Fr 08.08.": "2",
-    "Sa 09.08.": "3",
-    "So 10.08.": "3"
-  },
-  {
-    "Stationsname": "Carlsfeld",
-    "Mi 06.08.": "1",
+    "Stationsname": "Sohland/Spree",
     "Do 07.08.": "1",
     "Fr 08.08.": "1",
     "Sa 09.08.": "2",
-    "So 10.08.": "2"
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
   },
   {
-    "Stationsname": "Bad Elster-Sohl",
-    "Mi 06.08.": "1",
+    "Stationsname": "Nossen",
     "Do 07.08.": "1",
     "Fr 08.08.": "2",
     "Sa 09.08.": "2",
-    "So 10.08.": "2"
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
+  },
+  {
+    "Stationsname": "Dresden-Hosterwitz",
+    "Do 07.08.": "2",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "3",
+    "So 10.08.": "2",
+    "Mo 11.08.": "3"
+  },
+  {
+    "Stationsname": "Lichtenhain-Mittelndorf",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "1",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
+  },
+  {
+    "Stationsname": "Dippoldiswalde-Reinberg",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
+  },
+  {
+    "Stationsname": "Bertsdorf-Hörnitz",
+    "Do 07.08.": "2",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
+  },
+  {
+    "Stationsname": "Chemnitz",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
+  },
+  {
+    "Stationsname": "Zinnwald-Georgenfeld",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "1",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
+  },
+  {
+    "Stationsname": "Lichtentanne",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
+  },
+  {
+    "Stationsname": "Marienberg",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "1",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
+  },
+  {
+    "Stationsname": "Deutschneudorf-Brüderwiese",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "1",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
+  },
+  {
+    "Stationsname": "Aue",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
+  },
+  {
+    "Stationsname": "Treuen",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
+  },
+  {
+    "Stationsname": "Plauen",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "3",
+    "So 10.08.": "3",
+    "Mo 11.08.": "3"
+  },
+  {
+    "Stationsname": "Carlsfeld",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "1",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
+  },
+  {
+    "Stationsname": "Bad Elster-Sohl",
+    "Do 07.08.": "1",
+    "Fr 08.08.": "2",
+    "Sa 09.08.": "2",
+    "So 10.08.": "2",
+    "Mo 11.08.": "2"
   }
 ]
