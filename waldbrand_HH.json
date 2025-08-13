@@ -1,18 +1,18 @@
 [
   {
     "Stationsname": "Hamburg (Flughafen)",
-    "Di 12.08.": "2",
-    "Mi 13.08.": "2",
-    "Do 14.08.": "3",
-    "Fr 15.08.": "3",
-    "Sa 16.08.": "2"
-  },
-  {
-    "Stationsname": "Hamburg-Neuwiedenthal",
-    "Di 12.08.": "2",
     "Mi 13.08.": "3",
     "Do 14.08.": "3",
     "Fr 15.08.": "3",
-    "Sa 16.08.": "2"
+    "Sa 16.08.": "2",
+    "So 17.08.": "2"
+  },
+  {
+    "Stationsname": "Hamburg-Neuwiedenthal",
+    "Mi 13.08.": "3",
+    "Do 14.08.": "3",
+    "Fr 15.08.": "3",
+    "Sa 16.08.": "2",
+    "So 17.08.": "2"
   }
 ]
