@@ -1,58 +1,58 @@
 [
   {
     "Stationsname": "Weiskirchen/Saar",
-    "Mi 13.08.": "3",
     "Do 14.08.": "3",
     "Fr 15.08.": "3",
     "Sa 16.08.": "3",
-    "So 17.08.": "3"
+    "So 17.08.": "3",
+    "Mo 18.08.": "3"
   },
   {
     "Stationsname": "Perl-Nennig",
-    "Mi 13.08.": "3",
-    "Do 14.08.": "3",
-    "Fr 15.08.": "3",
-    "Sa 16.08.": "3",
-    "So 17.08.": "3"
-  },
-  {
-    "Stationsname": "Tholey",
-    "Mi 13.08.": "4",
-    "Do 14.08.": "3",
-    "Fr 15.08.": "3",
-    "Sa 16.08.": "3",
-    "So 17.08.": "3"
-  },
-  {
-    "Stationsname": "Neunkirchen-Wellesweiler",
-    "Mi 13.08.": "3",
-    "Do 14.08.": "3",
-    "Fr 15.08.": "3",
-    "Sa 16.08.": "3",
-    "So 17.08.": "3"
-  },
-  {
-    "Stationsname": "Berus",
-    "Mi 13.08.": "3",
     "Do 14.08.": "4",
     "Fr 15.08.": "3",
     "Sa 16.08.": "3",
-    "So 17.08.": "3"
+    "So 17.08.": "3",
+    "Mo 18.08.": "3"
   },
   {
-    "Stationsname": "Saarbrücken-Burbach",
-    "Mi 13.08.": "3",
-    "Do 14.08.": "3",
-    "Fr 15.08.": "4",
-    "Sa 16.08.": "4",
-    "So 17.08.": "3"
-  },
-  {
-    "Stationsname": "Saarbrücken (Flughafen)",
-    "Mi 13.08.": "3",
+    "Stationsname": "Tholey",
     "Do 14.08.": "3",
     "Fr 15.08.": "3",
     "Sa 16.08.": "3",
-    "So 17.08.": "3"
+    "So 17.08.": "3",
+    "Mo 18.08.": "3"
+  },
+  {
+    "Stationsname": "Neunkirchen-Wellesweiler",
+    "Do 14.08.": "3",
+    "Fr 15.08.": "3",
+    "Sa 16.08.": "3",
+    "So 17.08.": "3",
+    "Mo 18.08.": "3"
+  },
+  {
+    "Stationsname": "Berus",
+    "Do 14.08.": "4",
+    "Fr 15.08.": "3",
+    "Sa 16.08.": "3",
+    "So 17.08.": "3",
+    "Mo 18.08.": "3"
+  },
+  {
+    "Stationsname": "Saarbrücken-Burbach",
+    "Do 14.08.": "3",
+    "Fr 15.08.": "3",
+    "Sa 16.08.": "3",
+    "So 17.08.": "3",
+    "Mo 18.08.": "3"
+  },
+  {
+    "Stationsname": "Saarbrücken (Flughafen)",
+    "Do 14.08.": "3",
+    "Fr 15.08.": "4",
+    "Sa 16.08.": "3",
+    "So 17.08.": "3",
+    "Mo 18.08.": "3"
   }
 ]
