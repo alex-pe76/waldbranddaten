@@ -1,58 +1,58 @@
 [
   {
     "Stationsname": "Weiskirchen/Saar",
-    "Do 04.09.": "1",
     "Fr 05.09.": "1",
     "Sa 06.09.": "1",
     "So 07.09.": "2",
-    "Mo 08.09.": "2"
+    "Mo 08.09.": "1",
+    "Di 09.09.": "1"
   },
   {
     "Stationsname": "Perl-Nennig",
-    "Do 04.09.": "2",
     "Fr 05.09.": "1",
     "Sa 06.09.": "1",
     "So 07.09.": "2",
-    "Mo 08.09.": "2"
+    "Mo 08.09.": "1",
+    "Di 09.09.": "1"
   },
   {
     "Stationsname": "Tholey",
-    "Do 04.09.": "1",
-    "Fr 05.09.": "1",
-    "Sa 06.09.": "1",
-    "So 07.09.": "2",
-    "Mo 08.09.": "2"
-  },
-  {
-    "Stationsname": "Neunkirchen-Wellesweiler",
-    "Do 04.09.": "2",
-    "Fr 05.09.": "1",
-    "Sa 06.09.": "2",
-    "So 07.09.": "2",
-    "Mo 08.09.": "1"
-  },
-  {
-    "Stationsname": "Berus",
-    "Do 04.09.": "1",
-    "Fr 05.09.": "1",
-    "Sa 06.09.": "1",
-    "So 07.09.": "2",
-    "Mo 08.09.": "2"
-  },
-  {
-    "Stationsname": "Saarbrücken-Burbach",
-    "Do 04.09.": "1",
     "Fr 05.09.": "1",
     "Sa 06.09.": "1",
     "So 07.09.": "1",
-    "Mo 08.09.": "2"
+    "Mo 08.09.": "1",
+    "Di 09.09.": "1"
   },
   {
-    "Stationsname": "Saarbrücken (Flughafen)",
-    "Do 04.09.": "1",
+    "Stationsname": "Neunkirchen-Wellesweiler",
+    "Fr 05.09.": "2",
+    "Sa 06.09.": "2",
+    "So 07.09.": "3",
+    "Mo 08.09.": "2",
+    "Di 09.09.": "1"
+  },
+  {
+    "Stationsname": "Berus",
     "Fr 05.09.": "1",
     "Sa 06.09.": "1",
     "So 07.09.": "2",
-    "Mo 08.09.": "2"
+    "Mo 08.09.": "2",
+    "Di 09.09.": "1"
+  },
+  {
+    "Stationsname": "Saarbrücken-Burbach",
+    "Fr 05.09.": "1",
+    "Sa 06.09.": "1",
+    "So 07.09.": "1",
+    "Mo 08.09.": "1",
+    "Di 09.09.": "1"
+  },
+  {
+    "Stationsname": "Saarbrücken (Flughafen)",
+    "Fr 05.09.": "1",
+    "Sa 06.09.": "1",
+    "So 07.09.": "2",
+    "Mo 08.09.": "2",
+    "Di 09.09.": "2"
   }
 ]
