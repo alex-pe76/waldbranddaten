@@ -1,338 +1,338 @@
 [
   {
     "Stationsname": "Rahden-Kleinendorf",
-    "Fr 12.09.": "3",
     "Sa 13.09.": "2",
     "So 14.09.": "2",
     "Mo 15.09.": "1",
-    "Di 16.09.": "1"
+    "Di 16.09.": "2",
+    "Mi 17.09.": "2"
   },
   {
     "Stationsname": "Münster/Osnabrück (Flughafen)",
-    "Fr 12.09.": "2",
-    "Sa 13.09.": "2",
+    "Sa 13.09.": "1",
     "So 14.09.": "1",
     "Mo 15.09.": "1",
-    "Di 16.09.": "1"
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
   },
   {
     "Stationsname": "Bad Salzuflen",
-    "Fr 12.09.": "2",
     "Sa 13.09.": "2",
-    "So 14.09.": "1",
+    "So 14.09.": "2",
     "Mo 15.09.": "1",
-    "Di 16.09.": "1"
+    "Di 16.09.": "2",
+    "Mi 17.09.": "1"
   },
   {
     "Stationsname": "Ahaus",
-    "Fr 12.09.": "1",
     "Sa 13.09.": "1",
     "So 14.09.": "1",
     "Mo 15.09.": "1",
-    "Di 16.09.": "1"
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
   },
   {
     "Stationsname": "Bielefeld-Deppendorf",
-    "Fr 12.09.": "2",
     "Sa 13.09.": "2",
-    "So 14.09.": "1",
+    "So 14.09.": "2",
     "Mo 15.09.": "1",
-    "Di 16.09.": "1"
+    "Di 16.09.": "2",
+    "Mi 17.09.": "2"
   },
   {
     "Stationsname": "Borken in Westfalen",
-    "Fr 12.09.": "1",
     "Sa 13.09.": "1",
     "So 14.09.": "1",
     "Mo 15.09.": "1",
-    "Di 16.09.": "1"
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
   },
   {
     "Stationsname": "Lügde-Paenbruch",
-    "Fr 12.09.": "1",
     "Sa 13.09.": "1",
     "So 14.09.": "1",
     "Mo 15.09.": "1",
-    "Di 16.09.": "1"
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
   },
   {
     "Stationsname": "Ennigerloh-Ostenfelde",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Bad Lippspringe",
-    "Fr 12.09.": "2",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Lüdinghausen-Brochtrup",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Kleve",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Lippstadt-Bökenförde",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Waltrop-Abdinghof",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Werl",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "2",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Duisburg-Baerl",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Warburg",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Bochum",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Geldern-Walbeck",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Arnsberg-Neheim",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Brilon-Thülen",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Essen-Bredeney",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Gevelsberg-Oberbröking",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Düsseldorf (Flughafen)",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Tönisvorst",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Eslohe",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Lüdenscheid",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Wuppertal-Buchenhofen",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Kahler Asten",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Lennestadt-Theten",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Mönchengladbach-Hilderath",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Meinerzhagen-Redlendorf",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Reichshof-Eckenhagen",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Bad Berleburg-Stünzel",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Geilenkirchen-Neutevern",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Köln/Bonn (Flughafen)",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Neunkirchen-Seelscheid-Krawinkel",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Nörvenich-Niederbolheim",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Aachen-Orsbach",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Königswinter-Heiderhof",
-    "Fr 12.09.": "1",
-    "Sa 13.09.": "1",
-    "So 14.09.": "1",
-    "Mo 15.09.": "1",
-    "Di 16.09.": "1"
-  },
-  {
-    "Stationsname": "Weilerswist-Lommersum",
-    "Fr 12.09.": "1",
     "Sa 13.09.": "1",
     "So 14.09.": "1",
     "Mo 15.09.": "2",
-    "Di 16.09.": "2"
+    "Di 16.09.": "2",
+    "Mi 17.09.": "2"
+  },
+  {
+    "Stationsname": "Bad Lippspringe",
+    "Sa 13.09.": "2",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "2",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Lüdinghausen-Brochtrup",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Kleve",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Lippstadt-Bökenförde",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "2",
+    "Mi 17.09.": "2"
+  },
+  {
+    "Stationsname": "Waltrop-Abdinghof",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Werl",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "2",
+    "Di 16.09.": "2",
+    "Mi 17.09.": "2"
+  },
+  {
+    "Stationsname": "Duisburg-Baerl",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "2",
+    "Di 16.09.": "2",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Warburg",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Bochum",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "2",
+    "Mi 17.09.": "2"
+  },
+  {
+    "Stationsname": "Geldern-Walbeck",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "2",
+    "Di 16.09.": "2",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Arnsberg-Neheim",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Brilon-Thülen",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Essen-Bredeney",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Gevelsberg-Oberbröking",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Düsseldorf (Flughafen)",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "2",
+    "Di 16.09.": "2",
+    "Mi 17.09.": "2"
+  },
+  {
+    "Stationsname": "Tönisvorst",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "2",
+    "Di 16.09.": "2",
+    "Mi 17.09.": "2"
+  },
+  {
+    "Stationsname": "Eslohe",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Lüdenscheid",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Wuppertal-Buchenhofen",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Kahler Asten",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Lennestadt-Theten",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Mönchengladbach-Hilderath",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "2",
+    "Mi 17.09.": "2"
+  },
+  {
+    "Stationsname": "Meinerzhagen-Redlendorf",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Reichshof-Eckenhagen",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Bad Berleburg-Stünzel",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Geilenkirchen-Neutevern",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "2",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Köln/Bonn (Flughafen)",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "2",
+    "Mi 17.09.": "2"
+  },
+  {
+    "Stationsname": "Neunkirchen-Seelscheid-Krawinkel",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Nörvenich-Niederbolheim",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "2",
+    "Mi 17.09.": "2"
+  },
+  {
+    "Stationsname": "Aachen-Orsbach",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "2",
+    "Di 16.09.": "2",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Königswinter-Heiderhof",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "1",
+    "Di 16.09.": "2",
+    "Mi 17.09.": "1"
+  },
+  {
+    "Stationsname": "Weilerswist-Lommersum",
+    "Sa 13.09.": "1",
+    "So 14.09.": "1",
+    "Mo 15.09.": "2",
+    "Di 16.09.": "2",
+    "Mi 17.09.": "2"
   },
   {
     "Stationsname": "Nideggen-Schmidt",
-    "Fr 12.09.": "1",
     "Sa 13.09.": "1",
     "So 14.09.": "1",
     "Mo 15.09.": "1",
-    "Di 16.09.": "2"
+    "Di 16.09.": "2",
+    "Mi 17.09.": "2"
   },
   {
     "Stationsname": "Kall-Sistig",
-    "Fr 12.09.": "1",
     "Sa 13.09.": "1",
     "So 14.09.": "1",
     "Mo 15.09.": "1",
-    "Di 16.09.": "1"
+    "Di 16.09.": "1",
+    "Mi 17.09.": "1"
   }
 ]
