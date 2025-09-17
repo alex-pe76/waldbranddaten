@@ -1,498 +1,498 @@
 [
   {
     "Stationsname": "Freudenberg-Boxtal/Main",
-    "Di 16.09.": "1",
     "Mi 17.09.": "1",
     "Do 18.09.": "2",
     "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
   },
   {
     "Stationsname": "Buchen (Kreis Neckar-Odenwald)",
-    "Di 16.09.": "1",
     "Mi 17.09.": "1",
-    "Do 18.09.": "2",
+    "Do 18.09.": "1",
     "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
   },
   {
     "Stationsname": "Mannheim",
-    "Di 16.09.": "2",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Bad Mergentheim",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Niederstetten",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Ingelfingen-Stachenhausen",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Waibstadt",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Waghäusel-Kirrlach",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Öhringen",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Kirchberg-Herboldshausen/Jagst",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Eppingen-Elsenz",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Obersulm-Willsbach",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Großerlach-Mannenweiler",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Ellwangen-Rindelbach",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Rheinstetten",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Mühlacker",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Sachsenheim",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Pforzheim-Ispringen",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Kaisersbach-Cronhütte",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Stuttgart (Schnarrenberg)",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Schwäbisch Gmünd-Weiler",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Renningen",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Baden-Baden-Geroldsau",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Stuttgart (Flughafen)",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Rheinau-Memprechtshofen",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Notzingen",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Stötten",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Neubulach-Oberhaugstett",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Hermaringen-Allewind",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Seebach (Nationalpark Schwarzwald)",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "3"
-  },
-  {
-    "Stationsname": "Metzingen",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Merklingen",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Freudenstadt",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Ulm-Mähringen",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Ohlsbach",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Münsingen-Apfelstetten",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Hechingen",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Lahr",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Wolfach",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "1"
-  },
-  {
-    "Stationsname": "Balingen-Bronnhaupten",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Laupheim",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Elzach-Fisnacht",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Rottweil",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Meßstetten-Appental",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Altheim (Kreis Biberach)",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Emmendingen-Mundingen",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Klippeneck",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Sigmaringen-Laiz",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Villingen-Schwenningen",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Freiburg",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Buchenbach",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Pfullendorf",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "1"
-  },
-  {
-    "Stationsname": "Lenzkirch-Ruhbühl",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Müllheim",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Weingarten (Kreis Ravensburg)",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Leutkirch-Herlazhofen",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Singen",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Dachsberg-Wolpadingen",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Konstanz",
-    "Di 16.09.": "1",
-    "Mi 17.09.": "1",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
-  },
-  {
-    "Stationsname": "Friedrichshafen-Unterraderach",
-    "Di 16.09.": "2",
     "Mi 17.09.": "2",
     "Do 18.09.": "2",
     "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Bad Mergentheim",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Niederstetten",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "2",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Ingelfingen-Stachenhausen",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Waibstadt",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Waghäusel-Kirrlach",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "2",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Öhringen",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Kirchberg-Herboldshausen/Jagst",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Eppingen-Elsenz",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Obersulm-Willsbach",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Großerlach-Mannenweiler",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Ellwangen-Rindelbach",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Rheinstetten",
+    "Mi 17.09.": "2",
+    "Do 18.09.": "2",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Mühlacker",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "2",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Sachsenheim",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Pforzheim-Ispringen",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Kaisersbach-Cronhütte",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Stuttgart (Schnarrenberg)",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Schwäbisch Gmünd-Weiler",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Renningen",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Baden-Baden-Geroldsau",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "2",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Stuttgart (Flughafen)",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Rheinau-Memprechtshofen",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Notzingen",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Stötten",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Neubulach-Oberhaugstett",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Hermaringen-Allewind",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "2",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Seebach (Nationalpark Schwarzwald)",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Metzingen",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Merklingen",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Freudenstadt",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Ulm-Mähringen",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Ohlsbach",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Münsingen-Apfelstetten",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Hechingen",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Lahr",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "2",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Wolfach",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "1",
+    "So 21.09.": "1"
+  },
+  {
+    "Stationsname": "Balingen-Bronnhaupten",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Laupheim",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Elzach-Fisnacht",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Rottweil",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Meßstetten-Appental",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Altheim (Kreis Biberach)",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Emmendingen-Mundingen",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Klippeneck",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Sigmaringen-Laiz",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Villingen-Schwenningen",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Freiburg",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "2",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Buchenbach",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "2",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Pfullendorf",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Lenzkirch-Ruhbühl",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Müllheim",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Weingarten (Kreis Ravensburg)",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Leutkirch-Herlazhofen",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "2",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Singen",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "2",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Dachsberg-Wolpadingen",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Konstanz",
+    "Mi 17.09.": "1",
+    "Do 18.09.": "1",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
+  },
+  {
+    "Stationsname": "Friedrichshafen-Unterraderach",
+    "Mi 17.09.": "2",
+    "Do 18.09.": "2",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
   },
   {
     "Stationsname": "Wutöschingen-Ofteringen",
-    "Di 16.09.": "1",
     "Mi 17.09.": "1",
-    "Do 18.09.": "1",
+    "Do 18.09.": "2",
     "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
+    "Sa 20.09.": "2",
+    "So 21.09.": "1"
   },
   {
     "Stationsname": "Rheinfelden",
-    "Di 16.09.": "1",
     "Mi 17.09.": "1",
     "Do 18.09.": "1",
     "Fr 19.09.": "2",
-    "Sa 20.09.": "2"
+    "Sa 20.09.": "2",
+    "So 21.09.": "2"
   }
 ]
