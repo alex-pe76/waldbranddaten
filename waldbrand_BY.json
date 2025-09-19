@@ -1,786 +1,786 @@
 [
   {
     "Stationsname": "Ostheim vor der Rhön",
-    "Do 18.09.": "2",
     "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
+    "Sa 20.09.": "3",
     "So 21.09.": "2",
-    "Mo 22.09.": "1"
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
   },
   {
     "Stationsname": "Teuschnitz",
-    "Do 18.09.": "1",
     "Fr 19.09.": "1",
     "Sa 20.09.": "2",
     "So 21.09.": "2",
-    "Mo 22.09.": "1"
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
   },
   {
     "Stationsname": "Sandberg",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
+    "Fr 19.09.": "2",
     "Sa 20.09.": "2",
     "So 21.09.": "2",
-    "Mo 22.09.": "1"
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
   },
   {
     "Stationsname": "Hof",
-    "Do 18.09.": "2",
     "Fr 19.09.": "2",
     "Sa 20.09.": "3",
     "So 21.09.": "2",
-    "Mo 22.09.": "1"
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
   },
   {
     "Stationsname": "Lautertal-Oberlauter",
-    "Do 18.09.": "2",
     "Fr 19.09.": "2",
     "Sa 20.09.": "2",
     "So 21.09.": "2",
-    "Mo 22.09.": "1"
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
   },
   {
     "Stationsname": "Bad Königshofen",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Kronach",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Bad Kissingen",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Schönwald/Ofr.-Brunn",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Staffelstein, Bad-Stublang",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Kahl/Main",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Schonungen-Mainberg",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Wunsiedel-Schönbrunn",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Lohr-Halsbach/Main",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Neuhütten/Spessart",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Fichtelberg-Hüttstadl/Oberfranken",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "1",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Arnstein-Müdesheim",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Heinersreuth-Vollhof",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Bamberg",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Tirschenreuth-Lodermühl",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Ebrach",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Neustadt-Filchendorf am Kulm",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Würzburg",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Röllbach",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Kitzingen",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Weiden",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Gräfenberg-Kasberg",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Möhrendorf-Kleinseebach",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Gollhofen",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Nürnberg (Flughafen)",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Markt Erlbach-Hagenhofen",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Pommelsbrunn-Mittelburg",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Amberg-Unterammersricht",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Oberviechtach",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Kümmersbruck",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "2"
-  },
-  {
-    "Stationsname": "Nürnberg-Netzstall",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Waldmünchen",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "1",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Rothenburg ob der Tauber",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Schwandorf",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Weidenbach-Weiherschneidbach",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Roth",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Schorndorf-Knöbling",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "1",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Feuchtwangen-Heilbronn",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Parsberg-Eglwang/Oberpfalz",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Regensburg",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Zwiesel",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Weißenburg-Emetzheim",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Gelbelsee",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Eichstätt-Landershofen",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Metten",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "1",
-    "So 21.09.": "1",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Kösching",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Straubing",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Reimlingen",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Harburg",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Grainet-Rehberg",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Saldenburg-Entschenreuth",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "2"
-  },
-  {
-    "Stationsname": "Mallersdorf-Pfaffenberg-Oberlindhart",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Donauwörth-Osterweiler",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Ingolstadt-Manching",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Neuburg an der Donau",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Elsendorf-Horneck",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Gottfrieding",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "2"
-  },
-  {
-    "Stationsname": "Aldersbach-Kramersepp",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "2"
-  },
-  {
-    "Stationsname": "Dillingen/Donau-Fristingen",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "1",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Fürstenzell",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Günzburg",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Falkenberg (Kreis Rottal-Inn)",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "2"
-  },
-  {
-    "Stationsname": "Augsburg",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Altomünster-Maisbrunn",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Freising-Dürnast",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "München (Flughafen)",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Neuburg/Kammel-Langenhaslach",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Mühldorf",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "2"
-  },
-  {
-    "Stationsname": "Simbach/Inn",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Maisach-Galgen",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Lechfeld",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "München-Stadt",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Ebersberg-Halbing",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Trostberg",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Amerang-Pfaffing",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Oberhaching-Laufzorn",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Memmingen",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Chieming",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "2"
-  },
-  {
-    "Stationsname": "Wielenbach",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "2"
-  },
-  {
-    "Stationsname": "Holzkirchen",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Attenkam",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "2"
-  },
-  {
-    "Stationsname": "Kaufbeuren-Oberbeuren",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Siegsdorf-Höll",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "2"
-  },
-  {
-    "Stationsname": "Altenstadt",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Hohenpeißenberg",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "2"
-  },
-  {
-    "Stationsname": "Piding",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Kempten",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Bad Kohlgrub",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "1",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Oy-Mittelberg-Petersthal",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Kiefersfelden-Gach",
-    "Do 18.09.": "1",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "2"
-  },
-  {
-    "Stationsname": "Sigmarszell",
-    "Do 18.09.": "2",
-    "Fr 19.09.": "2",
-    "Sa 20.09.": "2",
-    "So 21.09.": "2",
-    "Mo 22.09.": "1"
-  },
-  {
-    "Stationsname": "Garmisch-Partenkirchen",
-    "Do 18.09.": "1",
     "Fr 19.09.": "2",
     "Sa 20.09.": "3",
     "So 21.09.": "2",
-    "Mo 22.09.": "1"
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
   },
   {
-    "Stationsname": "Oberstdorf",
-    "Do 18.09.": "1",
+    "Stationsname": "Kronach",
     "Fr 19.09.": "2",
     "Sa 20.09.": "2",
     "So 21.09.": "2",
-    "Mo 22.09.": "1"
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Bad Kissingen",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "1",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Schönwald/Ofr.-Brunn",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Staffelstein, Bad-Stublang",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Kahl/Main",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Schonungen-Mainberg",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Wunsiedel-Schönbrunn",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Lohr-Halsbach/Main",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "1",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Neuhütten/Spessart",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "1",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Fichtelberg-Hüttstadl/Oberfranken",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Arnstein-Müdesheim",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Heinersreuth-Vollhof",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Bamberg",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Tirschenreuth-Lodermühl",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Ebrach",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Neustadt-Filchendorf am Kulm",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Würzburg",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Röllbach",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "3",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Kitzingen",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Weiden",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Gräfenberg-Kasberg",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Möhrendorf-Kleinseebach",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Gollhofen",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Nürnberg (Flughafen)",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Markt Erlbach-Hagenhofen",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Pommelsbrunn-Mittelburg",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Amberg-Unterammersricht",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Oberviechtach",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Kümmersbruck",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Nürnberg-Netzstall",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Waldmünchen",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Rothenburg ob der Tauber",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Schwandorf",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Weidenbach-Weiherschneidbach",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Roth",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Schorndorf-Knöbling",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Feuchtwangen-Heilbronn",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Parsberg-Eglwang/Oberpfalz",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Regensburg",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Zwiesel",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Weißenburg-Emetzheim",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Gelbelsee",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Eichstätt-Landershofen",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Metten",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "1",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Kösching",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Straubing",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Reimlingen",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Harburg",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Grainet-Rehberg",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Saldenburg-Entschenreuth",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "2",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Mallersdorf-Pfaffenberg-Oberlindhart",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Donauwörth-Osterweiler",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "1",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Ingolstadt-Manching",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Neuburg an der Donau",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Elsendorf-Horneck",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Gottfrieding",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Aldersbach-Kramersepp",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "2",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Dillingen/Donau-Fristingen",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "1",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Fürstenzell",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Günzburg",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Falkenberg (Kreis Rottal-Inn)",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "2",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Augsburg",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Altomünster-Maisbrunn",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Freising-Dürnast",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "München (Flughafen)",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Neuburg/Kammel-Langenhaslach",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Mühldorf",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "2",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Simbach/Inn",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Maisach-Galgen",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Lechfeld",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "München-Stadt",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Ebersberg-Halbing",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Trostberg",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Amerang-Pfaffing",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "1",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Oberhaching-Laufzorn",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Memmingen",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Chieming",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "2",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Wielenbach",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Holzkirchen",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Attenkam",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Kaufbeuren-Oberbeuren",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Siegsdorf-Höll",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "2",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Altenstadt",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Hohenpeißenberg",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Piding",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Kempten",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Bad Kohlgrub",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Oy-Mittelberg-Petersthal",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Kiefersfelden-Gach",
+    "Fr 19.09.": "1",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Sigmarszell",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Garmisch-Partenkirchen",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
+  },
+  {
+    "Stationsname": "Oberstdorf",
+    "Fr 19.09.": "2",
+    "Sa 20.09.": "2",
+    "So 21.09.": "2",
+    "Mo 22.09.": "1",
+    "Di 23.09.": "1"
   }
 ]
