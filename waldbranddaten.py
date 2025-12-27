@@ -1,6 +1,8 @@
 import pandas as pd
 import json
 import re
+import os
+from datetime import datetime, timezone
 from rapidfuzz import process
 
 bundeslaender = {
@@ -22,10 +24,22 @@ bundeslaender = {
     "TH": "Thüringen"
 }
 
+
 base_url = "https://www.dwd.de/DWD/warnungen/agrar/wbx/wbx_tab_alle_{kuerzel}.html"
+
+# Heuristik: Die DWD-Waldbrandindex-Tabellen sind saisonal (typisch April–September).
+# Wir behandeln Oktober–März als Off-Season und erwarten ggf. 404.
+OFFSEASON_MONTHS = {10, 11, 12, 1, 2, 3}
+run_ts = datetime.now(timezone.utc).isoformat(timespec="seconds")
+
+
+fetch_ok = 0
+fetch_404 = 0
+fetch_other_err = 0
 
 for kuerzel, name in bundeslaender.items():
     url = base_url.format(kuerzel=kuerzel)
+    outfile = f"waldbrand_{kuerzel}.json"
     try:
         dfs = pd.read_html(url)
         print(f"✅ {name} ({kuerzel}): {len(dfs)} Tabellen gefunden")
@@ -34,19 +48,39 @@ for kuerzel, name in bundeslaender.items():
             # Filtere die Legenden-Zeile heraus (die eine Wiederholung der Spaltennamen ist)
             df = df[df[df.columns[0]] != df.columns[0]]
             df_json = df.to_dict(orient="records")
-            with open(f"waldbrand_{kuerzel}.json", "w", encoding="utf-8") as f:
+            with open(outfile, "w", encoding="utf-8") as f:
                 json.dump(df_json, f, ensure_ascii=False, indent=2)
-            print(f"💾 Datei gespeichert: waldbrand_{kuerzel}.json")
+            fetch_ok += 1
+            print(f"💾 Datei gespeichert: {outfile}")
         else:
             print(f"⚠️ {name}: Zu wenige Tabellen")
     except Exception as e:
-        print(f"❌ Fehler bei {name} ({kuerzel}): {e}")
+        msg = str(e)
+        # In der Off-Season liefert DWD häufig 404. Dann behalten wir die zuletzt bekannten Dateien bei.
+        if "HTTP Error 404" in msg or "404" in msg:
+            fetch_404 += 1
+            if os.path.exists(outfile):
+                print(f"🧊 Off-Season/404 für {name} ({kuerzel}) – verwende bestehende Datei: {outfile}")
+            else:
+                print(f"🧊 Off-Season/404 für {name} ({kuerzel}) – keine bestehende Datei vorhanden")
+        else:
+            fetch_other_err += 1
+            print(f"❌ Fehler bei {name} ({kuerzel}): {e}")
 
 
 # Alle einzelnen JSON-Dateien zusammenführen
-import os
 
 gesamt_daten = []
+
+meta = {
+    "run_timestamp_utc": run_ts,
+    "source": "DWD wbx_tab_alle_{BL}.html",
+    "fetch_ok": fetch_ok,
+    "fetch_404": fetch_404,
+    "fetch_other_err": fetch_other_err,
+    "offseason_expected": datetime.now().month in OFFSEASON_MONTHS,
+    "data_status": "unknown"
+}
 
 for kuerzel in bundeslaender.keys():
     dateiname = f"waldbrand_{kuerzel}.json"
@@ -56,6 +90,17 @@ for kuerzel in bundeslaender.keys():
             for eintrag in eintraege:
                 eintrag["Bundesland"] = bundeslaender[kuerzel]
             gesamt_daten.extend(eintraege)
+
+# Status bestimmen: wenn alle Abrufe 404 waren (oder Off-Season), markieren wir Daten als "stale/offseason".
+if fetch_ok == 0 and fetch_404 > 0:
+    meta["data_status"] = "offseason_or_unavailable"
+else:
+    meta["data_status"] = "fresh_or_partial"
+
+# Meta-Datei schreiben (für die App/UI hilfreich)
+with open("waldbrand_meta.json", "w", encoding="utf-8") as f:
+    json.dump(meta, f, ensure_ascii=False, indent=2)
+print(f"🧾 Meta gespeichert: waldbrand_meta.json ({meta['data_status']})")
 
 # Nach dem Einlesen von gesamt_daten: Doppelte normalisierte Stationsnamen identifizieren
 from collections import Counter
@@ -73,11 +118,13 @@ counter = Counter([normalize_name(e.get("Stationsname", "")) for e in gesamt_dat
 mehrfach_namen = {k: v for k, v in counter.items() if v > 1}
 print(f"👀 Mehrfache Stationsnamen (normalisiert): {mehrfach_namen}")
 
-# Gesamtdatei schreiben
-with open("waldbrand_gesamt.json", "w", encoding="utf-8") as f:
-    json.dump(gesamt_daten, f, ensure_ascii=False, indent=2)
-
-print("✅ Gesamtdatei gespeichert: waldbrand_gesamt.json")
+# Gesamtdatei schreiben (nur überschreiben, wenn wir überhaupt Daten haben)
+if len(gesamt_daten) == 0:
+    print("⚠️ Keine Gesamtdaten vorhanden – waldbrand_gesamt.json wird nicht überschrieben.")
+else:
+    with open("waldbrand_gesamt.json", "w", encoding="utf-8") as f:
+        json.dump(gesamt_daten, f, ensure_ascii=False, indent=2)
+    print("✅ Gesamtdatei gespeichert: waldbrand_gesamt.json")
 
  # Geokoordinaten ergänzen auf Basis von mosmix_stationskatalog1.txt
 print("📍 Versuche Geokoordinaten über mosmix_stationskatalog1.txt zu ergänzen...")
@@ -166,13 +213,18 @@ except Exception as e:
     print(f"❌ Fehler beim Einlesen der MOSMIX-Daten: {e}")
 
 # Datei mit Koordinaten speichern
-with open("waldbrand_gesamt.json", "w", encoding="utf-8") as f:
-    for eintrag in gesamt_daten:
-        lat = eintrag.get("Latitude")
-        lon = eintrag.get("Longitude")
-        if not isinstance(lat, (int, float)) or pd.isna(lat):
-            eintrag["Latitude"] = 0.0
-        if not isinstance(lon, (int, float)) or pd.isna(lon):
-            eintrag["Longitude"] = 0.0
-    json.dump(gesamt_daten, f, ensure_ascii=False, indent=2)
-print("✅ Gesamtdatei mit Koordinaten gespeichert: waldbrand_gesamt.json")
+if len(gesamt_daten) == 0:
+    print("⚠️ Keine Gesamtdaten vorhanden – Koordinaten-Writeback wird übersprungen.")
+else:
+    with open("waldbrand_gesamt.json", "w", encoding="utf-8") as f:
+        for eintrag in gesamt_daten:
+            lat = eintrag.get("Latitude")
+            lon = eintrag.get("Longitude")
+            if not isinstance(lat, (int, float)) or pd.isna(lat):
+                eintrag["Latitude"] = 0.0
+            if not isinstance(lon, (int, float)) or pd.isna(lon):
+                eintrag["Longitude"] = 0.0
+            # Für die App: Zeitstempel des letzten Pipeline-Laufs pro Eintrag
+            eintrag["pipeline_run_utc"] = run_ts
+        json.dump(gesamt_daten, f, ensure_ascii=False, indent=2)
+    print("✅ Gesamtdatei mit Koordinaten gespeichert: waldbrand_gesamt.json")
