@@ -1,5 +1,5 @@
 {
-  "run_timestamp_utc": "2026-02-11T06:50:14+00:00",
+  "run_timestamp_utc": "2026-02-12T06:49:18+00:00",
   "source": "DWD wbx_tab_alle_{BL}.html",
   "fetch_ok": 0,
   "fetch_404": 16,
