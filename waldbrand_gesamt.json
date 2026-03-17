@@ -1,1571 +1,1571 @@
 [
   {
     "Stationsname": "Freudenberg-Boxtal/Main",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 49.46,
     "Longitude": 9.25,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Buchen (Kreis Neckar-Odenwald)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 49.31,
     "Longitude": 9.19,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Mannheim",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 49.31,
     "Longitude": 8.33,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Mergentheim",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 49.29,
     "Longitude": 9.46,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Niederstetten",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 49.24,
     "Longitude": 9.58,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Ingelfingen-Stachenhausen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 49.2,
     "Longitude": 9.42,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Waibstadt",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 49.17,
     "Longitude": 8.55,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Waghäusel-Kirrlach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 49.14,
     "Longitude": 8.32,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Öhringen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 49.13,
     "Longitude": 9.31,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kirchberg-Herboldshausen/Jagst",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 49.11,
     "Longitude": 9.59,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Eppingen-Elsenz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 49.1,
     "Longitude": 8.51,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Obersulm-Willsbach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 49.08,
     "Longitude": 9.21,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Großerlach-Mannenweiler",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 49.01,
     "Longitude": 9.36,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Ellwangen-Rindelbach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.59,
     "Longitude": 10.08,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Rheinstetten",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.58,
     "Longitude": 8.19,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Mühlacker",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.58,
     "Longitude": 8.52,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Sachsenheim",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.57,
     "Longitude": 9.04,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Pforzheim-Ispringen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.54,
     "Longitude": 8.44,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kaisersbach-Cronhütte",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.55,
     "Longitude": 9.41,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Stuttgart (Schnarrenberg)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.4,
     "Longitude": 9.11,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Schwäbisch Gmünd-Weiler",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 49.07,
     "Longitude": 9.45,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Renningen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.46,
     "Longitude": 8.57,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Baden-Baden-Geroldsau",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.46,
     "Longitude": 8.15,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Stuttgart (Flughafen)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.4,
     "Longitude": 9.11,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Rheinau-Memprechtshofen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 49.26,
     "Longitude": 8.33,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Notzingen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.4,
     "Longitude": 9.28,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Stötten",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.4,
     "Longitude": 9.52,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Neubulach-Oberhaugstett",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.39,
     "Longitude": 8.41,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Hermaringen-Allewind",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.37,
     "Longitude": 10.16,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Seebach (Nationalpark Schwarzwald)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 17.37,
     "Longitude": -71.25,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Metzingen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.32,
     "Longitude": 9.16,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Freudenstadt",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.27,
     "Longitude": 8.24,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Ulm-Mähringen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.23,
     "Longitude": 9.57,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Ohlsbach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.26,
     "Longitude": 7.59,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Münsingen-Apfelstetten",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.23,
     "Longitude": 9.29,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Hechingen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.23,
     "Longitude": 8.59,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lahr",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
-    "Mi 18.03.": "2",
+    "Mi 18.03.": "1",
     "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "2",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.22,
     "Longitude": 7.5,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wolfach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.18,
     "Longitude": 8.14,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Balingen-Bronnhaupten",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.17,
     "Longitude": 8.53,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Laupheim",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.13,
     "Longitude": 9.55,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Elzach-Fisnacht",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.12,
     "Longitude": 8.07,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Rottweil",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.11,
     "Longitude": 8.38,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Meßstetten-Appental",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.11,
     "Longitude": 9.0,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Altheim (Kreis Biberach)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.07,
     "Longitude": 9.48,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Emmendingen-Mundingen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
-    "Mi 18.03.": "1",
+    "Mi 18.03.": "2",
     "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.08,
     "Longitude": 7.5,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Klippeneck",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.07,
     "Longitude": 8.45,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Sigmaringen-Laiz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.04,
     "Longitude": 9.11,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Villingen-Schwenningen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.03,
     "Longitude": 8.28,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Freiburg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "2",
     "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 48.01,
     "Longitude": 7.5,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Buchenbach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
-    "Mi 18.03.": "2",
+    "Mi 18.03.": "1",
     "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 47.58,
     "Longitude": 8.0,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Pfullendorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 47.56,
     "Longitude": 9.17,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lenzkirch-Ruhbühl",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Do 19.03.": "2",
+    "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 47.52,
     "Longitude": 8.14,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Müllheim",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "2",
     "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "2",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 47.49,
     "Longitude": 7.38,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Weingarten (Kreis Ravensburg)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "2",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 47.48,
     "Longitude": 9.37,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Leutkirch-Herlazhofen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 47.5,
     "Longitude": 10.01,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Singen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
-    "Mi 18.03.": "2",
+    "Mi 18.03.": "1",
     "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 47.45,
     "Longitude": 8.49,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Dachsberg-Wolpadingen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 47.42,
     "Longitude": 8.07,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Konstanz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
-    "Mi 18.03.": "2",
-    "Do 19.03.": "3",
+    "Mi 18.03.": "1",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 47.41,
     "Longitude": 9.11,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Friedrichshafen-Unterraderach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
-    "Mi 18.03.": "2",
-    "Do 19.03.": "3",
+    "Mi 18.03.": "1",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 47.4,
     "Longitude": 9.31,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wutöschingen-Ofteringen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 47.41,
     "Longitude": 8.23,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Rheinfelden",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "2",
     "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Baden-Württemberg",
     "Latitude": 47.34,
     "Longitude": 7.47,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Ostheim vor der Rhön",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 50.27,
     "Longitude": 10.13,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Teuschnitz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 50.24,
     "Longitude": 11.23,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Sandberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 50.21,
     "Longitude": 10.0,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Hof",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 50.19,
     "Longitude": 11.53,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lautertal-Oberlauter",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.43,
     "Longitude": 8.41,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Königshofen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 50.17,
     "Longitude": 10.27,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kronach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 50.14,
     "Longitude": 11.2,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Kissingen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 50.12,
     "Longitude": 10.05,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Schönwald/Ofr.-Brunn",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 49.23,
     "Longitude": 11.22,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Staffelstein, Bad-Stublang",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 50.07,
     "Longitude": 11.0,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kahl/Main",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 50.04,
     "Longitude": 9.01,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Schonungen-Mainberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 50.04,
     "Longitude": 10.18,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wunsiedel-Schönbrunn",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 48.34,
     "Longitude": 12.12,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lohr-Halsbach/Main",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 50.01,
     "Longitude": 9.37,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Neuhütten/Spessart",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 50.01,
     "Longitude": 9.25,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Fichtelberg-Hüttstadl/Oberfranken",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 50.26,
     "Longitude": 12.57,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Arnstein-Müdesheim",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.58,
     "Longitude": 9.55,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Heinersreuth-Vollhof",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.58,
     "Longitude": 11.31,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bamberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.53,
     "Longitude": 10.55,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Tirschenreuth-Lodermühl",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 49.53,
     "Longitude": 12.21,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Ebrach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.51,
     "Longitude": 10.29,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Neustadt-Filchendorf am Kulm",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 49.49,
     "Longitude": 11.52,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Würzburg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.46,
     "Longitude": 9.58,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Röllbach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.46,
     "Longitude": 9.15,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kitzingen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.44,
     "Longitude": 10.12,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Weiden",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "2",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.4,
     "Longitude": 12.11,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Gräfenberg-Kasberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.39,
     "Longitude": 11.15,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Möhrendorf-Kleinseebach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.39,
     "Longitude": 11.01,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Gollhofen",
-    "Mo 16.03.": "2",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.34,
     "Longitude": 10.11,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Nürnberg (Flughafen)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.3,
     "Longitude": 11.03,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Markt Erlbach-Hagenhofen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 49.32,
     "Longitude": 10.38,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Pommelsbrunn-Mittelburg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.29,
     "Longitude": 11.32,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Amberg-Unterammersricht",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "2",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 49.28,
     "Longitude": 11.51,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Oberviechtach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.27,
     "Longitude": 12.25,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kümmersbruck",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.26,
     "Longitude": 11.54,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Nürnberg-Netzstall",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.3,
     "Longitude": 11.03,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Waldmünchen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 49.23,
     "Longitude": 12.41,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Rothenburg ob der Tauber",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.23,
     "Longitude": 10.1,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Schwandorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 49.2,
     "Longitude": 12.07,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Weidenbach-Weiherschneidbach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.13,
     "Longitude": 10.37,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Roth",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.13,
     "Longitude": 11.06,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Schorndorf-Knöbling",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 48.47,
     "Longitude": 9.31,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Feuchtwangen-Heilbronn",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.1,
     "Longitude": 10.22,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Parsberg-Eglwang/Oberpfalz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.09,
     "Longitude": 11.41,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Regensburg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.02,
     "Longitude": 12.06,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Zwiesel",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.02,
     "Longitude": 13.14,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Weißenburg-Emetzheim",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 49.01,
     "Longitude": 10.56,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Gelbelsee",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.57,
     "Longitude": 11.26,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Eichstätt-Landershofen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.54,
     "Longitude": 11.1,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Metten",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.51,
     "Longitude": 12.55,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kösching",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.5,
     "Longitude": 11.29,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Straubing",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.5,
     "Longitude": 12.34,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Reimlingen",
-    "Mo 16.03.": "2",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.5,
     "Longitude": 10.31,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Harburg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.47,
     "Longitude": 10.43,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Grainet-Rehberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.47,
     "Longitude": 13.38,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Saldenburg-Entschenreuth",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.47,
     "Longitude": 13.19,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Mallersdorf-Pfaffenberg-Oberlindhart",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 48.47,
     "Longitude": 12.15,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Donauwörth-Osterweiler",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 48.43,
     "Longitude": 10.47,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Ingolstadt-Manching",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.43,
     "Longitude": 11.32,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Neuburg an der Donau",
-    "Mo 16.03.": "2",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.43,
     "Longitude": 11.13,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Elsendorf-Horneck",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.42,
     "Longitude": 11.48,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Gottfrieding",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.4,
     "Longitude": 12.32,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Aldersbach-Kramersepp",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.37,
     "Longitude": 13.03,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Dillingen/Donau-Fristingen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 48.34,
     "Longitude": 10.34,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Fürstenzell",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.33,
     "Longitude": 13.21,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Günzburg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 48.29,
     "Longitude": 10.16,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Falkenberg (Kreis Rottal-Inn)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.29,
     "Longitude": 12.43,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Augsburg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.26,
     "Longitude": 10.56,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Altomünster-Maisbrunn",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 48.23,
     "Longitude": 11.15,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Freising-Dürnast",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Vorschlaege": [
       {
@@ -1583,1371 +1583,1371 @@
     ],
     "Latitude": 0.0,
     "Longitude": 0.0,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "München (Flughafen)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 48.22,
     "Longitude": 11.48,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Neuburg/Kammel-Langenhaslach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.19,
     "Longitude": 10.23,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Mühldorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
-    "Fr 20.03.": "2",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 48.17,
     "Longitude": 12.3,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Simbach/Inn",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.16,
     "Longitude": 13.02,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Maisach-Galgen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 48.13,
     "Longitude": 11.12,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lechfeld",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.11,
     "Longitude": 10.51,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "München-Stadt",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 48.1,
     "Longitude": 11.32,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Ebersberg-Halbing",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 48.05,
     "Longitude": 11.57,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Trostberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 48.01,
     "Longitude": 12.33,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Amerang-Pfaffing",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 48.01,
     "Longitude": 12.17,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Oberhaching-Laufzorn",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 48.01,
     "Longitude": 11.33,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Memmingen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 47.59,
     "Longitude": 10.14,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Chieming",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 47.53,
     "Longitude": 12.32,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wielenbach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 47.53,
     "Longitude": 11.1,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Holzkirchen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 47.53,
     "Longitude": 11.42,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Attenkam",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 47.53,
     "Longitude": 11.22,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kaufbeuren-Oberbeuren",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 47.53,
     "Longitude": 10.36,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Siegsdorf-Höll",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Bayern",
     "Latitude": 47.5,
     "Longitude": 12.39,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Altenstadt",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 47.5,
     "Longitude": 10.52,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Hohenpeißenberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 47.48,
     "Longitude": 11.01,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Piding",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Bayern",
     "Latitude": 47.46,
     "Longitude": 12.55,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kempten",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 47.43,
     "Longitude": 10.2,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Kohlgrub",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Bayern",
     "Latitude": 47.4,
     "Longitude": 11.05,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Oy-Mittelberg-Petersthal",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 47.38,
     "Longitude": 10.23,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kiefersfelden-Gach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 47.37,
     "Longitude": 12.1,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Schönau am Königssee",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Bayern",
     "Latitude": 47.35,
     "Longitude": 9.41,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Sigmarszell",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Do 19.03.": "2",
+    "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Bayern",
     "Latitude": 47.35,
     "Longitude": 9.44,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Garmisch-Partenkirchen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 47.29,
     "Longitude": 11.04,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Mittenwald",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Bayern",
     "Latitude": 47.27,
     "Longitude": 11.16,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Oberstdorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Bayern",
     "Latitude": 47.24,
     "Longitude": 10.17,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Berlin-Buch",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Berlin",
     "Latitude": 52.38,
     "Longitude": 13.3,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Berlin-Marzahn",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Berlin",
     "Latitude": 52.32,
     "Longitude": 13.34,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Berlin-Tempelhof",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Berlin",
     "Latitude": 52.28,
     "Longitude": 13.24,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Berlin-Dahlem",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Berlin",
     "Latitude": 52.28,
     "Longitude": 13.18,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Grünow",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
-    "Mi 18.03.": "2",
-    "Do 19.03.": "3",
-    "Fr 20.03.": "3",
+    "Mi 18.03.": "1",
+    "Do 19.03.": "2",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Brandenburg",
     "Latitude": 53.19,
     "Longitude": 13.56,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wittstock-Rote Mühle",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Brandenburg",
     "Latitude": 53.11,
     "Longitude": 12.31,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Stechlin-Menz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Brandenburg",
     "Latitude": 53.06,
     "Longitude": 13.02,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lenzen/Elbe",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Brandenburg",
     "Latitude": 53.06,
     "Longitude": 11.29,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Angermünde",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Brandenburg",
     "Latitude": 53.02,
     "Longitude": 14.0,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Zehdenick",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Brandenburg",
     "Latitude": 52.58,
     "Longitude": 13.2,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Neuruppin-Alt Ruppin",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Brandenburg",
     "Latitude": 52.54,
     "Longitude": 12.49,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kyritz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Brandenburg",
     "Latitude": 52.56,
     "Longitude": 12.25,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Heckelberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Brandenburg",
     "Latitude": 52.45,
     "Longitude": 13.5,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Berge",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Brandenburg",
     "Latitude": 52.37,
     "Longitude": 12.47,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Manschnow",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Brandenburg",
     "Latitude": 52.33,
     "Longitude": 14.33,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Müncheberg",
-    "Mo 16.03.": "2",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Brandenburg",
     "Latitude": 52.31,
     "Longitude": 14.07,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Potsdam",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Brandenburg",
     "Latitude": 52.23,
     "Longitude": 13.04,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Berlin Brandenburg (Flughafen)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Brandenburg",
     "Latitude": 52.23,
     "Longitude": 13.31,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wusterwitz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Brandenburg",
     "Latitude": 52.22,
     "Longitude": 12.23,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lindenberg",
-    "Mo 16.03.": "2",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Brandenburg",
     "Latitude": 52.13,
     "Longitude": 14.07,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wiesenburg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Brandenburg",
     "Latitude": 52.07,
     "Longitude": 12.28,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Baruth",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Brandenburg",
     "Latitude": 52.04,
     "Longitude": 13.3,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Coschen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Brandenburg",
     "Latitude": 52.01,
     "Longitude": 14.44,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lübben-Blumenfelde",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Brandenburg",
     "Latitude": 51.56,
     "Longitude": 13.53,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Langenlipsdorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Brandenburg",
     "Latitude": 51.55,
     "Longitude": 13.05,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Cottbus",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Brandenburg",
     "Latitude": 51.47,
     "Longitude": 14.19,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Holzdorf-Bernsdorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Brandenburg",
     "Latitude": 51.46,
     "Longitude": 13.11,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Doberlug-Kirchhain",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Brandenburg",
     "Latitude": 51.39,
     "Longitude": 13.34,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Schipkau-Klettwitz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Brandenburg",
     "Latitude": 51.34,
     "Longitude": 13.53,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bremerhaven",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Bremen",
     "Latitude": 53.32,
     "Longitude": 8.35,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bremen (Flughafen)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Bremen",
     "Latitude": 53.03,
     "Longitude": 8.48,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Hamburg (Flughafen)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Hamburg",
     "Latitude": 53.38,
     "Longitude": 10.0,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Hamburg-Neuwiedenthal",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Hamburg",
     "Latitude": 53.29,
     "Longitude": 9.54,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wesertal-Lippoldsberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Hessen",
     "Latitude": 51.37,
     "Longitude": 9.35,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Twistetal-Mühlhausen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Hessen",
     "Latitude": 51.12,
     "Longitude": 10.3,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Schauenburg-Elgershausen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Hessen",
     "Latitude": 51.17,
     "Longitude": 9.22,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Eschwege",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Hessen",
     "Latitude": 51.11,
     "Longitude": 10.04,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Fritzlar/Eder",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Hessen",
     "Latitude": 51.07,
     "Longitude": 9.17,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Sontra",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Hessen",
     "Latitude": 51.03,
     "Longitude": 9.55,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Burgwald-Bottendorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Hessen",
     "Latitude": 51.02,
     "Longitude": 8.49,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Gilserberg-Moischeid",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 50.58,
     "Longitude": 9.03,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Neukirchen-Hauptschwenda",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 51.04,
     "Longitude": 10.2,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Hersfeld",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Hessen",
     "Latitude": 50.51,
     "Longitude": 9.44,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Cölbe",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Hessen",
     "Latitude": 50.51,
     "Longitude": 8.46,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Neu-Ulrichstein",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 50.35,
     "Longitude": 9.12,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Alsfeld-Eifa",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 50.44,
     "Longitude": 9.2,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Tann/Rhön",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Hessen",
     "Latitude": 50.38,
     "Longitude": 10.01,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wettenberg bei Gießen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Hessen",
     "Latitude": 50.36,
     "Longitude": 8.38,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Fulda-Horas",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Hessen",
     "Latitude": 50.33,
     "Longitude": 9.39,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Löhnberg-Obershausen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 50.34,
     "Longitude": 8.14,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Hoherodskopf/Vogelsberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 50.32,
     "Longitude": 9.14,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wasserkuppe",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 50.3,
     "Longitude": 9.56,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Runkel-Ennerich",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Hessen",
     "Latitude": 50.23,
     "Longitude": 8.08,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Nauheim",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 50.22,
     "Longitude": 8.46,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Schlüchtern-Herolz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 50.21,
     "Longitude": 9.31,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Gründau-Breitenborn",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 50.16,
     "Longitude": 9.11,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Waldems-Reinborn",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 50.16,
     "Longitude": 8.21,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kleiner Feldberg/Taunus",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 47.53,
     "Longitude": 8.0,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wiesbaden-Auringen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 50.03,
     "Longitude": 8.2,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Frankfurt/Main-Westend",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 50.05,
     "Longitude": 8.35,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Offenbach-Wetterpark",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 50.07,
     "Longitude": 8.44,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Frankfurt (Flughafen)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 50.05,
     "Longitude": 8.35,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Geisenheim",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 49.59,
     "Longitude": 7.57,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Schaafheim-Schlierbach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 49.55,
     "Longitude": 8.58,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Darmstadt",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 49.53,
     "Longitude": 8.41,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Michelstadt-Vielbrunn",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 49.43,
     "Longitude": 9.06,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Michelstadt",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 49.43,
     "Longitude": 9.06,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Oberzent-Beerfelden",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Hessen",
     "Latitude": 49.34,
     "Longitude": 8.58,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Arkona",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 54.41,
     "Longitude": 13.26,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Insel Hiddensee",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 54.34,
     "Longitude": 13.06,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Putbus",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 54.22,
     "Longitude": 13.29,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Barth",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 54.2,
     "Longitude": 12.43,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Steinhagen-Negast",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 52.01,
     "Longitude": 8.25,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Greifswalder Oie",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 54.14,
     "Longitude": 13.55,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Rostock-Warnemünde",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 54.11,
     "Longitude": 12.05,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Karlshagen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 54.06,
     "Longitude": 13.49,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Greifswald",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 54.06,
     "Longitude": 13.25,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Sanitz-Groß Lüsewitz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 54.04,
     "Longitude": 12.2,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Tribsees",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 54.05,
     "Longitude": 12.47,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Boltenhagen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "1",
+    "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 54.0,
     "Longitude": 11.11,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kirchdorf/Poel",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 54.0,
     "Longitude": 11.26,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Laage-Kronskamp",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 53.55,
     "Longitude": 12.17,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Anklam",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 53.5,
     "Longitude": 13.41,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Gülzow-Prüzen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Vorschlaege": [
       {
@@ -2965,231 +2965,231 @@
     ],
     "Latitude": 0.0,
     "Longitude": 0.0,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Teterow",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 53.46,
     "Longitude": 12.37,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Ueckermünde",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 53.44,
     "Longitude": 14.04,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Schwerin",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 53.38,
     "Longitude": 11.23,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Goldberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 53.37,
     "Longitude": 12.06,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Trollenhagen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 53.36,
     "Longitude": 13.18,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Waren (Müritz)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 53.31,
     "Longitude": 12.4,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Boizenburg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 53.23,
     "Longitude": 10.41,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Grambow-Schwennenz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 53.23,
     "Longitude": 14.22,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Marnitz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 53.19,
     "Longitude": 11.56,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Feldberg/Mecklenburg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Latitude": 53.19,
     "Longitude": 13.25,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Cuxhaven",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 53.52,
     "Longitude": 8.43,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Freiburg/Elbe",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Niedersachsen",
     "Latitude": 48.01,
     "Longitude": 7.5,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Nordholz-Wanhöden",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 53.46,
     "Longitude": 8.4,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Norderney",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 53.43,
     "Longitude": 7.09,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Steinau (Kreis Cuxhaven)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 53.52,
     "Longitude": 8.43,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wangerland-Hooksiel",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Niedersachsen",
     "Latitude": 53.38,
     "Longitude": 8.05,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Borkum",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Niedersachsen",
     "Latitude": 53.34,
     "Longitude": 6.45,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Mittelnkirchen-Hohenfelde",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 53.33,
     "Longitude": 9.37,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wittmundhafen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Vorschlaege": [
       {
@@ -3207,555 +3207,555 @@
     ],
     "Latitude": 0.0,
     "Longitude": 0.0,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bremervörde",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 53.3,
     "Longitude": 9.1,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Emden",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 53.21,
     "Longitude": 7.12,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Rosengarten-Klecken",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 53.22,
     "Longitude": 9.57,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Worpswede-Hüttenbusch",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 53.17,
     "Longitude": 8.59,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wendisch Evern",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 53.13,
     "Longitude": 10.28,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Rotenburg/Wümme",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 53.08,
     "Longitude": 9.21,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Friesoythe-Altenoythe",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 53.01,
     "Longitude": 7.52,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lüchow",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.58,
     "Longitude": 11.08,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Soltau",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.58,
     "Longitude": 9.47,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Dörpen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.57,
     "Longitude": 7.19,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Uelzen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.56,
     "Longitude": 10.32,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Großenkneten",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.55,
     "Longitude": 8.13,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Faßberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.55,
     "Longitude": 10.11,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bassum",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.52,
     "Longitude": 8.42,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bergen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 60.18,
     "Longitude": 5.13,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Groß Berßen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.46,
     "Longitude": 7.29,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Meppen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.42,
     "Longitude": 7.18,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wittingen-Vorhop",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.43,
     "Longitude": 10.44,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Celle",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.36,
     "Longitude": 10.01,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Diepholz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.35,
     "Longitude": 8.21,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lingen-Baccum",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.31,
     "Longitude": 7.25,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Alfhausen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.29,
     "Longitude": 7.55,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Hannover (Flughafen)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.28,
     "Longitude": 9.41,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wunstorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.27,
     "Longitude": 9.26,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Barsinghausen-Hohenbostel",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.18,
     "Longitude": 9.28,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Belm",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.19,
     "Longitude": 8.1,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Braunschweig",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.17,
     "Longitude": 10.27,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bückeburg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.17,
     "Longitude": 9.05,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Algermissen-Groß Lobke",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.11,
     "Longitude": 9.57,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Helmstedt-Emmerstedt",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.15,
     "Longitude": 10.58,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Hameln-Hastenbeck",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 52.05,
     "Longitude": 9.25,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Alfeld",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Niedersachsen",
     "Latitude": 51.58,
     "Longitude": 9.48,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Seesen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Niedersachsen",
     "Latitude": 51.54,
     "Longitude": 10.11,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Harzburg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 51.54,
     "Longitude": 10.34,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bevern (Kreis Holzminden)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 51.49,
     "Longitude": 9.28,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Braunlage",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 51.43,
     "Longitude": 10.36,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Moringen-Lutterbeck",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 51.43,
     "Longitude": 9.5,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Herzberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 51.38,
     "Longitude": 10.22,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Göttingen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Niedersachsen",
     "Latitude": 51.3,
     "Longitude": 9.57,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Rahden-Kleinendorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 52.27,
     "Longitude": 8.35,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Münster/Osnabrück (Flughafen)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 52.15,
     "Longitude": 8.03,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Salzuflen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 52.06,
     "Longitude": 8.45,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Ahaus",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 52.05,
     "Longitude": 6.56,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bielefeld-Deppendorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.58,
     "Longitude": 8.33,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Borken in Westfalen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.52,
     "Longitude": 6.53,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lügde-Paenbruch",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Vorschlaege": [
       {
@@ -3773,1467 +3773,1467 @@
     ],
     "Latitude": 0.0,
     "Longitude": 0.0,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Ennigerloh-Ostenfelde",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.51,
     "Longitude": 8.02,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Lippspringe",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.47,
     "Longitude": 8.5,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lüdinghausen-Brochtrup",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.46,
     "Longitude": 7.31,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kleve",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "2",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.46,
     "Longitude": 6.06,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lippstadt-Bökenförde",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.38,
     "Longitude": 8.23,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Waltrop-Abdinghof",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.38,
     "Longitude": 7.24,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Werl",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.35,
     "Longitude": 7.53,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Duisburg-Baerl",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.28,
     "Longitude": 6.44,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Warburg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.3,
     "Longitude": 9.07,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bochum",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.28,
     "Longitude": 7.11,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Geldern-Walbeck",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
-    "Mi 18.03.": "2",
-    "Do 19.03.": "3",
+    "Mi 18.03.": "1",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.3,
     "Longitude": 6.14,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Arnsberg-Neheim",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.23,
     "Longitude": 8.04,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Brilon-Thülen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.25,
     "Longitude": 8.39,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Essen-Bredeney",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.24,
     "Longitude": 6.58,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Gevelsberg-Oberbröking",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.2,
     "Longitude": 7.2,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Düsseldorf (Flughafen)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.18,
     "Longitude": 6.46,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Tönisvorst",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "2",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.17,
     "Longitude": 6.26,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Eslohe",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.16,
     "Longitude": 8.1,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lüdenscheid",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.15,
     "Longitude": 7.38,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wuppertal-Buchenhofen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.13,
     "Longitude": 7.07,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kahler Asten",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.11,
     "Longitude": 8.29,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lennestadt-Theten",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.08,
     "Longitude": 8.02,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Mönchengladbach-Hilderath",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "2",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.14,
     "Longitude": 6.3,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Meinerzhagen-Redlendorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 51.05,
     "Longitude": 7.38,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Reichshof-Eckenhagen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 50.58,
     "Longitude": 7.43,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Berleburg-Stünzel",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 50.59,
     "Longitude": 8.22,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Geilenkirchen-Neutevern",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 50.58,
     "Longitude": 6.03,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Köln/Bonn (Flughafen)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 50.52,
     "Longitude": 7.1,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Neunkirchen-Seelscheid-Krawinkel",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 50.5,
     "Longitude": 7.22,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Nörvenich-Niederbolheim",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 50.5,
     "Longitude": 6.4,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Aachen-Orsbach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 50.47,
     "Longitude": 6.06,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Königswinter-Heiderhof",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 50.4,
     "Longitude": 7.11,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Weilerswist-Lommersum",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 50.43,
     "Longitude": 6.47,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Nideggen-Schmidt",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 50.4,
     "Longitude": 6.25,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kall-Sistig",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Nordrhein-Westfalen",
     "Latitude": 50.3,
     "Longitude": 6.32,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Hilgenroth",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 50.44,
     "Longitude": 7.39,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Marienberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 50.39,
     "Longitude": 13.09,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Hümmerich",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 50.34,
     "Longitude": 7.29,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Neuenahr-Ahrweiler",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 50.32,
     "Longitude": 7.05,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Montabaur",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 50.26,
     "Longitude": 7.49,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Andernach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "1",
+    "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 50.26,
     "Longitude": 7.26,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Nürburg-Barweiler",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 50.2,
     "Longitude": 6.57,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Schneifelforsthaus",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 50.17,
     "Longitude": 6.25,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Büchel",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 50.1,
     "Longitude": 7.04,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Manderscheid",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 50.06,
     "Longitude": 6.48,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Blankenrath",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 50.02,
     "Longitude": 7.18,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wahlbach bei Simmern",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 50.0,
     "Longitude": 7.35,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Mainz-Lerchenberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 49.59,
     "Longitude": 8.16,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Hahn",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 49.57,
     "Longitude": 7.16,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Olsdorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 49.56,
     "Longitude": 6.23,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Kreuznach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 49.51,
     "Longitude": 7.52,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Deuselbach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 49.46,
     "Longitude": 7.03,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Trier-Petrisberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 49.45,
     "Longitude": 6.4,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Trier",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 49.45,
     "Longitude": 6.4,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Alzey",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 49.45,
     "Longitude": 8.07,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Idar-Oberstein",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 49.42,
     "Longitude": 7.2,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Ruppertsecken",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 49.39,
     "Longitude": 7.53,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Worms",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 49.38,
     "Longitude": 8.23,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Dürkheim",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 49.28,
     "Longitude": 8.11,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kaiserslautern",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 49.27,
     "Longitude": 7.47,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Weinbiet",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 49.23,
     "Longitude": 8.07,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Pirmasens",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 49.13,
     "Longitude": 7.35,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Bergzabern",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "1",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Rheinland-Pfalz",
     "Latitude": 49.07,
     "Longitude": 8.0,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Weiskirchen/Saar",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Saarland",
     "Latitude": 49.33,
     "Longitude": 6.49,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Perl-Nennig",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "3",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Saarland",
     "Latitude": 49.28,
     "Longitude": 6.23,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Tholey",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Saarland",
     "Latitude": 49.29,
     "Longitude": 7.03,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Neunkirchen-Wellesweiler",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Saarland",
     "Latitude": 50.5,
     "Longitude": 7.22,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Berus",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Saarland",
     "Latitude": 49.16,
     "Longitude": 6.41,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Saarbrücken-Burbach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Saarland",
     "Latitude": 49.13,
     "Longitude": 7.07,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Saarbrücken (Flughafen)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Saarland",
     "Latitude": 49.13,
     "Longitude": 7.07,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Muskau",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 51.34,
     "Longitude": 14.42,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Klitzschen bei Torgau",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 51.35,
     "Longitude": 13.0,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Hoyerswerda",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 51.27,
     "Longitude": 14.15,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Leipzig/Halle (Flughafen)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Sachsen",
     "Latitude": 51.19,
     "Longitude": 12.25,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Leipzig-Holzhausen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 51.19,
     "Longitude": 12.25,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Oschatz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 51.18,
     "Longitude": 13.05,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Görlitz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 51.1,
     "Longitude": 14.57,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kubschütz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 51.1,
     "Longitude": 14.3,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Klipphausen-Garsebach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 51.08,
     "Longitude": 13.26,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Dresden-Klotzsche (Flughafen)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Sachsen",
     "Latitude": 51.08,
     "Longitude": 13.45,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Geringswalde-Altgeringswalde",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 51.05,
     "Longitude": 12.56,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Sohland/Spree",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 51.04,
     "Longitude": 14.26,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Nossen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 51.03,
     "Longitude": 13.18,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Dresden-Hosterwitz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Sachsen",
     "Latitude": 51.01,
     "Longitude": 13.51,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lichtenhain-Mittelndorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 50.56,
     "Longitude": 14.13,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Dippoldiswalde-Reinberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 50.55,
     "Longitude": 13.43,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bertsdorf-Hörnitz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 50.54,
     "Longitude": 14.45,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Chemnitz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 50.47,
     "Longitude": 12.52,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Zinnwald-Georgenfeld",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 50.44,
     "Longitude": 13.45,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lichtentanne",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 50.41,
     "Longitude": 12.26,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Marienberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Sachsen",
     "Latitude": 50.39,
     "Longitude": 13.09,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Deutschneudorf-Brüderwiese",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 50.37,
     "Longitude": 13.29,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Aue",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 50.36,
     "Longitude": 12.43,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Treuen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 50.33,
     "Longitude": 12.17,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Plauen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 50.29,
     "Longitude": 12.08,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Carlsfeld",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Sachsen",
     "Latitude": 50.26,
     "Longitude": 12.37,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Elster-Sohl",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen",
     "Latitude": 50.16,
     "Longitude": 12.16,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Seehausen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 52.53,
     "Longitude": 11.44,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Gardelegen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 52.31,
     "Longitude": 11.23,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Demker",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 52.31,
     "Longitude": 11.51,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Genthin",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 52.23,
     "Longitude": 12.1,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Möckern-Drewitz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 0.0,
     "Longitude": 52.13,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Ummendorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 52.1,
     "Longitude": 11.11,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Magdeburg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 52.07,
     "Longitude": 11.35,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Huy-Pabstorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 52.02,
     "Longitude": 10.58,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wittenberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "3",
+    "Do 19.03.": "2",
     "Fr 20.03.": "3",
+    "Sa 21.03.": "3",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 51.53,
     "Longitude": 12.38,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wernigerode",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 51.51,
     "Longitude": 10.46,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bernburg/Saale",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 51.5,
     "Longitude": 11.43,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Quedlinburg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 51.47,
     "Longitude": 11.09,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wernigerode-Schierke",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 51.51,
     "Longitude": 10.46,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Köthen (Anhalt)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 51.45,
     "Longitude": 12.01,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Aschersleben-Mehringen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 51.44,
     "Longitude": 11.31,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Jeßnitz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 51.41,
     "Longitude": 12.18,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Oberharz am Brocken-Stiege",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 51.48,
     "Longitude": 10.37,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Harzgerode",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 51.39,
     "Longitude": 11.08,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Lauchstädt",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 51.23,
     "Longitude": 11.53,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Querfurt-Lodersleben",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 51.23,
     "Longitude": 11.35,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Naumburg-Kreipitzsch/Saale",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "2",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 51.06,
     "Longitude": 11.43,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Osterfeld",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "2",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 51.05,
     "Longitude": 11.56,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Zeitz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Sachsen-Anhalt",
     "Latitude": 51.04,
     "Longitude": 12.08,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "List auf Sylt",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 55.01,
     "Longitude": 8.25,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Glücksburg-Meierwik",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Vorschlaege": [
       {
@@ -5251,27 +5251,27 @@
     ],
     "Latitude": 0.0,
     "Longitude": 0.0,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Leck",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 54.48,
     "Longitude": 8.57,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Brodersby-Schönhagen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Schleswig-Holstein",
     "Vorschlaege": [
       {
@@ -5289,207 +5289,207 @@
     ],
     "Latitude": 0.0,
     "Longitude": 0.0,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Fehmarn",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 0.0,
     "Longitude": 54.36,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Schleswig",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 54.32,
     "Longitude": 9.33,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Hattstedt",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 54.32,
     "Longitude": 9.02,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Schleswig-Jagel",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 54.32,
     "Longitude": 9.33,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kiel-Holtenau",
-    "Mo 16.03.": "1",
-    "Di 17.03.": "1",
-    "Mi 18.03.": "1",
-    "Do 19.03.": "1",
-    "Fr 20.03.": "2",
-    "Bundesland": "Schleswig-Holstein",
-    "Latitude": 54.23,
-    "Longitude": 10.09,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
-  },
-  {
-    "Stationsname": "Sankt Peter-Ording",
-    "Mo 16.03.": "1",
-    "Di 17.03.": "1",
-    "Mi 18.03.": "1",
-    "Do 19.03.": "1",
-    "Fr 20.03.": "1",
-    "Bundesland": "Schleswig-Holstein",
-    "Latitude": 54.2,
-    "Longitude": 8.36,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
-  },
-  {
-    "Stationsname": "Hohwacht",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.23,
+    "Longitude": 10.09,
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
+  },
+  {
+    "Stationsname": "Sankt Peter-Ording",
+    "Di 17.03.": "1",
+    "Mi 18.03.": "1",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
+    "Bundesland": "Schleswig-Holstein",
+    "Latitude": 54.2,
+    "Longitude": 8.36,
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
+  },
+  {
+    "Stationsname": "Hohwacht",
+    "Di 17.03.": "1",
+    "Mi 18.03.": "1",
+    "Do 19.03.": "2",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 54.19,
     "Longitude": 10.4,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Ostenfeld (Rendsburg)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 54.19,
     "Longitude": 9.48,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Hohn",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 54.19,
     "Longitude": 9.32,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Erfde",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 54.18,
     "Longitude": 9.19,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Helgoland",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 54.1,
     "Longitude": 7.53,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Dörnick",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "1",
+    "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 54.1,
     "Longitude": 10.21,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Pelzerhaken",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 54.05,
     "Longitude": 10.53,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Elpersbüttel",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 54.04,
     "Longitude": 9.01,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wacken",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 54.01,
     "Longitude": 9.23,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Padenstedt",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 54.02,
     "Longitude": 9.55,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Hasenkrug-Hardebek",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "1",
+    "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Vorschlaege": [
       {
@@ -5507,402 +5507,402 @@
     ],
     "Latitude": 0.0,
     "Longitude": 0.0,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Itzehoe",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 54.0,
     "Longitude": 9.35,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Wittenborn",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "1",
+    "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 53.55,
     "Longitude": 10.14,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Lübeck-Blankensee",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "1",
+    "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 53.49,
     "Longitude": 10.42,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Quickborn",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 53.44,
     "Longitude": 9.53,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Grambek",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Schleswig-Holstein",
     "Latitude": 53.34,
     "Longitude": 10.41,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Leinefelde",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Thüringen",
     "Latitude": 51.23,
     "Longitude": 10.19,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Artern",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Thüringen",
     "Latitude": 51.22,
     "Longitude": 11.17,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Sondershausen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Thüringen",
     "Latitude": 51.22,
     "Longitude": 10.54,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Mühlhausen-Görmar/Thüringen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Thüringen",
     "Latitude": 51.12,
     "Longitude": 10.3,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Olbersleben",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Thüringen",
     "Latitude": 51.09,
     "Longitude": 11.2,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Dachwig",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Thüringen",
     "Latitude": 51.04,
     "Longitude": 10.52,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Weimar-Schöndorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Thüringen",
     "Latitude": 50.59,
     "Longitude": 11.19,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Eisenach",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Thüringen",
     "Latitude": 51.0,
     "Longitude": 10.22,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Erfurt-Weimar (Flughafen)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Thüringen",
     "Latitude": 50.59,
     "Longitude": 10.58,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Starkenberg-Tegkwitz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Thüringen",
     "Latitude": 50.59,
     "Longitude": 12.2,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Jena",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "3",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Thüringen",
     "Latitude": 50.56,
     "Longitude": 11.35,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Bad Berka (Flugplatz)",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Thüringen",
     "Latitude": 51.41,
     "Longitude": 10.07,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Waltershausen",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Thüringen",
     "Latitude": 50.54,
     "Longitude": 10.33,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Gera-Leumnitz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Thüringen",
     "Latitude": 50.53,
     "Longitude": 12.08,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Kleiner Inselsberg",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Thüringen",
     "Latitude": 50.51,
     "Longitude": 10.29,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Salzungen, Bad-Gräfen-Nitzendorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
     "Bundesland": "Thüringen",
     "Latitude": 50.48,
     "Longitude": 10.13,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Martinroda",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Thüringen",
     "Latitude": 50.44,
     "Longitude": 10.53,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Schmieritz-Weltwitz",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
-    "Fr 20.03.": "2",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
     "Bundesland": "Thüringen",
     "Latitude": 50.44,
     "Longitude": 11.5,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Krölpa-Rockendorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Thüringen",
     "Latitude": 50.41,
     "Longitude": 11.31,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Langenwetzendorf-Göttendorf",
-    "Mo 16.03.": "1",
-    "Di 17.03.": "1",
-    "Mi 18.03.": "1",
-    "Do 19.03.": "1",
-    "Fr 20.03.": "2",
-    "Bundesland": "Thüringen",
-    "Latitude": 50.4,
-    "Longitude": 12.05,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
-  },
-  {
-    "Stationsname": "Schmücke",
-    "Mo 16.03.": "1",
-    "Di 17.03.": "1",
-    "Mi 18.03.": "1",
-    "Do 19.03.": "1",
-    "Fr 20.03.": "2",
-    "Bundesland": "Thüringen",
-    "Latitude": 50.39,
-    "Longitude": 10.46,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
-  },
-  {
-    "Stationsname": "Schwarzburg",
-    "Mo 16.03.": "1",
-    "Di 17.03.": "1",
-    "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "2",
-    "Bundesland": "Thüringen",
-    "Latitude": 50.38,
-    "Longitude": 11.11,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
-  },
-  {
-    "Stationsname": "Schleiz",
-    "Mo 16.03.": "1",
-    "Di 17.03.": "1",
-    "Mi 18.03.": "1",
-    "Do 19.03.": "1",
-    "Fr 20.03.": "2",
-    "Bundesland": "Thüringen",
-    "Latitude": 50.34,
-    "Longitude": 11.48,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
-  },
-  {
-    "Stationsname": "Meiningen",
-    "Mo 16.03.": "1",
-    "Di 17.03.": "1",
-    "Mi 18.03.": "1",
-    "Do 19.03.": "1",
-    "Fr 20.03.": "2",
-    "Bundesland": "Thüringen",
-    "Latitude": 50.34,
-    "Longitude": 10.23,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
-  },
-  {
-    "Stationsname": "Birx/Rhön",
-    "Mo 16.03.": "1",
-    "Di 17.03.": "1",
-    "Mi 18.03.": "1",
-    "Do 19.03.": "2",
-    "Fr 20.03.": "2",
-    "Bundesland": "Thüringen",
-    "Latitude": 50.32,
-    "Longitude": 10.03,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
-  },
-  {
-    "Stationsname": "Neuhaus am Rennweg",
-    "Mo 16.03.": "1",
-    "Di 17.03.": "1",
-    "Mi 18.03.": "1",
-    "Do 19.03.": "1",
-    "Fr 20.03.": "2",
-    "Bundesland": "Thüringen",
-    "Latitude": 50.3,
-    "Longitude": 11.08,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
-  },
-  {
-    "Stationsname": "Bad Lobenstein",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
     "Do 19.03.": "1",
     "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
+    "Bundesland": "Thüringen",
+    "Latitude": 50.4,
+    "Longitude": 12.05,
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
+  },
+  {
+    "Stationsname": "Schmücke",
+    "Di 17.03.": "1",
+    "Mi 18.03.": "1",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
+    "Bundesland": "Thüringen",
+    "Latitude": 50.39,
+    "Longitude": 10.46,
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
+  },
+  {
+    "Stationsname": "Schwarzburg",
+    "Di 17.03.": "1",
+    "Mi 18.03.": "1",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
+    "Bundesland": "Thüringen",
+    "Latitude": 50.38,
+    "Longitude": 11.11,
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
+  },
+  {
+    "Stationsname": "Schleiz",
+    "Di 17.03.": "1",
+    "Mi 18.03.": "1",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
+    "Bundesland": "Thüringen",
+    "Latitude": 50.34,
+    "Longitude": 11.48,
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
+  },
+  {
+    "Stationsname": "Meiningen",
+    "Di 17.03.": "1",
+    "Mi 18.03.": "1",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "2",
+    "Bundesland": "Thüringen",
+    "Latitude": 50.34,
+    "Longitude": 10.23,
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
+  },
+  {
+    "Stationsname": "Birx/Rhön",
+    "Di 17.03.": "1",
+    "Mi 18.03.": "1",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
+    "Bundesland": "Thüringen",
+    "Latitude": 50.32,
+    "Longitude": 10.03,
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
+  },
+  {
+    "Stationsname": "Neuhaus am Rennweg",
+    "Di 17.03.": "1",
+    "Mi 18.03.": "1",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "2",
+    "Bundesland": "Thüringen",
+    "Latitude": 50.3,
+    "Longitude": 11.08,
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
+  },
+  {
+    "Stationsname": "Bad Lobenstein",
+    "Di 17.03.": "1",
+    "Mi 18.03.": "1",
+    "Do 19.03.": "1",
+    "Fr 20.03.": "1",
+    "Sa 21.03.": "1",
     "Bundesland": "Thüringen",
     "Latitude": 50.27,
     "Longitude": 11.38,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   },
   {
     "Stationsname": "Veilsdorf",
-    "Mo 16.03.": "1",
     "Di 17.03.": "1",
     "Mi 18.03.": "1",
-    "Do 19.03.": "2",
+    "Do 19.03.": "1",
     "Fr 20.03.": "2",
+    "Sa 21.03.": "3",
     "Bundesland": "Thüringen",
     "Latitude": 50.25,
     "Longitude": 10.49,
-    "pipeline_run_utc": "2026-03-16T07:04:08+00:00"
+    "pipeline_run_utc": "2026-03-17T06:51:22+00:00"
   }
 ]
