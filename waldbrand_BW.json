@@ -1,490 +1,490 @@
 [
   {
     "Stationsname": "Freudenberg-Boxtal/Main",
-    "Fr 03.04.": "2",
     "Sa 04.04.": "2",
-    "So 05.04.": "3",
+    "So 05.04.": "2",
     "Mo 06.04.": "3",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   },
   {
     "Stationsname": "Buchen (Kreis Neckar-Odenwald)",
-    "Fr 03.04.": "2",
     "Sa 04.04.": "2",
     "So 05.04.": "3",
     "Mo 06.04.": "2",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   },
   {
     "Stationsname": "Mannheim",
-    "Fr 03.04.": "3",
-    "Sa 04.04.": "1",
+    "Sa 04.04.": "2",
     "So 05.04.": "3",
     "Mo 06.04.": "3",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   },
   {
     "Stationsname": "Bad Mergentheim",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "3",
+    "Sa 04.04.": "2",
+    "So 05.04.": "2",
     "Mo 06.04.": "3",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "4"
   },
   {
     "Stationsname": "Niederstetten",
-    "Fr 03.04.": "2",
     "Sa 04.04.": "2",
     "So 05.04.": "3",
     "Mo 06.04.": "3",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   },
   {
     "Stationsname": "Ingelfingen-Stachenhausen",
-    "Fr 03.04.": "1",
     "Sa 04.04.": "2",
-    "So 05.04.": "3",
+    "So 05.04.": "2",
     "Mo 06.04.": "3",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   },
   {
     "Stationsname": "Waibstadt",
-    "Fr 03.04.": "2",
     "Sa 04.04.": "1",
-    "So 05.04.": "1",
+    "So 05.04.": "2",
     "Mo 06.04.": "2",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   },
   {
     "Stationsname": "Waghäusel-Kirrlach",
-    "Fr 03.04.": "3",
     "Sa 04.04.": "2",
     "So 05.04.": "3",
     "Mo 06.04.": "3",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "4"
   },
   {
     "Stationsname": "Öhringen",
-    "Fr 03.04.": "1",
     "Sa 04.04.": "1",
     "So 05.04.": "2",
     "Mo 06.04.": "3",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "4"
   },
   {
     "Stationsname": "Kirchberg-Herboldshausen/Jagst",
-    "Fr 03.04.": "1",
     "Sa 04.04.": "1",
-    "So 05.04.": "3",
+    "So 05.04.": "2",
     "Mo 06.04.": "3",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   },
   {
     "Stationsname": "Eppingen-Elsenz",
-    "Fr 03.04.": "2",
     "Sa 04.04.": "1",
     "So 05.04.": "1",
     "Mo 06.04.": "2",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   },
   {
     "Stationsname": "Obersulm-Willsbach",
-    "Fr 03.04.": "2",
     "Sa 04.04.": "1",
-    "So 05.04.": "2",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
+    "So 05.04.": "3",
+    "Mo 06.04.": "2",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   },
   {
     "Stationsname": "Großerlach-Mannenweiler",
-    "Fr 03.04.": "1",
     "Sa 04.04.": "1",
     "So 05.04.": "1",
     "Mo 06.04.": "2",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   },
   {
     "Stationsname": "Ellwangen-Rindelbach",
-    "Fr 03.04.": "1",
     "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "2",
-    "Di 07.04.": "3"
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   },
   {
     "Stationsname": "Rheinstetten",
-    "Fr 03.04.": "2",
-    "Sa 04.04.": "1",
-    "So 05.04.": "2",
+    "Sa 04.04.": "2",
+    "So 05.04.": "1",
     "Mo 06.04.": "3",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   },
   {
     "Stationsname": "Mühlacker",
-    "Fr 03.04.": "1",
     "Sa 04.04.": "1",
     "So 05.04.": "1",
     "Mo 06.04.": "2",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   },
   {
     "Stationsname": "Sachsenheim",
-    "Fr 03.04.": "2",
     "Sa 04.04.": "1",
-    "So 05.04.": "1",
+    "So 05.04.": "3",
     "Mo 06.04.": "3",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   },
   {
     "Stationsname": "Pforzheim-Ispringen",
-    "Fr 03.04.": "2",
     "Sa 04.04.": "1",
     "So 05.04.": "1",
     "Mo 06.04.": "2",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   },
   {
     "Stationsname": "Kaisersbach-Cronhütte",
-    "Fr 03.04.": "1",
     "Sa 04.04.": "1",
     "So 05.04.": "1",
-    "Mo 06.04.": "1",
-    "Di 07.04.": "3"
+    "Mo 06.04.": "2",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   },
   {
     "Stationsname": "Stuttgart (Schnarrenberg)",
-    "Fr 03.04.": "2",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Schwäbisch Gmünd-Weiler",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "1",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Renningen",
-    "Fr 03.04.": "2",
-    "Sa 04.04.": "1",
-    "So 05.04.": "3",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Baden-Baden-Geroldsau",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "2",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Stuttgart (Flughafen)",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "3",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Rheinau-Memprechtshofen",
-    "Fr 03.04.": "2",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "2",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Notzingen",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Stötten",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "1",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Neubulach-Oberhaugstett",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "2",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Hermaringen-Allewind",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Seebach (Nationalpark Schwarzwald)",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "2",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Metzingen",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "3",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Freudenstadt",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "1",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Ulm-Mähringen",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Ohlsbach",
-    "Fr 03.04.": "2",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Münsingen-Apfelstetten",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "1",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Hechingen",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "2",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Lahr",
-    "Fr 03.04.": "2",
-    "Sa 04.04.": "1",
-    "So 05.04.": "2",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Wolfach",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "2",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Balingen-Bronnhaupten",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "3",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Laupheim",
-    "Fr 03.04.": "2",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Elzach-Fisnacht",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "2",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Rottweil",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "3",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Meßstetten-Appental",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "1",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Altheim (Kreis Biberach)",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "2",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Emmendingen-Mundingen",
-    "Fr 03.04.": "2",
-    "Sa 04.04.": "1",
-    "So 05.04.": "2",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Klippeneck",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "2",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Sigmaringen-Laiz",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "2",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Villingen-Schwenningen",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "3",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Freiburg",
-    "Fr 03.04.": "2",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Buchenbach",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "2",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Pfullendorf",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "1",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Lenzkirch-Ruhbühl",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "2",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Müllheim",
-    "Fr 03.04.": "3",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Weingarten (Kreis Ravensburg)",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "2",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Leutkirch-Herlazhofen",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "1",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Singen",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "2",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Dachsberg-Wolpadingen",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "3",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Konstanz",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "2",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Friedrichshafen-Unterraderach",
-    "Fr 03.04.": "1",
-    "Sa 04.04.": "1",
-    "So 05.04.": "1",
-    "Mo 06.04.": "2",
-    "Di 07.04.": "3"
-  },
-  {
-    "Stationsname": "Wutöschingen-Ofteringen",
-    "Fr 03.04.": "1",
     "Sa 04.04.": "2",
     "So 05.04.": "3",
     "Mo 06.04.": "3",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   },
   {
-    "Stationsname": "Rheinfelden",
-    "Fr 03.04.": "2",
+    "Stationsname": "Schwäbisch Gmünd-Weiler",
+    "Sa 04.04.": "1",
+    "So 05.04.": "1",
+    "Mo 06.04.": "2",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Renningen",
+    "Sa 04.04.": "2",
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Baden-Baden-Geroldsau",
+    "Sa 04.04.": "1",
+    "So 05.04.": "1",
+    "Mo 06.04.": "2",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Stuttgart (Flughafen)",
+    "Sa 04.04.": "2",
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "4"
+  },
+  {
+    "Stationsname": "Rheinau-Memprechtshofen",
+    "Sa 04.04.": "1",
+    "So 05.04.": "2",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Notzingen",
     "Sa 04.04.": "1",
     "So 05.04.": "1",
     "Mo 06.04.": "3",
-    "Di 07.04.": "3"
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Stötten",
+    "Sa 04.04.": "1",
+    "So 05.04.": "1",
+    "Mo 06.04.": "2",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Neubulach-Oberhaugstett",
+    "Sa 04.04.": "2",
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Hermaringen-Allewind",
+    "Sa 04.04.": "1",
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Seebach (Nationalpark Schwarzwald)",
+    "Sa 04.04.": "1",
+    "So 05.04.": "1",
+    "Mo 06.04.": "1",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Metzingen",
+    "Sa 04.04.": "2",
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "4"
+  },
+  {
+    "Stationsname": "Freudenstadt",
+    "Sa 04.04.": "1",
+    "So 05.04.": "1",
+    "Mo 06.04.": "1",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Ulm-Mähringen",
+    "Sa 04.04.": "2",
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Ohlsbach",
+    "Sa 04.04.": "1",
+    "So 05.04.": "1",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Münsingen-Apfelstetten",
+    "Sa 04.04.": "1",
+    "So 05.04.": "1",
+    "Mo 06.04.": "2",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Hechingen",
+    "Sa 04.04.": "1",
+    "So 05.04.": "3",
+    "Mo 06.04.": "2",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Lahr",
+    "Sa 04.04.": "1",
+    "So 05.04.": "2",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Wolfach",
+    "Sa 04.04.": "1",
+    "So 05.04.": "1",
+    "Mo 06.04.": "2",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Balingen-Bronnhaupten",
+    "Sa 04.04.": "1",
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Laupheim",
+    "Sa 04.04.": "2",
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Elzach-Fisnacht",
+    "Sa 04.04.": "1",
+    "So 05.04.": "1",
+    "Mo 06.04.": "1",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Rottweil",
+    "Sa 04.04.": "1",
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Meßstetten-Appental",
+    "Sa 04.04.": "1",
+    "So 05.04.": "1",
+    "Mo 06.04.": "1",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Altheim (Kreis Biberach)",
+    "Sa 04.04.": "2",
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Emmendingen-Mundingen",
+    "Sa 04.04.": "1",
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Klippeneck",
+    "Sa 04.04.": "1",
+    "So 05.04.": "1",
+    "Mo 06.04.": "1",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Sigmaringen-Laiz",
+    "Sa 04.04.": "2",
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Villingen-Schwenningen",
+    "Sa 04.04.": "1",
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Freiburg",
+    "Sa 04.04.": "1",
+    "So 05.04.": "3",
+    "Mo 06.04.": "1",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Buchenbach",
+    "Sa 04.04.": "1",
+    "So 05.04.": "2",
+    "Mo 06.04.": "1",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Pfullendorf",
+    "Sa 04.04.": "1",
+    "So 05.04.": "1",
+    "Mo 06.04.": "1",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Lenzkirch-Ruhbühl",
+    "Sa 04.04.": "1",
+    "So 05.04.": "2",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Müllheim",
+    "Sa 04.04.": "1",
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Weingarten (Kreis Ravensburg)",
+    "Sa 04.04.": "1",
+    "So 05.04.": "1",
+    "Mo 06.04.": "2",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Leutkirch-Herlazhofen",
+    "Sa 04.04.": "1",
+    "So 05.04.": "1",
+    "Mo 06.04.": "1",
+    "Di 07.04.": "2",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Singen",
+    "Sa 04.04.": "2",
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Dachsberg-Wolpadingen",
+    "Sa 04.04.": "1",
+    "So 05.04.": "1",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Konstanz",
+    "Sa 04.04.": "1",
+    "So 05.04.": "2",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Friedrichshafen-Unterraderach",
+    "Sa 04.04.": "1",
+    "So 05.04.": "1",
+    "Mo 06.04.": "2",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Wutöschingen-Ofteringen",
+    "Sa 04.04.": "2",
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
+  },
+  {
+    "Stationsname": "Rheinfelden",
+    "Sa 04.04.": "1",
+    "So 05.04.": "3",
+    "Mo 06.04.": "3",
+    "Di 07.04.": "3",
+    "Mi 08.04.": "3"
   }
 ]
