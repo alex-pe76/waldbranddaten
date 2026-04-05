@@ -1,0 +1,2910 @@
+{
+  "version": 1,
+  "updated": "2026-04-05T12:31:22+00:00",
+  "stationen": [
+    {
+      "name": "Altheim (Kreis Biberach)",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.1479,
+      "lon": 9.4596
+    },
+    {
+      "name": "Bad Mergentheim",
+      "bundesland": "Baden-Württemberg",
+      "lat": 49.4797,
+      "lon": 9.7832
+    },
+    {
+      "name": "Baden-Baden-Geroldsau",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.727,
+      "lon": 8.2457
+    },
+    {
+      "name": "Balingen-Bronnhaupten",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.2639,
+      "lon": 8.8134
+    },
+    {
+      "name": "Buchen (Kreis Neckar-Odenwald)",
+      "bundesland": "Baden-Württemberg",
+      "lat": 49.5182,
+      "lon": 9.3213
+    },
+    {
+      "name": "Buchenbach",
+      "bundesland": "Baden-Württemberg",
+      "lat": 47.9625,
+      "lon": 7.9983
+    },
+    {
+      "name": "Dachsberg-Wolpadingen",
+      "bundesland": "Baden-Württemberg",
+      "lat": 47.7004,
+      "lon": 8.1057
+    },
+    {
+      "name": "Ellwangen-Rindelbach",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.9895,
+      "lon": 10.1312
+    },
+    {
+      "name": "Elzach-Fisnacht",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.2012,
+      "lon": 8.1088
+    },
+    {
+      "name": "Emmendingen-Mundingen",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.1378,
+      "lon": 7.8351
+    },
+    {
+      "name": "Eppingen-Elsenz",
+      "bundesland": "Baden-Württemberg",
+      "lat": 49.1661,
+      "lon": 8.8483
+    },
+    {
+      "name": "Freiburg",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.0232,
+      "lon": 7.8343
+    },
+    {
+      "name": "Freudenberg-Boxtal/Main",
+      "bundesland": "Baden-Württemberg",
+      "lat": 49.7636,
+      "lon": 9.4063
+    },
+    {
+      "name": "Freudenstadt",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.4538,
+      "lon": 8.409
+    },
+    {
+      "name": "Friedrichshafen-Unterraderach",
+      "bundesland": "Baden-Württemberg",
+      "lat": 47.6845,
+      "lon": 9.4409
+    },
+    {
+      "name": "Großerlach-Mannenweiler",
+      "bundesland": "Baden-Württemberg",
+      "lat": 49.021,
+      "lon": 9.6033
+    },
+    {
+      "name": "Hechingen",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.3752,
+      "lon": 8.98
+    },
+    {
+      "name": "Hermaringen-Allewind",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.6099,
+      "lon": 10.2674
+    },
+    {
+      "name": "Ingelfingen-Stachenhausen",
+      "bundesland": "Baden-Württemberg",
+      "lat": 49.3328,
+      "lon": 9.704
+    },
+    {
+      "name": "Kaisersbach-Cronhütte",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.917,
+      "lon": 9.6871
+    },
+    {
+      "name": "Kirchberg-Herboldshausen/Jagst",
+      "bundesland": "Baden-Württemberg",
+      "lat": 49.1804,
+      "lon": 9.98
+    },
+    {
+      "name": "Klippeneck",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.1054,
+      "lon": 8.7548
+    },
+    {
+      "name": "Konstanz",
+      "bundesland": "Baden-Württemberg",
+      "lat": 47.6952,
+      "lon": 9.1307
+    },
+    {
+      "name": "Lahr",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.3647,
+      "lon": 7.828
+    },
+    {
+      "name": "Laupheim",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.2175,
+      "lon": 9.9097
+    },
+    {
+      "name": "Lenzkirch-Ruhbühl",
+      "bundesland": "Baden-Württemberg",
+      "lat": 47.8597,
+      "lon": 8.2308
+    },
+    {
+      "name": "Leutkirch-Herlazhofen",
+      "bundesland": "Baden-Württemberg",
+      "lat": 47.7955,
+      "lon": 10.0325
+    },
+    {
+      "name": "Mannheim",
+      "bundesland": "Baden-Württemberg",
+      "lat": 49.5063,
+      "lon": 8.5584
+    },
+    {
+      "name": "Metzingen",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.5377,
+      "lon": 9.2734
+    },
+    {
+      "name": "Meßstetten-Appental",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.1694,
+      "lon": 8.9433
+    },
+    {
+      "name": "Mühlacker",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.9721,
+      "lon": 8.8735
+    },
+    {
+      "name": "Müllheim",
+      "bundesland": "Baden-Württemberg",
+      "lat": 47.8064,
+      "lon": 7.6387
+    },
+    {
+      "name": "Münsingen-Apfelstetten",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.3851,
+      "lon": 9.4837
+    },
+    {
+      "name": "Neubulach-Oberhaugstett",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.6516,
+      "lon": 8.6801
+    },
+    {
+      "name": "Niederstetten",
+      "bundesland": "Baden-Württemberg",
+      "lat": 49.3895,
+      "lon": 9.9666
+    },
+    {
+      "name": "Notzingen",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.6705,
+      "lon": 9.4627
+    },
+    {
+      "name": "Obersulm-Willsbach",
+      "bundesland": "Baden-Württemberg",
+      "lat": 49.128,
+      "lon": 9.3525
+    },
+    {
+      "name": "Ohlsbach",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.433,
+      "lon": 7.993
+    },
+    {
+      "name": "Pforzheim-Ispringen",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.9329,
+      "lon": 8.6973
+    },
+    {
+      "name": "Pfullendorf",
+      "bundesland": "Baden-Württemberg",
+      "lat": 47.9345,
+      "lon": 9.2869
+    },
+    {
+      "name": "Renningen",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.7425,
+      "lon": 8.924
+    },
+    {
+      "name": "Rheinau-Memprechtshofen",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.6703,
+      "lon": 7.9939
+    },
+    {
+      "name": "Rheinfelden",
+      "bundesland": "Baden-Württemberg",
+      "lat": 47.559,
+      "lon": 7.7721
+    },
+    {
+      "name": "Rheinstetten",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.9726,
+      "lon": 8.3301
+    },
+    {
+      "name": "Rottweil",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.1815,
+      "lon": 8.6356
+    },
+    {
+      "name": "Sachsenheim",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.9569,
+      "lon": 9.0711
+    },
+    {
+      "name": "Schwäbisch Gmünd-Weiler",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.7695,
+      "lon": 9.8737
+    },
+    {
+      "name": "Seebach (Nationalpark Schwarzwald)",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.5651,
+      "lon": 8.2284
+    },
+    {
+      "name": "Sigmaringen-Laiz",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.0719,
+      "lon": 9.1943
+    },
+    {
+      "name": "Singen",
+      "bundesland": "Baden-Württemberg",
+      "lat": 47.7738,
+      "lon": 8.8219
+    },
+    {
+      "name": "Stuttgart (Flughafen)",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.3477,
+      "lon": 11.8134
+    },
+    {
+      "name": "Stuttgart (Schnarrenberg)",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.8281,
+      "lon": 9.2
+    },
+    {
+      "name": "Stötten",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.6656,
+      "lon": 9.8648
+    },
+    {
+      "name": "Ulm-Mähringen",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.4418,
+      "lon": 9.9216
+    },
+    {
+      "name": "Villingen-Schwenningen",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.0453,
+      "lon": 8.4608
+    },
+    {
+      "name": "Waghäusel-Kirrlach",
+      "bundesland": "Baden-Württemberg",
+      "lat": 49.2445,
+      "lon": 8.5374
+    },
+    {
+      "name": "Waibstadt",
+      "bundesland": "Baden-Württemberg",
+      "lat": 49.2943,
+      "lon": 8.9053
+    },
+    {
+      "name": "Weingarten (Kreis Ravensburg)",
+      "bundesland": "Baden-Württemberg",
+      "lat": 47.8062,
+      "lon": 9.6206
+    },
+    {
+      "name": "Wolfach",
+      "bundesland": "Baden-Württemberg",
+      "lat": 48.2953,
+      "lon": 8.2391
+    },
+    {
+      "name": "Wutöschingen-Ofteringen",
+      "bundesland": "Baden-Württemberg",
+      "lat": 47.6783,
+      "lon": 8.3801
+    },
+    {
+      "name": "Öhringen",
+      "bundesland": "Baden-Württemberg",
+      "lat": 49.207,
+      "lon": 9.5176
+    },
+    {
+      "name": "Aldersbach-Kramersepp",
+      "bundesland": "Bayern",
+      "lat": 48.6183,
+      "lon": 13.062
+    },
+    {
+      "name": "Altenstadt",
+      "bundesland": "Bayern",
+      "lat": 47.8342,
+      "lon": 10.8667
+    },
+    {
+      "name": "Altomünster-Maisbrunn",
+      "bundesland": "Bayern",
+      "lat": 48.406,
+      "lon": 11.3117
+    },
+    {
+      "name": "Amberg-Unterammersricht",
+      "bundesland": "Bayern",
+      "lat": 49.4691,
+      "lon": 11.8546
+    },
+    {
+      "name": "Amerang-Pfaffing",
+      "bundesland": "Bayern",
+      "lat": 48.0197,
+      "lon": 12.2925
+    },
+    {
+      "name": "Arnstein-Müdesheim",
+      "bundesland": "Bayern",
+      "lat": 49.9694,
+      "lon": 9.9114
+    },
+    {
+      "name": "Attenkam",
+      "bundesland": "Bayern",
+      "lat": 47.8774,
+      "lon": 11.3643
+    },
+    {
+      "name": "Augsburg",
+      "bundesland": "Bayern",
+      "lat": 48.4253,
+      "lon": 10.9417
+    },
+    {
+      "name": "Bad Kissingen",
+      "bundesland": "Bayern",
+      "lat": 50.224,
+      "lon": 10.0792
+    },
+    {
+      "name": "Bad Kohlgrub",
+      "bundesland": "Bayern",
+      "lat": 47.6652,
+      "lon": 11.0805
+    },
+    {
+      "name": "Bad Königshofen",
+      "bundesland": "Bayern",
+      "lat": 50.3005,
+      "lon": 10.4644
+    },
+    {
+      "name": "Bamberg",
+      "bundesland": "Bayern",
+      "lat": 49.8743,
+      "lon": 10.9206
+    },
+    {
+      "name": "Chieming",
+      "bundesland": "Bayern",
+      "lat": 47.8843,
+      "lon": 12.5404
+    },
+    {
+      "name": "Dillingen/Donau-Fristingen",
+      "bundesland": "Bayern",
+      "lat": 48.5562,
+      "lon": 10.56
+    },
+    {
+      "name": "Donauwörth-Osterweiler",
+      "bundesland": "Bayern",
+      "lat": 48.7374,
+      "lon": 10.7393
+    },
+    {
+      "name": "Ebersberg-Halbing",
+      "bundesland": "Bayern",
+      "lat": 48.1003,
+      "lon": 11.9872
+    },
+    {
+      "name": "Ebrach",
+      "bundesland": "Bayern",
+      "lat": 49.852,
+      "lon": 10.4991
+    },
+    {
+      "name": "Eichstätt-Landershofen",
+      "bundesland": "Bayern",
+      "lat": 48.8778,
+      "lon": 11.2349
+    },
+    {
+      "name": "Elsendorf-Horneck",
+      "bundesland": "Bayern",
+      "lat": 48.702,
+      "lon": 11.8493
+    },
+    {
+      "name": "Falkenberg (Kreis Rottal-Inn)",
+      "bundesland": "Bayern",
+      "lat": 48.4832,
+      "lon": 12.7241
+    },
+    {
+      "name": "Feuchtwangen-Heilbronn",
+      "bundesland": "Bayern",
+      "lat": 49.1623,
+      "lon": 10.3661
+    },
+    {
+      "name": "Fichtelberg-Hüttstadl/Oberfranken",
+      "bundesland": "Bayern",
+      "lat": 50.4283,
+      "lon": 12.9536
+    },
+    {
+      "name": "Freising-Dürnast",
+      "bundesland": "Bayern",
+      "lat": 48.4024,
+      "lon": 11.6946
+    },
+    {
+      "name": "Fürstenzell",
+      "bundesland": "Bayern",
+      "lat": 48.5451,
+      "lon": 13.3532
+    },
+    {
+      "name": "Garmisch-Partenkirchen",
+      "bundesland": "Bayern",
+      "lat": 47.483,
+      "lon": 11.0621
+    },
+    {
+      "name": "Gelbelsee",
+      "bundesland": "Bayern",
+      "lat": 48.9481,
+      "lon": 11.4289
+    },
+    {
+      "name": "Gollhofen",
+      "bundesland": "Bayern",
+      "lat": 49.5679,
+      "lon": 10.1969
+    },
+    {
+      "name": "Gottfrieding",
+      "bundesland": "Bayern",
+      "lat": 48.6595,
+      "lon": 12.5388
+    },
+    {
+      "name": "Grainet-Rehberg",
+      "bundesland": "Bayern",
+      "lat": 48.7894,
+      "lon": 13.629
+    },
+    {
+      "name": "Gräfenberg-Kasberg",
+      "bundesland": "Bayern",
+      "lat": 49.664,
+      "lon": 11.2239
+    },
+    {
+      "name": "Günzburg",
+      "bundesland": "Bayern",
+      "lat": 48.4878,
+      "lon": 10.2608
+    },
+    {
+      "name": "Harburg",
+      "bundesland": "Bayern",
+      "lat": 48.7918,
+      "lon": 10.7062
+    },
+    {
+      "name": "Heinersreuth-Vollhof",
+      "bundesland": "Bayern",
+      "lat": 49.9666,
+      "lon": 11.5198
+    },
+    {
+      "name": "Hof",
+      "bundesland": "Bayern",
+      "lat": 50.3123,
+      "lon": 11.876
+    },
+    {
+      "name": "Hohenpeißenberg",
+      "bundesland": "Bayern",
+      "lat": 47.8009,
+      "lon": 11.0108
+    },
+    {
+      "name": "Holzkirchen",
+      "bundesland": "Bayern",
+      "lat": 47.8823,
+      "lon": 11.6961
+    },
+    {
+      "name": "Ingolstadt-Manching",
+      "bundesland": "Bayern",
+      "lat": 48.7111,
+      "lon": 11.5363
+    },
+    {
+      "name": "Kahl/Main",
+      "bundesland": "Bayern",
+      "lat": 50.0643,
+      "lon": 8.993
+    },
+    {
+      "name": "Kaufbeuren-Oberbeuren",
+      "bundesland": "Bayern",
+      "lat": 47.8761,
+      "lon": 10.5849
+    },
+    {
+      "name": "Kempten",
+      "bundesland": "Bayern",
+      "lat": 47.7233,
+      "lon": 10.3348
+    },
+    {
+      "name": "Kiefersfelden-Gach",
+      "bundesland": "Bayern",
+      "lat": 47.6187,
+      "lon": 12.1665
+    },
+    {
+      "name": "Kitzingen",
+      "bundesland": "Bayern",
+      "lat": 49.7363,
+      "lon": 10.1781
+    },
+    {
+      "name": "Kronach",
+      "bundesland": "Bayern",
+      "lat": 50.2524,
+      "lon": 11.3209
+    },
+    {
+      "name": "Kösching",
+      "bundesland": "Bayern",
+      "lat": 48.8302,
+      "lon": 11.4872
+    },
+    {
+      "name": "Kümmersbruck",
+      "bundesland": "Bayern",
+      "lat": 49.4283,
+      "lon": 11.9016
+    },
+    {
+      "name": "Lautertal-Oberlauter",
+      "bundesland": "Bayern",
+      "lat": 50.3066,
+      "lon": 10.9679
+    },
+    {
+      "name": "Lechfeld",
+      "bundesland": "Bayern",
+      "lat": 48.1849,
+      "lon": 10.8507
+    },
+    {
+      "name": "Lohr-Halsbach/Main",
+      "bundesland": "Bayern",
+      "lat": 50.0132,
+      "lon": 9.654
+    },
+    {
+      "name": "Maisach-Galgen",
+      "bundesland": "Bayern",
+      "lat": 48.207,
+      "lon": 11.2035
+    },
+    {
+      "name": "Mallersdorf-Pfaffenberg-Oberlindhart",
+      "bundesland": "Bayern",
+      "lat": 48.7548,
+      "lon": 12.2118
+    },
+    {
+      "name": "Markt Erlbach-Hagenhofen",
+      "bundesland": "Bayern",
+      "lat": 49.4875,
+      "lon": 10.6277
+    },
+    {
+      "name": "Memmingen",
+      "bundesland": "Bayern",
+      "lat": 47.9821,
+      "lon": 10.1384
+    },
+    {
+      "name": "Metten",
+      "bundesland": "Bayern",
+      "lat": 48.8548,
+      "lon": 12.9189
+    },
+    {
+      "name": "Mittenwald",
+      "bundesland": "Bayern",
+      "lat": 47.4287,
+      "lon": 11.2616
+    },
+    {
+      "name": "Möhrendorf-Kleinseebach",
+      "bundesland": "Bayern",
+      "lat": 49.6497,
+      "lon": 11.0075
+    },
+    {
+      "name": "Mühldorf",
+      "bundesland": "Bayern",
+      "lat": 48.279,
+      "lon": 12.5024
+    },
+    {
+      "name": "München (Flughafen)",
+      "bundesland": "Bayern",
+      "lat": 48.3477,
+      "lon": 11.8134
+    },
+    {
+      "name": "München-Stadt",
+      "bundesland": "Bayern",
+      "lat": 48.1632,
+      "lon": 11.5429
+    },
+    {
+      "name": "Neuburg an der Donau",
+      "bundesland": "Bayern",
+      "lat": 48.7085,
+      "lon": 11.2147
+    },
+    {
+      "name": "Neuburg/Kammel-Langenhaslach",
+      "bundesland": "Bayern",
+      "lat": 48.3114,
+      "lon": 10.3773
+    },
+    {
+      "name": "Neuhütten/Spessart",
+      "bundesland": "Bayern",
+      "lat": 50.0083,
+      "lon": 9.4238
+    },
+    {
+      "name": "Neustadt-Filchendorf am Kulm",
+      "bundesland": "Bayern",
+      "lat": 49.8174,
+      "lon": 11.8638
+    },
+    {
+      "name": "Nürnberg (Flughafen)",
+      "bundesland": "Bayern",
+      "lat": 49.503,
+      "lon": 11.0549
+    },
+    {
+      "name": "Nürnberg-Netzstall",
+      "bundesland": "Bayern",
+      "lat": 49.4258,
+      "lon": 11.2539
+    },
+    {
+      "name": "Oberhaching-Laufzorn",
+      "bundesland": "Bayern",
+      "lat": 48.013,
+      "lon": 11.5524
+    },
+    {
+      "name": "Oberstdorf",
+      "bundesland": "Bayern",
+      "lat": 47.3984,
+      "lon": 10.2759
+    },
+    {
+      "name": "Oberviechtach",
+      "bundesland": "Bayern",
+      "lat": 49.4521,
+      "lon": 12.4365
+    },
+    {
+      "name": "Ostheim vor der Rhön",
+      "bundesland": "Bayern",
+      "lat": 50.4538,
+      "lon": 10.2211
+    },
+    {
+      "name": "Oy-Mittelberg-Petersthal",
+      "bundesland": "Bayern",
+      "lat": 47.6362,
+      "lon": 10.3892
+    },
+    {
+      "name": "Parsberg-Eglwang/Oberpfalz",
+      "bundesland": "Bayern",
+      "lat": 49.151,
+      "lon": 11.6897
+    },
+    {
+      "name": "Piding",
+      "bundesland": "Bayern",
+      "lat": 47.7724,
+      "lon": 12.9073
+    },
+    {
+      "name": "Pommelsbrunn-Mittelburg",
+      "bundesland": "Bayern",
+      "lat": 49.4777,
+      "lon": 11.5357
+    },
+    {
+      "name": "Regensburg",
+      "bundesland": "Bayern",
+      "lat": 49.0425,
+      "lon": 12.1019
+    },
+    {
+      "name": "Reimlingen",
+      "bundesland": "Bayern",
+      "lat": 48.8253,
+      "lon": 10.5067
+    },
+    {
+      "name": "Roth",
+      "bundesland": "Bayern",
+      "lat": 49.2162,
+      "lon": 11.1035
+    },
+    {
+      "name": "Rothenburg ob der Tauber",
+      "bundesland": "Bayern",
+      "lat": 49.3849,
+      "lon": 10.1732
+    },
+    {
+      "name": "Röllbach",
+      "bundesland": "Bayern",
+      "lat": 49.7644,
+      "lon": 9.253
+    },
+    {
+      "name": "Saldenburg-Entschenreuth",
+      "bundesland": "Bayern",
+      "lat": 48.7832,
+      "lon": 13.3146
+    },
+    {
+      "name": "Sandberg",
+      "bundesland": "Bayern",
+      "lat": 50.3518,
+      "lon": 10.0034
+    },
+    {
+      "name": "Schonungen-Mainberg",
+      "bundesland": "Bayern",
+      "lat": 50.0579,
+      "lon": 10.2972
+    },
+    {
+      "name": "Schorndorf-Knöbling",
+      "bundesland": "Bayern",
+      "lat": 49.1644,
+      "lon": 12.6175
+    },
+    {
+      "name": "Schwandorf",
+      "bundesland": "Bayern",
+      "lat": 49.3278,
+      "lon": 12.0871
+    },
+    {
+      "name": "Schönau am Königssee",
+      "bundesland": "Bayern",
+      "lat": 47.6134,
+      "lon": 12.9819
+    },
+    {
+      "name": "Schönwald/Ofr.-Brunn",
+      "bundesland": "Bayern",
+      "lat": 50.1847,
+      "lon": 12.0791
+    },
+    {
+      "name": "Siegsdorf-Höll",
+      "bundesland": "Bayern",
+      "lat": 47.835,
+      "lon": 12.6548
+    },
+    {
+      "name": "Sigmarszell",
+      "bundesland": "Bayern",
+      "lat": 47.5776,
+      "lon": 9.7404
+    },
+    {
+      "name": "Simbach/Inn",
+      "bundesland": "Bayern",
+      "lat": 48.2718,
+      "lon": 13.0273
+    },
+    {
+      "name": "Staffelstein, Bad-Stublang",
+      "bundesland": "Bayern",
+      "lat": 50.0806,
+      "lon": 11.0467
+    },
+    {
+      "name": "Straubing",
+      "bundesland": "Bayern",
+      "lat": 48.8275,
+      "lon": 12.5597
+    },
+    {
+      "name": "Teuschnitz",
+      "bundesland": "Bayern",
+      "lat": 50.4002,
+      "lon": 11.3888
+    },
+    {
+      "name": "Tirschenreuth-Lodermühl",
+      "bundesland": "Bayern",
+      "lat": 49.8576,
+      "lon": 12.3542
+    },
+    {
+      "name": "Trostberg",
+      "bundesland": "Bayern",
+      "lat": 48.0311,
+      "lon": 12.5396
+    },
+    {
+      "name": "Waldmünchen",
+      "bundesland": "Bayern",
+      "lat": 49.391,
+      "lon": 12.6838
+    },
+    {
+      "name": "Weiden",
+      "bundesland": "Bayern",
+      "lat": 49.6662,
+      "lon": 12.1844
+    },
+    {
+      "name": "Weidenbach-Weiherschneidbach",
+      "bundesland": "Bayern",
+      "lat": 49.2249,
+      "lon": 10.6085
+    },
+    {
+      "name": "Weißenburg-Emetzheim",
+      "bundesland": "Bayern",
+      "lat": 49.0115,
+      "lon": 10.9308
+    },
+    {
+      "name": "Wielenbach",
+      "bundesland": "Bayern",
+      "lat": 47.8847,
+      "lon": 11.154
+    },
+    {
+      "name": "Wunsiedel-Schönbrunn",
+      "bundesland": "Bayern",
+      "lat": 50.0315,
+      "lon": 11.9745
+    },
+    {
+      "name": "Würzburg",
+      "bundesland": "Bayern",
+      "lat": 49.7704,
+      "lon": 9.9576
+    },
+    {
+      "name": "Zwiesel",
+      "bundesland": "Bayern",
+      "lat": 49.028,
+      "lon": 13.2385
+    },
+    {
+      "name": "Berlin-Buch",
+      "bundesland": "Berlin",
+      "lat": 52.631,
+      "lon": 13.5021
+    },
+    {
+      "name": "Berlin-Dahlem",
+      "bundesland": "Berlin",
+      "lat": 52.4537,
+      "lon": 13.3017
+    },
+    {
+      "name": "Berlin-Marzahn",
+      "bundesland": "Berlin",
+      "lat": 52.5447,
+      "lon": 13.5598
+    },
+    {
+      "name": "Berlin-Tempelhof",
+      "bundesland": "Berlin",
+      "lat": 52.4676,
+      "lon": 13.402
+    },
+    {
+      "name": "Angermünde",
+      "bundesland": "Brandenburg",
+      "lat": 53.0316,
+      "lon": 13.9908
+    },
+    {
+      "name": "Baruth",
+      "bundesland": "Brandenburg",
+      "lat": 52.0613,
+      "lon": 13.4997
+    },
+    {
+      "name": "Berge",
+      "bundesland": "Brandenburg",
+      "lat": 52.6198,
+      "lon": 12.7867
+    },
+    {
+      "name": "Berlin Brandenburg (Flughafen)",
+      "bundesland": "Brandenburg",
+      "lat": 48.3477,
+      "lon": 11.8134
+    },
+    {
+      "name": "Coschen",
+      "bundesland": "Brandenburg",
+      "lat": 52.0192,
+      "lon": 14.7254
+    },
+    {
+      "name": "Cottbus",
+      "bundesland": "Brandenburg",
+      "lat": 51.7759,
+      "lon": 14.3168
+    },
+    {
+      "name": "Doberlug-Kirchhain",
+      "bundesland": "Brandenburg",
+      "lat": 51.6451,
+      "lon": 13.5747
+    },
+    {
+      "name": "Grünow",
+      "bundesland": "Brandenburg",
+      "lat": 53.3154,
+      "lon": 13.9339
+    },
+    {
+      "name": "Heckelberg",
+      "bundesland": "Brandenburg",
+      "lat": 52.7461,
+      "lon": 13.8427
+    },
+    {
+      "name": "Holzdorf-Bernsdorf",
+      "bundesland": "Brandenburg",
+      "lat": 51.7657,
+      "lon": 13.1666
+    },
+    {
+      "name": "Kyritz",
+      "bundesland": "Brandenburg",
+      "lat": 52.9362,
+      "lon": 12.4093
+    },
+    {
+      "name": "Langenlipsdorf",
+      "bundesland": "Brandenburg",
+      "lat": 51.9173,
+      "lon": 13.0878
+    },
+    {
+      "name": "Lenzen/Elbe",
+      "bundesland": "Brandenburg",
+      "lat": 53.1007,
+      "lon": 11.4864
+    },
+    {
+      "name": "Lindenberg",
+      "bundesland": "Brandenburg",
+      "lat": 52.2085,
+      "lon": 14.118
+    },
+    {
+      "name": "Lübben-Blumenfelde",
+      "bundesland": "Brandenburg",
+      "lat": 51.9267,
+      "lon": 13.8797
+    },
+    {
+      "name": "Manschnow",
+      "bundesland": "Brandenburg",
+      "lat": 52.5468,
+      "lon": 14.5453
+    },
+    {
+      "name": "Müncheberg",
+      "bundesland": "Brandenburg",
+      "lat": 52.5176,
+      "lon": 14.1232
+    },
+    {
+      "name": "Neuruppin-Alt Ruppin",
+      "bundesland": "Brandenburg",
+      "lat": 52.9437,
+      "lon": 12.8518
+    },
+    {
+      "name": "Potsdam",
+      "bundesland": "Brandenburg",
+      "lat": 52.3812,
+      "lon": 13.0622
+    },
+    {
+      "name": "Schipkau-Klettwitz",
+      "bundesland": "Brandenburg",
+      "lat": 51.5554,
+      "lon": 13.8845
+    },
+    {
+      "name": "Stechlin-Menz",
+      "bundesland": "Brandenburg",
+      "lat": 53.102,
+      "lon": 13.0421
+    },
+    {
+      "name": "Wiesenburg",
+      "bundesland": "Brandenburg",
+      "lat": 52.1206,
+      "lon": 12.4586
+    },
+    {
+      "name": "Wittstock-Rote Mühle",
+      "bundesland": "Brandenburg",
+      "lat": 53.1864,
+      "lon": 12.4949
+    },
+    {
+      "name": "Wusterwitz",
+      "bundesland": "Brandenburg",
+      "lat": 52.3613,
+      "lon": 12.3867
+    },
+    {
+      "name": "Zehdenick",
+      "bundesland": "Brandenburg",
+      "lat": 52.9664,
+      "lon": 13.3268
+    },
+    {
+      "name": "Bremen (Flughafen)",
+      "bundesland": "Bremen",
+      "lat": 53.0451,
+      "lon": 8.7981
+    },
+    {
+      "name": "Bremerhaven",
+      "bundesland": "Bremen",
+      "lat": 53.5332,
+      "lon": 8.5761
+    },
+    {
+      "name": "Hamburg (Flughafen)",
+      "bundesland": "Hamburg",
+      "lat": 48.3477,
+      "lon": 11.8134
+    },
+    {
+      "name": "Hamburg-Neuwiedenthal",
+      "bundesland": "Hamburg",
+      "lat": 53.4776,
+      "lon": 9.8957
+    },
+    {
+      "name": "Alsfeld-Eifa",
+      "bundesland": "Hessen",
+      "lat": 50.7446,
+      "lon": 9.345
+    },
+    {
+      "name": "Bad Hersfeld",
+      "bundesland": "Hessen",
+      "lat": 50.852,
+      "lon": 9.7377
+    },
+    {
+      "name": "Bad Nauheim",
+      "bundesland": "Hessen",
+      "lat": 50.3574,
+      "lon": 8.7506
+    },
+    {
+      "name": "Burgwald-Bottendorf",
+      "bundesland": "Hessen",
+      "lat": 51.0306,
+      "lon": 8.8146
+    },
+    {
+      "name": "Cölbe",
+      "bundesland": "Hessen",
+      "lat": 50.8492,
+      "lon": 8.7745
+    },
+    {
+      "name": "Darmstadt",
+      "bundesland": "Hessen",
+      "lat": 49.8809,
+      "lon": 8.6779
+    },
+    {
+      "name": "Eschwege",
+      "bundesland": "Hessen",
+      "lat": 51.2041,
+      "lon": 10.0138
+    },
+    {
+      "name": "Frankfurt (Flughafen)",
+      "bundesland": "Hessen",
+      "lat": 48.3477,
+      "lon": 11.8134
+    },
+    {
+      "name": "Frankfurt/Main-Westend",
+      "bundesland": "Hessen",
+      "lat": 50.1269,
+      "lon": 8.6694
+    },
+    {
+      "name": "Fritzlar/Eder",
+      "bundesland": "Hessen",
+      "lat": 51.119,
+      "lon": 9.2799
+    },
+    {
+      "name": "Fulda-Horas",
+      "bundesland": "Hessen",
+      "lat": 50.5668,
+      "lon": 9.6532
+    },
+    {
+      "name": "Geisenheim",
+      "bundesland": "Hessen",
+      "lat": 49.9859,
+      "lon": 7.9548
+    },
+    {
+      "name": "Gilserberg-Moischeid",
+      "bundesland": "Hessen",
+      "lat": 50.9656,
+      "lon": 9.05
+    },
+    {
+      "name": "Gründau-Breitenborn",
+      "bundesland": "Hessen",
+      "lat": 50.2667,
+      "lon": 9.1854
+    },
+    {
+      "name": "Hoherodskopf/Vogelsberg",
+      "bundesland": "Hessen",
+      "lat": 50.5084,
+      "lon": 9.2246
+    },
+    {
+      "name": "Kleiner Feldberg/Taunus",
+      "bundesland": "Hessen",
+      "lat": 50.2218,
+      "lon": 8.4469
+    },
+    {
+      "name": "Löhnberg-Obershausen",
+      "bundesland": "Hessen",
+      "lat": 50.5617,
+      "lon": 8.2386
+    },
+    {
+      "name": "Michelstadt",
+      "bundesland": "Hessen",
+      "lat": 49.6692,
+      "lon": 9.0085
+    },
+    {
+      "name": "Michelstadt-Vielbrunn",
+      "bundesland": "Hessen",
+      "lat": 49.7177,
+      "lon": 9.0997
+    },
+    {
+      "name": "Neu-Ulrichstein",
+      "bundesland": "Hessen",
+      "lat": 50.7513,
+      "lon": 9.0224
+    },
+    {
+      "name": "Neukirchen-Hauptschwenda",
+      "bundesland": "Hessen",
+      "lat": 50.8923,
+      "lon": 9.405
+    },
+    {
+      "name": "Oberzent-Beerfelden",
+      "bundesland": "Hessen",
+      "lat": 49.5617,
+      "lon": 8.9673
+    },
+    {
+      "name": "Offenbach-Wetterpark",
+      "bundesland": "Hessen",
+      "lat": 50.09,
+      "lon": 8.7862
+    },
+    {
+      "name": "Runkel-Ennerich",
+      "bundesland": "Hessen",
+      "lat": 50.394,
+      "lon": 8.1423
+    },
+    {
+      "name": "Schaafheim-Schlierbach",
+      "bundesland": "Hessen",
+      "lat": 49.9195,
+      "lon": 8.9672
+    },
+    {
+      "name": "Schauenburg-Elgershausen",
+      "bundesland": "Hessen",
+      "lat": 51.2835,
+      "lon": 9.359
+    },
+    {
+      "name": "Schlüchtern-Herolz",
+      "bundesland": "Hessen",
+      "lat": 50.3447,
+      "lon": 9.5533
+    },
+    {
+      "name": "Sontra",
+      "bundesland": "Hessen",
+      "lat": 51.0607,
+      "lon": 9.9266
+    },
+    {
+      "name": "Tann/Rhön",
+      "bundesland": "Hessen",
+      "lat": 50.639,
+      "lon": 10.0228
+    },
+    {
+      "name": "Twistetal-Mühlhausen",
+      "bundesland": "Hessen",
+      "lat": 51.3344,
+      "lon": 8.9132
+    },
+    {
+      "name": "Waldems-Reinborn",
+      "bundesland": "Hessen",
+      "lat": 50.2596,
+      "lon": 8.3607
+    },
+    {
+      "name": "Wasserkuppe",
+      "bundesland": "Hessen",
+      "lat": 50.4973,
+      "lon": 9.9427
+    },
+    {
+      "name": "Wesertal-Lippoldsberg",
+      "bundesland": "Hessen",
+      "lat": 51.6194,
+      "lon": 9.5749
+    },
+    {
+      "name": "Wettenberg bei Gießen",
+      "bundesland": "Hessen",
+      "lat": 50.6017,
+      "lon": 8.6439
+    },
+    {
+      "name": "Wiesbaden-Auringen",
+      "bundesland": "Hessen",
+      "lat": 50.1321,
+      "lon": 8.3169
+    },
+    {
+      "name": "Anklam",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 53.8409,
+      "lon": 13.6854
+    },
+    {
+      "name": "Arkona",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 54.6791,
+      "lon": 13.4344
+    },
+    {
+      "name": "Barth",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 54.3405,
+      "lon": 12.7108
+    },
+    {
+      "name": "Boizenburg",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 53.3911,
+      "lon": 10.6878
+    },
+    {
+      "name": "Boltenhagen",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 54.0027,
+      "lon": 11.1908
+    },
+    {
+      "name": "Feldberg/Mecklenburg",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 53.3176,
+      "lon": 13.4175
+    },
+    {
+      "name": "Goldberg",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 53.6058,
+      "lon": 12.1034
+    },
+    {
+      "name": "Grambow-Schwennenz",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 53.3837,
+      "lon": 14.3728
+    },
+    {
+      "name": "Greifswald",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 54.0967,
+      "lon": 13.4056
+    },
+    {
+      "name": "Greifswalder Oie",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 54.2437,
+      "lon": 13.9104
+    },
+    {
+      "name": "Gülzow-Prüzen",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 53.8178,
+      "lon": 12.0645
+    },
+    {
+      "name": "Insel Hiddensee",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 54.575,
+      "lon": 13.1044
+    },
+    {
+      "name": "Karlshagen",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 54.1049,
+      "lon": 13.8239
+    },
+    {
+      "name": "Kirchdorf/Poel",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 53.9995,
+      "lon": 11.4341
+    },
+    {
+      "name": "Laage-Kronskamp",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 53.9156,
+      "lon": 12.279
+    },
+    {
+      "name": "Marnitz",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 53.3221,
+      "lon": 11.9324
+    },
+    {
+      "name": "Putbus",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 54.3643,
+      "lon": 13.4771
+    },
+    {
+      "name": "Rostock-Warnemünde",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 54.1803,
+      "lon": 12.0808
+    },
+    {
+      "name": "Sanitz-Groß Lüsewitz",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 54.0714,
+      "lon": 12.3238
+    },
+    {
+      "name": "Schwerin",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 53.6424,
+      "lon": 11.3871
+    },
+    {
+      "name": "Steinhagen-Negast",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 54.2484,
+      "lon": 13.0419
+    },
+    {
+      "name": "Teterow",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 53.761,
+      "lon": 12.5574
+    },
+    {
+      "name": "Tribsees",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 54.0654,
+      "lon": 12.7655
+    },
+    {
+      "name": "Trollenhagen",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 53.5998,
+      "lon": 13.3039
+    },
+    {
+      "name": "Ueckermünde",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 53.7445,
+      "lon": 14.0698
+    },
+    {
+      "name": "Waren (Müritz)",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "lat": 53.5196,
+      "lon": 12.6654
+    },
+    {
+      "name": "Alfeld",
+      "bundesland": "Niedersachsen",
+      "lat": 51.9643,
+      "lon": 9.8072
+    },
+    {
+      "name": "Alfhausen",
+      "bundesland": "Niedersachsen",
+      "lat": 52.4853,
+      "lon": 7.9125
+    },
+    {
+      "name": "Algermissen-Groß Lobke",
+      "bundesland": "Niedersachsen",
+      "lat": 52.2731,
+      "lon": 10.0163
+    },
+    {
+      "name": "Bad Harzburg",
+      "bundesland": "Niedersachsen",
+      "lat": 51.9002,
+      "lon": 10.5699
+    },
+    {
+      "name": "Barsinghausen-Hohenbostel",
+      "bundesland": "Niedersachsen",
+      "lat": 52.3199,
+      "lon": 9.43
+    },
+    {
+      "name": "Bassum",
+      "bundesland": "Niedersachsen",
+      "lat": 52.863,
+      "lon": 8.6989
+    },
+    {
+      "name": "Belm",
+      "bundesland": "Niedersachsen",
+      "lat": 52.317,
+      "lon": 8.1694
+    },
+    {
+      "name": "Bergen",
+      "bundesland": "Niedersachsen",
+      "lat": 52.8152,
+      "lon": 9.9248
+    },
+    {
+      "name": "Bevern (Kreis Holzminden)",
+      "bundesland": "Niedersachsen",
+      "lat": 51.8529,
+      "lon": 9.4953
+    },
+    {
+      "name": "Borkum",
+      "bundesland": "Niedersachsen",
+      "lat": 53.5788,
+      "lon": 6.6703
+    },
+    {
+      "name": "Braunlage",
+      "bundesland": "Niedersachsen",
+      "lat": 51.7234,
+      "lon": 10.6021
+    },
+    {
+      "name": "Braunschweig",
+      "bundesland": "Niedersachsen",
+      "lat": 52.2915,
+      "lon": 10.4464
+    },
+    {
+      "name": "Bremervörde",
+      "bundesland": "Niedersachsen",
+      "lat": 53.4451,
+      "lon": 9.139
+    },
+    {
+      "name": "Bückeburg",
+      "bundesland": "Niedersachsen",
+      "lat": 52.2817,
+      "lon": 9.089
+    },
+    {
+      "name": "Celle",
+      "bundesland": "Niedersachsen",
+      "lat": 52.5959,
+      "lon": 10.0296
+    },
+    {
+      "name": "Cuxhaven",
+      "bundesland": "Niedersachsen",
+      "lat": 53.8712,
+      "lon": 8.7058
+    },
+    {
+      "name": "Diepholz",
+      "bundesland": "Niedersachsen",
+      "lat": 52.5881,
+      "lon": 8.3424
+    },
+    {
+      "name": "Dörpen",
+      "bundesland": "Niedersachsen",
+      "lat": 52.9542,
+      "lon": 7.3197
+    },
+    {
+      "name": "Emden",
+      "bundesland": "Niedersachsen",
+      "lat": 53.3881,
+      "lon": 7.2287
+    },
+    {
+      "name": "Faßberg",
+      "bundesland": "Niedersachsen",
+      "lat": 52.9157,
+      "lon": 10.1885
+    },
+    {
+      "name": "Freiburg/Elbe",
+      "bundesland": "Niedersachsen",
+      "lat": 53.8277,
+      "lon": 9.2493
+    },
+    {
+      "name": "Friesoythe-Altenoythe",
+      "bundesland": "Niedersachsen",
+      "lat": 53.0643,
+      "lon": 7.902
+    },
+    {
+      "name": "Groß Berßen",
+      "bundesland": "Niedersachsen",
+      "lat": 52.7553,
+      "lon": 7.4815
+    },
+    {
+      "name": "Großenkneten",
+      "bundesland": "Niedersachsen",
+      "lat": 52.9336,
+      "lon": 8.237
+    },
+    {
+      "name": "Göttingen",
+      "bundesland": "Niedersachsen",
+      "lat": 51.5002,
+      "lon": 9.9507
+    },
+    {
+      "name": "Hameln-Hastenbeck",
+      "bundesland": "Niedersachsen",
+      "lat": 52.0818,
+      "lon": 9.4077
+    },
+    {
+      "name": "Hannover (Flughafen)",
+      "bundesland": "Niedersachsen",
+      "lat": 52.4644,
+      "lon": 9.6779
+    },
+    {
+      "name": "Helmstedt-Emmerstedt",
+      "bundesland": "Niedersachsen",
+      "lat": 52.2467,
+      "lon": 10.9592
+    },
+    {
+      "name": "Herzberg",
+      "bundesland": "Niedersachsen",
+      "lat": 51.6255,
+      "lon": 10.3695
+    },
+    {
+      "name": "Lingen-Baccum",
+      "bundesland": "Niedersachsen",
+      "lat": 52.5126,
+      "lon": 7.4131
+    },
+    {
+      "name": "Lüchow",
+      "bundesland": "Niedersachsen",
+      "lat": 52.9724,
+      "lon": 11.1374
+    },
+    {
+      "name": "Meppen",
+      "bundesland": "Niedersachsen",
+      "lat": 52.7155,
+      "lon": 7.3176
+    },
+    {
+      "name": "Mittelnkirchen-Hohenfelde",
+      "bundesland": "Niedersachsen",
+      "lat": 53.5534,
+      "lon": 9.6097
+    },
+    {
+      "name": "Moringen-Lutterbeck",
+      "bundesland": "Niedersachsen",
+      "lat": 51.7209,
+      "lon": 9.8351
+    },
+    {
+      "name": "Norderney",
+      "bundesland": "Niedersachsen",
+      "lat": 53.7123,
+      "lon": 7.1519
+    },
+    {
+      "name": "Nordholz-Wanhöden",
+      "bundesland": "Niedersachsen",
+      "lat": 53.7647,
+      "lon": 8.6584
+    },
+    {
+      "name": "Rosengarten-Klecken",
+      "bundesland": "Niedersachsen",
+      "lat": 53.3629,
+      "lon": 9.9435
+    },
+    {
+      "name": "Rotenburg/Wümme",
+      "bundesland": "Niedersachsen",
+      "lat": 53.1289,
+      "lon": 9.3398
+    },
+    {
+      "name": "Seesen",
+      "bundesland": "Niedersachsen",
+      "lat": 51.904,
+      "lon": 10.1885
+    },
+    {
+      "name": "Soltau",
+      "bundesland": "Niedersachsen",
+      "lat": 52.9604,
+      "lon": 9.793
+    },
+    {
+      "name": "Steinau (Kreis Cuxhaven)",
+      "bundesland": "Niedersachsen",
+      "lat": 53.8712,
+      "lon": 8.7058
+    },
+    {
+      "name": "Uelzen",
+      "bundesland": "Niedersachsen",
+      "lat": 52.9414,
+      "lon": 10.5289
+    },
+    {
+      "name": "Wangerland-Hooksiel",
+      "bundesland": "Niedersachsen",
+      "lat": 53.6411,
+      "lon": 8.0809
+    },
+    {
+      "name": "Wendisch Evern",
+      "bundesland": "Niedersachsen",
+      "lat": 53.2139,
+      "lon": 10.4704
+    },
+    {
+      "name": "Wittingen-Vorhop",
+      "bundesland": "Niedersachsen",
+      "lat": 52.6423,
+      "lon": 10.6628
+    },
+    {
+      "name": "Wittmundhafen",
+      "bundesland": "Niedersachsen",
+      "lat": 53.5444,
+      "lon": 7.6625
+    },
+    {
+      "name": "Worpswede-Hüttenbusch",
+      "bundesland": "Niedersachsen",
+      "lat": 53.2758,
+      "lon": 8.9857
+    },
+    {
+      "name": "Wunstorf",
+      "bundesland": "Niedersachsen",
+      "lat": 52.4626,
+      "lon": 9.4245
+    },
+    {
+      "name": "Aachen-Orsbach",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 50.7983,
+      "lon": 6.0244
+    },
+    {
+      "name": "Ahaus",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 52.0813,
+      "lon": 6.9409
+    },
+    {
+      "name": "Arnsberg-Neheim",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.4633,
+      "lon": 7.978
+    },
+    {
+      "name": "Bad Berleburg-Stünzel",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 50.9837,
+      "lon": 8.3683
+    },
+    {
+      "name": "Bad Lippspringe",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.7854,
+      "lon": 8.8388
+    },
+    {
+      "name": "Bad Salzuflen",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 52.1042,
+      "lon": 8.7521
+    },
+    {
+      "name": "Bielefeld-Deppendorf",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 52.0714,
+      "lon": 8.4565
+    },
+    {
+      "name": "Bochum",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.5026,
+      "lon": 7.2289
+    },
+    {
+      "name": "Borken in Westfalen",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.873,
+      "lon": 6.8863
+    },
+    {
+      "name": "Brilon-Thülen",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.414,
+      "lon": 8.65
+    },
+    {
+      "name": "Duisburg-Baerl",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.5088,
+      "lon": 6.7018
+    },
+    {
+      "name": "Düsseldorf (Flughafen)",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.296,
+      "lon": 6.7686
+    },
+    {
+      "name": "Ennigerloh-Ostenfelde",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.8418,
+      "lon": 8.0607
+    },
+    {
+      "name": "Eslohe",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.254,
+      "lon": 8.1565
+    },
+    {
+      "name": "Essen-Bredeney",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.4041,
+      "lon": 6.9677
+    },
+    {
+      "name": "Geilenkirchen-Neutevern",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 50.9593,
+      "lon": 6.0392
+    },
+    {
+      "name": "Geldern-Walbeck",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.4942,
+      "lon": 6.2463
+    },
+    {
+      "name": "Gevelsberg-Oberbröking",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.3329,
+      "lon": 7.3412
+    },
+    {
+      "name": "Kahler Asten",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.1803,
+      "lon": 8.4891
+    },
+    {
+      "name": "Kall-Sistig",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 50.5014,
+      "lon": 6.5264
+    },
+    {
+      "name": "Kleve",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.7612,
+      "lon": 6.0954
+    },
+    {
+      "name": "Köln/Bonn (Flughafen)",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 50.7285,
+      "lon": 7.0839
+    },
+    {
+      "name": "Königswinter-Heiderhof",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 50.7293,
+      "lon": 7.204
+    },
+    {
+      "name": "Lennestadt-Theten",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.1333,
+      "lon": 8.0348
+    },
+    {
+      "name": "Lippstadt-Bökenförde",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.6336,
+      "lon": 8.3945
+    },
+    {
+      "name": "Lüdenscheid",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.2452,
+      "lon": 7.6425
+    },
+    {
+      "name": "Lüdinghausen-Brochtrup",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.7663,
+      "lon": 7.5194
+    },
+    {
+      "name": "Lügde-Paenbruch",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.8664,
+      "lon": 9.271
+    },
+    {
+      "name": "Meinerzhagen-Redlendorf",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.0899,
+      "lon": 7.6289
+    },
+    {
+      "name": "Mönchengladbach-Hilderath",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.1313,
+      "lon": 6.3608
+    },
+    {
+      "name": "Münster/Osnabrück (Flughafen)",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.9494,
+      "lon": 7.5906
+    },
+    {
+      "name": "Neunkirchen-Seelscheid-Krawinkel",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 50.8446,
+      "lon": 7.372
+    },
+    {
+      "name": "Nideggen-Schmidt",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 50.6743,
+      "lon": 6.424
+    },
+    {
+      "name": "Nörvenich-Niederbolheim",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 50.8294,
+      "lon": 6.6601
+    },
+    {
+      "name": "Rahden-Kleinendorf",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 52.4461,
+      "lon": 8.5906
+    },
+    {
+      "name": "Reichshof-Eckenhagen",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 50.9906,
+      "lon": 7.6958
+    },
+    {
+      "name": "Tönisvorst",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.2897,
+      "lon": 6.4437
+    },
+    {
+      "name": "Waltrop-Abdinghof",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.5966,
+      "lon": 7.4048
+    },
+    {
+      "name": "Warburg",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.5039,
+      "lon": 9.1118
+    },
+    {
+      "name": "Weilerswist-Lommersum",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 50.7119,
+      "lon": 6.7905
+    },
+    {
+      "name": "Werl",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.5763,
+      "lon": 7.8879
+    },
+    {
+      "name": "Wuppertal-Buchenhofen",
+      "bundesland": "Nordrhein-Westfalen",
+      "lat": 51.2256,
+      "lon": 7.1052
+    },
+    {
+      "name": "Alzey",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 49.7273,
+      "lon": 8.1164
+    },
+    {
+      "name": "Andernach",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 50.4237,
+      "lon": 7.4202
+    },
+    {
+      "name": "Bad Bergzabern",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 49.107,
+      "lon": 7.9967
+    },
+    {
+      "name": "Bad Dürkheim",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 49.4719,
+      "lon": 8.1929
+    },
+    {
+      "name": "Bad Kreuznach",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 49.8502,
+      "lon": 7.871
+    },
+    {
+      "name": "Bad Marienberg",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 50.6511,
+      "lon": 13.1469
+    },
+    {
+      "name": "Bad Neuenahr-Ahrweiler",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 50.5346,
+      "lon": 7.0853
+    },
+    {
+      "name": "Blankenrath",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 50.0372,
+      "lon": 7.3079
+    },
+    {
+      "name": "Büchel",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 50.1745,
+      "lon": 7.0595
+    },
+    {
+      "name": "Deuselbach",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 49.7619,
+      "lon": 7.0542
+    },
+    {
+      "name": "Hahn",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 49.9463,
+      "lon": 7.2645
+    },
+    {
+      "name": "Hilgenroth",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 50.737,
+      "lon": 7.6525
+    },
+    {
+      "name": "Hümmerich",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 50.5651,
+      "lon": 7.4843
+    },
+    {
+      "name": "Idar-Oberstein",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 49.6927,
+      "lon": 7.3263
+    },
+    {
+      "name": "Kaiserslautern",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 49.4262,
+      "lon": 7.7557
+    },
+    {
+      "name": "Mainz-Lerchenberg",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 49.9658,
+      "lon": 8.2049
+    },
+    {
+      "name": "Manderscheid",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 50.1015,
+      "lon": 6.8009
+    },
+    {
+      "name": "Montabaur",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 50.4383,
+      "lon": 7.8061
+    },
+    {
+      "name": "Nürburg-Barweiler",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 50.3602,
+      "lon": 6.8697
+    },
+    {
+      "name": "Olsdorf",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 49.9445,
+      "lon": 6.3821
+    },
+    {
+      "name": "Pirmasens",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 49.1912,
+      "lon": 7.5879
+    },
+    {
+      "name": "Ruppertsecken",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 49.6468,
+      "lon": 7.8837
+    },
+    {
+      "name": "Schneifelforsthaus",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 50.2968,
+      "lon": 6.4194
+    },
+    {
+      "name": "Trier",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 49.7479,
+      "lon": 6.6583
+    },
+    {
+      "name": "Trier-Petrisberg",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 49.7479,
+      "lon": 6.6583
+    },
+    {
+      "name": "Wahlbach bei Simmern",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 49.9996,
+      "lon": 7.5981
+    },
+    {
+      "name": "Weinbiet",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 49.3758,
+      "lon": 8.1212
+    },
+    {
+      "name": "Worms",
+      "bundesland": "Rheinland-Pfalz",
+      "lat": 49.6051,
+      "lon": 8.3659
+    },
+    {
+      "name": "Berus",
+      "bundesland": "Saarland",
+      "lat": 49.2641,
+      "lon": 6.6868
+    },
+    {
+      "name": "Neunkirchen-Wellesweiler",
+      "bundesland": "Saarland",
+      "lat": 49.344,
+      "lon": 7.2297
+    },
+    {
+      "name": "Perl-Nennig",
+      "bundesland": "Saarland",
+      "lat": 49.5354,
+      "lon": 6.3789
+    },
+    {
+      "name": "Saarbrücken (Flughafen)",
+      "bundesland": "Saarland",
+      "lat": 48.3477,
+      "lon": 11.8134
+    },
+    {
+      "name": "Saarbrücken-Burbach",
+      "bundesland": "Saarland",
+      "lat": 49.2406,
+      "lon": 6.9351
+    },
+    {
+      "name": "Tholey",
+      "bundesland": "Saarland",
+      "lat": 49.4737,
+      "lon": 7.0385
+    },
+    {
+      "name": "Weiskirchen/Saar",
+      "bundesland": "Saarland",
+      "lat": 49.5534,
+      "lon": 6.812
+    },
+    {
+      "name": "Aue",
+      "bundesland": "Sachsen",
+      "lat": 50.5908,
+      "lon": 12.7139
+    },
+    {
+      "name": "Bad Elster-Sohl",
+      "bundesland": "Sachsen",
+      "lat": 50.2705,
+      "lon": 12.2742
+    },
+    {
+      "name": "Bad Muskau",
+      "bundesland": "Sachsen",
+      "lat": 51.566,
+      "lon": 14.7008
+    },
+    {
+      "name": "Bertsdorf-Hörnitz",
+      "bundesland": "Sachsen",
+      "lat": 50.8992,
+      "lon": 14.7456
+    },
+    {
+      "name": "Carlsfeld",
+      "bundesland": "Sachsen",
+      "lat": 50.4313,
+      "lon": 12.6114
+    },
+    {
+      "name": "Chemnitz",
+      "bundesland": "Sachsen",
+      "lat": 50.7913,
+      "lon": 12.872
+    },
+    {
+      "name": "Deutschneudorf-Brüderwiese",
+      "bundesland": "Sachsen",
+      "lat": 50.62,
+      "lon": 13.4817
+    },
+    {
+      "name": "Dippoldiswalde-Reinberg",
+      "bundesland": "Sachsen",
+      "lat": 50.9116,
+      "lon": 13.7087
+    },
+    {
+      "name": "Dresden-Hosterwitz",
+      "bundesland": "Sachsen",
+      "lat": 51.0221,
+      "lon": 13.847
+    },
+    {
+      "name": "Dresden-Klotzsche (Flughafen)",
+      "bundesland": "Sachsen",
+      "lat": 51.1278,
+      "lon": 13.7543
+    },
+    {
+      "name": "Geringswalde-Altgeringswalde",
+      "bundesland": "Sachsen",
+      "lat": 51.0881,
+      "lon": 12.9326
+    },
+    {
+      "name": "Görlitz",
+      "bundesland": "Sachsen",
+      "lat": 51.1621,
+      "lon": 14.9506
+    },
+    {
+      "name": "Hoyerswerda",
+      "bundesland": "Sachsen",
+      "lat": 51.4492,
+      "lon": 14.2533
+    },
+    {
+      "name": "Klipphausen-Garsebach",
+      "bundesland": "Sachsen",
+      "lat": 51.1294,
+      "lon": 13.4328
+    },
+    {
+      "name": "Klitzschen bei Torgau",
+      "bundesland": "Sachsen",
+      "lat": 51.5185,
+      "lon": 12.9065
+    },
+    {
+      "name": "Kubschütz",
+      "bundesland": "Sachsen",
+      "lat": 51.1604,
+      "lon": 14.5042
+    },
+    {
+      "name": "Leipzig-Holzhausen",
+      "bundesland": "Sachsen",
+      "lat": 51.3151,
+      "lon": 12.4462
+    },
+    {
+      "name": "Leipzig/Halle (Flughafen)",
+      "bundesland": "Sachsen",
+      "lat": 48.3477,
+      "lon": 11.8134
+    },
+    {
+      "name": "Lichtenhain-Mittelndorf",
+      "bundesland": "Sachsen",
+      "lat": 50.9383,
+      "lon": 14.2094
+    },
+    {
+      "name": "Lichtentanne",
+      "bundesland": "Sachsen",
+      "lat": 50.6879,
+      "lon": 12.4329
+    },
+    {
+      "name": "Marienberg",
+      "bundesland": "Sachsen",
+      "lat": 50.6511,
+      "lon": 13.1469
+    },
+    {
+      "name": "Nossen",
+      "bundesland": "Sachsen",
+      "lat": 51.0507,
+      "lon": 13.3003
+    },
+    {
+      "name": "Oschatz",
+      "bundesland": "Sachsen",
+      "lat": 51.296,
+      "lon": 13.0928
+    },
+    {
+      "name": "Plauen",
+      "bundesland": "Sachsen",
+      "lat": 50.4818,
+      "lon": 12.13
+    },
+    {
+      "name": "Sohland/Spree",
+      "bundesland": "Sachsen",
+      "lat": 51.0594,
+      "lon": 14.4266
+    },
+    {
+      "name": "Treuen",
+      "bundesland": "Sachsen",
+      "lat": 50.5467,
+      "lon": 12.2863
+    },
+    {
+      "name": "Zinnwald-Georgenfeld",
+      "bundesland": "Sachsen",
+      "lat": 50.7313,
+      "lon": 13.7516
+    },
+    {
+      "name": "Aschersleben-Mehringen",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 51.7259,
+      "lon": 11.511
+    },
+    {
+      "name": "Bad Lauchstädt",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 51.3909,
+      "lon": 11.8786
+    },
+    {
+      "name": "Bernburg/Saale",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 51.8218,
+      "lon": 11.711
+    },
+    {
+      "name": "Demker",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 52.5075,
+      "lon": 11.8551
+    },
+    {
+      "name": "Gardelegen",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 52.5129,
+      "lon": 11.3942
+    },
+    {
+      "name": "Genthin",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 52.3875,
+      "lon": 12.1602
+    },
+    {
+      "name": "Harzgerode",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 51.652,
+      "lon": 11.1366
+    },
+    {
+      "name": "Huy-Pabstorf",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 52.0304,
+      "lon": 10.9626
+    },
+    {
+      "name": "Jeßnitz",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 51.6818,
+      "lon": 12.3053
+    },
+    {
+      "name": "Köthen (Anhalt)",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 51.7511,
+      "lon": 12.0094
+    },
+    {
+      "name": "Magdeburg",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 52.1029,
+      "lon": 11.5827
+    },
+    {
+      "name": "Möckern-Drewitz",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 52.2174,
+      "lon": 12.1641
+    },
+    {
+      "name": "Naumburg-Kreipitzsch/Saale",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 51.1045,
+      "lon": 11.7113
+    },
+    {
+      "name": "Oberharz am Brocken-Stiege",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 51.6647,
+      "lon": 10.881
+    },
+    {
+      "name": "Osterfeld",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 51.0872,
+      "lon": 11.9293
+    },
+    {
+      "name": "Quedlinburg",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 51.7953,
+      "lon": 11.132
+    },
+    {
+      "name": "Querfurt-Lodersleben",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 51.3895,
+      "lon": 11.5412
+    },
+    {
+      "name": "Seehausen",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 52.8911,
+      "lon": 11.7297
+    },
+    {
+      "name": "Ummendorf",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 52.1601,
+      "lon": 11.1759
+    },
+    {
+      "name": "Wernigerode",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 51.8454,
+      "lon": 10.7686
+    },
+    {
+      "name": "Wernigerode-Schierke",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 51.7659,
+      "lon": 10.6533
+    },
+    {
+      "name": "Wittenberg",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 51.8891,
+      "lon": 12.6446
+    },
+    {
+      "name": "Zeitz",
+      "bundesland": "Sachsen-Anhalt",
+      "lat": 51.0314,
+      "lon": 12.1495
+    },
+    {
+      "name": "Brodersby-Schönhagen",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.641,
+      "lon": 10.0238
+    },
+    {
+      "name": "Dörnick",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.1654,
+      "lon": 10.3519
+    },
+    {
+      "name": "Elpersbüttel",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.0691,
+      "lon": 9.0105
+    },
+    {
+      "name": "Erfde",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.2992,
+      "lon": 9.3162
+    },
+    {
+      "name": "Fehmarn",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.5283,
+      "lon": 11.0606
+    },
+    {
+      "name": "Glücksburg-Meierwik",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.8273,
+      "lon": 9.5058
+    },
+    {
+      "name": "Grambek",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 53.5731,
+      "lon": 10.6797
+    },
+    {
+      "name": "Hasenkrug-Hardebek",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.0039,
+      "lon": 9.8555
+    },
+    {
+      "name": "Hattstedt",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.5268,
+      "lon": 9.0425
+    },
+    {
+      "name": "Helgoland",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.175,
+      "lon": 7.892
+    },
+    {
+      "name": "Hohn",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.3162,
+      "lon": 9.5385
+    },
+    {
+      "name": "Hohwacht",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.3194,
+      "lon": 10.6732
+    },
+    {
+      "name": "Itzehoe",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 53.9897,
+      "lon": 9.5697
+    },
+    {
+      "name": "Kiel-Holtenau",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.3776,
+      "lon": 10.1424
+    },
+    {
+      "name": "Leck",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.7903,
+      "lon": 8.9514
+    },
+    {
+      "name": "List auf Sylt",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 55.011,
+      "lon": 8.4125
+    },
+    {
+      "name": "Lübeck-Blankensee",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 53.8025,
+      "lon": 10.6989
+    },
+    {
+      "name": "Ostenfeld (Rendsburg)",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.3194,
+      "lon": 9.8051
+    },
+    {
+      "name": "Padenstedt",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.0188,
+      "lon": 9.9255
+    },
+    {
+      "name": "Pelzerhaken",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.0893,
+      "lon": 10.8773
+    },
+    {
+      "name": "Quickborn",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 53.7331,
+      "lon": 9.8776
+    },
+    {
+      "name": "Sankt Peter-Ording",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.3279,
+      "lon": 8.6031
+    },
+    {
+      "name": "Schleswig",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.5275,
+      "lon": 9.5487
+    },
+    {
+      "name": "Schleswig-Jagel",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.457,
+      "lon": 9.5203
+    },
+    {
+      "name": "Wacken",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 54.0246,
+      "lon": 9.388
+    },
+    {
+      "name": "Wittenborn",
+      "bundesland": "Schleswig-Holstein",
+      "lat": 53.9224,
+      "lon": 10.2267
+    },
+    {
+      "name": "Artern",
+      "bundesland": "Thüringen",
+      "lat": 51.3744,
+      "lon": 11.292
+    },
+    {
+      "name": "Bad Berka (Flugplatz)",
+      "bundesland": "Thüringen",
+      "lat": 50.9075,
+      "lon": 11.2665
+    },
+    {
+      "name": "Bad Lobenstein",
+      "bundesland": "Thüringen",
+      "lat": 50.4505,
+      "lon": 11.635
+    },
+    {
+      "name": "Birx/Rhön",
+      "bundesland": "Thüringen",
+      "lat": 50.5309,
+      "lon": 10.0479
+    },
+    {
+      "name": "Dachwig",
+      "bundesland": "Thüringen",
+      "lat": 51.0778,
+      "lon": 10.8619
+    },
+    {
+      "name": "Eisenach",
+      "bundesland": "Thüringen",
+      "lat": 51.0007,
+      "lon": 10.3621
+    },
+    {
+      "name": "Erfurt-Weimar (Flughafen)",
+      "bundesland": "Thüringen",
+      "lat": 50.9751,
+      "lon": 11.3076
+    },
+    {
+      "name": "Gera-Leumnitz",
+      "bundesland": "Thüringen",
+      "lat": 50.8812,
+      "lon": 12.1289
+    },
+    {
+      "name": "Jena",
+      "bundesland": "Thüringen",
+      "lat": 50.9251,
+      "lon": 11.583
+    },
+    {
+      "name": "Kleiner Inselsberg",
+      "bundesland": "Thüringen",
+      "lat": 50.8458,
+      "lon": 10.4803
+    },
+    {
+      "name": "Krölpa-Rockendorf",
+      "bundesland": "Thüringen",
+      "lat": 50.682,
+      "lon": 11.515
+    },
+    {
+      "name": "Langenwetzendorf-Göttendorf",
+      "bundesland": "Thüringen",
+      "lat": 50.661,
+      "lon": 12.0756
+    },
+    {
+      "name": "Leinefelde",
+      "bundesland": "Thüringen",
+      "lat": 51.3932,
+      "lon": 10.3123
+    },
+    {
+      "name": "Martinroda",
+      "bundesland": "Thüringen",
+      "lat": 50.7335,
+      "lon": 10.8815
+    },
+    {
+      "name": "Meiningen",
+      "bundesland": "Thüringen",
+      "lat": 50.5611,
+      "lon": 10.3771
+    },
+    {
+      "name": "Mühlhausen-Görmar/Thüringen",
+      "bundesland": "Thüringen",
+      "lat": 51.2076,
+      "lon": 10.3956
+    },
+    {
+      "name": "Neuhaus am Rennweg",
+      "bundesland": "Thüringen",
+      "lat": 50.5003,
+      "lon": 11.1345
+    },
+    {
+      "name": "Olbersleben",
+      "bundesland": "Thüringen",
+      "lat": 51.1507,
+      "lon": 11.3321
+    },
+    {
+      "name": "Salzungen, Bad-Gräfen-Nitzendorf",
+      "bundesland": "Thüringen",
+      "lat": 50.8426,
+      "lon": 10.2518
+    },
+    {
+      "name": "Schleiz",
+      "bundesland": "Thüringen",
+      "lat": 50.5679,
+      "lon": 11.8041
+    },
+    {
+      "name": "Schmieritz-Weltwitz",
+      "bundesland": "Thüringen",
+      "lat": 50.7281,
+      "lon": 11.7838
+    },
+    {
+      "name": "Schmücke",
+      "bundesland": "Thüringen",
+      "lat": 50.6545,
+      "lon": 10.7696
+    },
+    {
+      "name": "Schwarzburg",
+      "bundesland": "Thüringen",
+      "lat": 50.6441,
+      "lon": 11.1936
+    },
+    {
+      "name": "Sondershausen",
+      "bundesland": "Thüringen",
+      "lat": 51.3691,
+      "lon": 10.88
+    },
+    {
+      "name": "Starkenberg-Tegkwitz",
+      "bundesland": "Thüringen",
+      "lat": 50.9771,
+      "lon": 12.3419
+    },
+    {
+      "name": "Veilsdorf",
+      "bundesland": "Thüringen",
+      "lat": 50.4167,
+      "lon": 10.8156
+    },
+    {
+      "name": "Waltershausen",
+      "bundesland": "Thüringen",
+      "lat": 50.8963,
+      "lon": 10.5483
+    },
+    {
+      "name": "Weimar-Schöndorf",
+      "bundesland": "Thüringen",
+      "lat": 51.0177,
+      "lon": 11.3544
+    }
+  ]
+}
