@@ -2,18 +2,18 @@ name: Waldbranddaten aktualisieren
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # jeden Tag um 6:00 Uhr MEZ
+    - cron: '0 6 * * *'  # jeden Tag um 5:00 Uhr MEZ
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           persist-credentials: false
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
       - name: Install dependencies
