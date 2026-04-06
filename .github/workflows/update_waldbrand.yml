@@ -2,7 +2,7 @@ name: Waldbranddaten aktualisieren
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # jeden Tag um 5:00 Uhr MEZ
+    - cron: '0 6 * * *'  # jeden Tag um 6:00 Uhr MEZ
   workflow_dispatch:
 
 jobs:
@@ -30,5 +30,4 @@ jobs:
           git add waldbrand_*.json
           git diff --cached --quiet && echo "Nothing to commit" && exit 0
           git commit -m "Update Waldbranddaten"
-          git pull --rebase origin main
-          git push origin main
+          git push --force origin main
