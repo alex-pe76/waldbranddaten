@@ -1,9 +1,9 @@
 {
-  "run_timestamp_utc": "2026-05-02T07:17:39+00:00",
+  "run_timestamp_utc": "2026-05-03T07:45:27+00:00",
   "source": "DWD wbx_tab_alle_{BL}.html",
-  "fetch_ok": 15,
+  "fetch_ok": 16,
   "fetch_404": 0,
-  "fetch_other_err": 1,
+  "fetch_other_err": 0,
   "offseason_expected": false,
   "data_status": "fresh_or_partial"
 }
