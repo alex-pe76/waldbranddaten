@@ -1,802 +1,802 @@
 [
   {
     "Stationsname": "Ostheim vor der Rhön",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Teuschnitz",
-    "So 10.05.": "1",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Sandberg",
-    "So 10.05.": "1",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Hof",
-    "So 10.05.": "1",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Lautertal-Oberlauter",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Bad Königshofen",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Kronach",
-    "So 10.05.": "1",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Bad Kissingen",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Schönwald/Ofr.-Brunn",
-    "So 10.05.": "1",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Staffelstein, Bad-Stublang",
-    "So 10.05.": "1",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Kahl/Main",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Schonungen-Mainberg",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Wunsiedel-Schönbrunn",
-    "So 10.05.": "1",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Lohr-Halsbach/Main",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Neuhütten/Spessart",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Fichtelberg-Hüttstadl/Oberfranken",
-    "So 10.05.": "1",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Arnstein-Müdesheim",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Heinersreuth-Vollhof",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Bamberg",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Tirschenreuth-Lodermühl",
-    "So 10.05.": "1",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Ebrach",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Neustadt-Filchendorf am Kulm",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Würzburg",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Röllbach",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Kitzingen",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Weiden",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Gräfenberg-Kasberg",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Möhrendorf-Kleinseebach",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Gollhofen",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Nürnberg (Flughafen)",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Markt Erlbach-Hagenhofen",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Pommelsbrunn-Mittelburg",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Amberg-Unterammersricht",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Oberviechtach",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Kümmersbruck",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Nürnberg-Netzstall",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Waldmünchen",
-    "So 10.05.": "4",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Rothenburg ob der Tauber",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Schwandorf",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Weidenbach-Weiherschneidbach",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Roth",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Schorndorf-Knöbling",
-    "So 10.05.": "4",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Feuchtwangen-Heilbronn",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Parsberg-Eglwang/Oberpfalz",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Regensburg",
-    "So 10.05.": "4",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Zwiesel",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Weißenburg-Emetzheim",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Gelbelsee",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Eichstätt-Landershofen",
-    "So 10.05.": "4",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Metten",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Kösching",
-    "So 10.05.": "4",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Straubing",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Reimlingen",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "2"
-  },
-  {
-    "Stationsname": "Harburg",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Grainet-Rehberg",
-    "So 10.05.": "4",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Saldenburg-Entschenreuth",
-    "So 10.05.": "4",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Mallersdorf-Pfaffenberg-Oberlindhart",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "2"
-  },
-  {
-    "Stationsname": "Donauwörth-Osterweiler",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Ingolstadt-Manching",
-    "So 10.05.": "4",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Neuburg an der Donau",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Elsendorf-Horneck",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "2"
-  },
-  {
-    "Stationsname": "Gottfrieding",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Aldersbach-Kramersepp",
-    "So 10.05.": "4",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Dillingen/Donau-Fristingen",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
-    "Di 12.05.": "1",
-    "Mi 13.05.": "1",
-    "Do 14.05.": "1"
-  },
-  {
-    "Stationsname": "Fürstenzell",
-    "So 10.05.": "3",
     "Mo 11.05.": "2",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Teuschnitz",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Sandberg",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Hof",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Lautertal-Oberlauter",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Bad Königshofen",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Kronach",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Bad Kissingen",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Schönwald/Ofr.-Brunn",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Staffelstein, Bad-Stublang",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Kahl/Main",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Schonungen-Mainberg",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Wunsiedel-Schönbrunn",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Lohr-Halsbach/Main",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Neuhütten/Spessart",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Fichtelberg-Hüttstadl/Oberfranken",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Arnstein-Müdesheim",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Heinersreuth-Vollhof",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Bamberg",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Tirschenreuth-Lodermühl",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Ebrach",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Neustadt-Filchendorf am Kulm",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Würzburg",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Röllbach",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Kitzingen",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Weiden",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Gräfenberg-Kasberg",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Möhrendorf-Kleinseebach",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Gollhofen",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Nürnberg (Flughafen)",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Markt Erlbach-Hagenhofen",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Pommelsbrunn-Mittelburg",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Amberg-Unterammersricht",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Oberviechtach",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Kümmersbruck",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Nürnberg-Netzstall",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Waldmünchen",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Rothenburg ob der Tauber",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Schwandorf",
+    "Mo 11.05.": "3",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Weidenbach-Weiherschneidbach",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Roth",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Schorndorf-Knöbling",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Feuchtwangen-Heilbronn",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Parsberg-Eglwang/Oberpfalz",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Regensburg",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Zwiesel",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Weißenburg-Emetzheim",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Gelbelsee",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Eichstätt-Landershofen",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Metten",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Kösching",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Straubing",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Reimlingen",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Harburg",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Grainet-Rehberg",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Saldenburg-Entschenreuth",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Mallersdorf-Pfaffenberg-Oberlindhart",
+    "Mo 11.05.": "3",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Donauwörth-Osterweiler",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Ingolstadt-Manching",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Neuburg an der Donau",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Elsendorf-Horneck",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Gottfrieding",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Aldersbach-Kramersepp",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Dillingen/Donau-Fristingen",
+    "Mo 11.05.": "1",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
+  },
+  {
+    "Stationsname": "Fürstenzell",
+    "Mo 11.05.": "2",
+    "Di 12.05.": "1",
+    "Mi 13.05.": "1",
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Günzburg",
-    "So 10.05.": "3",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Falkenberg (Kreis Rottal-Inn)",
-    "So 10.05.": "3",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "2",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Augsburg",
-    "So 10.05.": "4",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Altomünster-Maisbrunn",
-    "So 10.05.": "3",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Freising-Dürnast",
-    "So 10.05.": "3",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "München (Flughafen)",
-    "So 10.05.": "3",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "2"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Neuburg/Kammel-Langenhaslach",
-    "So 10.05.": "3",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "2"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Mühldorf",
-    "So 10.05.": "2",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Simbach/Inn",
-    "So 10.05.": "2",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Maisach-Galgen",
-    "So 10.05.": "3",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Lechfeld",
-    "So 10.05.": "3",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "2"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "München-Stadt",
-    "So 10.05.": "3",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "2"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Ebersberg-Halbing",
-    "So 10.05.": "3",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Trostberg",
-    "So 10.05.": "4",
-    "Mo 11.05.": "1",
+    "Mo 11.05.": "2",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Amerang-Pfaffing",
-    "So 10.05.": "4",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Oberhaching-Laufzorn",
-    "So 10.05.": "3",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Memmingen",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
+    "Mo 11.05.": "2",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Chieming",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
+    "Mo 11.05.": "2",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Wielenbach",
-    "So 10.05.": "3",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Holzkirchen",
-    "So 10.05.": "3",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Attenkam",
-    "So 10.05.": "3",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Kaufbeuren-Oberbeuren",
-    "So 10.05.": "3",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Siegsdorf-Höll",
-    "So 10.05.": "1",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Altenstadt",
-    "So 10.05.": "2",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Hohenpeißenberg",
-    "So 10.05.": "2",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Piding",
-    "So 10.05.": "3",
-    "Mo 11.05.": "1",
+    "Mo 11.05.": "2",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Kempten",
-    "So 10.05.": "2",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Bad Kohlgrub",
-    "So 10.05.": "1",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Oy-Mittelberg-Petersthal",
-    "So 10.05.": "2",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Kiefersfelden-Gach",
-    "So 10.05.": "2",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Schönau am Königssee",
-    "So 10.05.": "2",
-    "Mo 11.05.": "1",
+    "Mo 11.05.": "2",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Sigmarszell",
-    "So 10.05.": "2",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Garmisch-Partenkirchen",
-    "So 10.05.": "1",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Mittenwald",
-    "So 10.05.": "1",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   },
   {
     "Stationsname": "Oberstdorf",
-    "So 10.05.": "1",
     "Mo 11.05.": "1",
     "Di 12.05.": "1",
     "Mi 13.05.": "1",
-    "Do 14.05.": "1"
+    "Do 14.05.": "1",
+    "Fr 15.05.": "1"
   }
 ]
