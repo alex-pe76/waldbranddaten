@@ -12,14 +12,36 @@ jobs:
       - uses: actions/checkout@v6
         with:
           persist-credentials: false
+
       - name: Setup Python
         uses: actions/setup-python@v6
         with:
           python-version: '3.11'
+
       - name: Install dependencies
         run: pip install pandas lxml html5lib
-      - name: Run scraper
+
+      - name: Run scraper (Versuch 1)
         run: python waldbranddaten.py
+
+      - name: Prüfe ob Daten neu sind
+        id: check
+        run: |
+          git add waldbrand_gesamt.json
+          if git diff --cached -- waldbrand_gesamt.json | grep -q .; then
+            echo "retry=false" >> $GITHUB_OUTPUT
+            echo "Neue Daten vom DWD erhalten."
+          else
+            echo "retry=true" >> $GITHUB_OUTPUT
+            echo "Daten unverändert – Wiederholung in 2 Stunden."
+          fi
+
+      - name: Warte 2 Stunden und versuche erneut
+        if: steps.check.outputs.retry == 'true'
+        run: |
+          sleep 7200
+          python waldbranddaten.py
+
       - name: Commit and push result
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
@@ -27,7 +49,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git
-          git add waldbrand_*.json
+          git add waldbrand_*.json waldbrand_meta.json
           git diff --cached --quiet && echo "Nothing to commit" && exit 0
           git commit -m "Update Waldbranddaten"
           git push origin main
