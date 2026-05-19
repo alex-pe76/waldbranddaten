@@ -36,8 +36,27 @@ jobs:
             echo "Daten unverändert – Wiederholung in 2 Stunden."
           fi
 
-      - name: Warte 2 Stunden und versuche erneut
+      - name: Warte 2 Stunden und versuche erneut (Versuch 2)
         if: steps.check.outputs.retry == 'true'
+        run: |
+          sleep 7200
+          python waldbranddaten.py
+
+      - name: Prüfe ob Daten neu sind (nach Versuch 2)
+        id: check2
+        if: steps.check.outputs.retry == 'true'
+        run: |
+          git add waldbrand_gesamt.json
+          if git diff --cached -- waldbrand_gesamt.json | grep -q .; then
+            echo "retry=false" >> $GITHUB_OUTPUT
+            echo "Neue Daten in Versuch 2 erhalten."
+          else
+            echo "retry=true" >> $GITHUB_OUTPUT
+            echo "Daten weiterhin unverändert – Wiederholung in 2 Stunden."
+          fi
+
+      - name: Warte 2 Stunden und versuche erneut (Versuch 3, ~10:00 MESZ)
+        if: steps.check2.outputs.retry == 'true'
         run: |
           sleep 7200
           python waldbranddaten.py
