@@ -1,338 +1,338 @@
 [
   {
     "Stationsname": "Rahden-Kleinendorf",
-    "Do 16.07.": "3",
     "Fr 17.07.": "4",
     "Sa 18.07.": "3",
     "So 19.07.": "3",
-    "Mo 20.07.": "3"
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
   },
   {
     "Stationsname": "Münster/Osnabrück (Flughafen)",
-    "Do 16.07.": "3",
     "Fr 17.07.": "3",
     "Sa 18.07.": "3",
     "So 19.07.": "3",
-    "Mo 20.07.": "3"
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
   },
   {
     "Stationsname": "Bad Salzuflen",
-    "Do 16.07.": "2",
-    "Fr 17.07.": "3",
+    "Fr 17.07.": "2",
     "Sa 18.07.": "2",
     "So 19.07.": "1",
-    "Mo 20.07.": "2"
+    "Mo 20.07.": "1",
+    "Di 21.07.": "2"
   },
   {
     "Stationsname": "Ahaus",
-    "Do 16.07.": "3",
     "Fr 17.07.": "3",
     "Sa 18.07.": "3",
     "So 19.07.": "3",
-    "Mo 20.07.": "3"
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
   },
   {
     "Stationsname": "Bielefeld-Deppendorf",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "4",
+    "Fr 17.07.": "3",
     "Sa 18.07.": "3",
-    "So 19.07.": "2",
-    "Mo 20.07.": "3"
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
   },
   {
     "Stationsname": "Borken in Westfalen",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "4",
+    "Fr 17.07.": "3",
     "Sa 18.07.": "3",
     "So 19.07.": "3",
-    "Mo 20.07.": "3"
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
   },
   {
     "Stationsname": "Lügde-Paenbruch",
-    "Do 16.07.": "2",
     "Fr 17.07.": "3",
     "Sa 18.07.": "2",
     "So 19.07.": "2",
-    "Mo 20.07.": "2"
+    "Mo 20.07.": "1",
+    "Di 21.07.": "2"
   },
   {
     "Stationsname": "Ennigerloh-Ostenfelde",
-    "Do 16.07.": "3",
     "Fr 17.07.": "3",
     "Sa 18.07.": "3",
     "So 19.07.": "3",
-    "Mo 20.07.": "3"
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
   },
   {
     "Stationsname": "Bad Lippspringe",
-    "Do 16.07.": "3",
     "Fr 17.07.": "3",
     "Sa 18.07.": "3",
     "So 19.07.": "2",
-    "Mo 20.07.": "3"
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
   },
   {
     "Stationsname": "Lüdinghausen-Brochtrup",
-    "Do 16.07.": "3",
     "Fr 17.07.": "4",
     "Sa 18.07.": "3",
     "So 19.07.": "3",
-    "Mo 20.07.": "3"
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
   },
   {
     "Stationsname": "Kleve",
-    "Do 16.07.": "3",
     "Fr 17.07.": "3",
     "Sa 18.07.": "3",
     "So 19.07.": "3",
-    "Mo 20.07.": "3"
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
   },
   {
     "Stationsname": "Lippstadt-Bökenförde",
-    "Do 16.07.": "3",
     "Fr 17.07.": "3",
     "Sa 18.07.": "3",
     "So 19.07.": "3",
-    "Mo 20.07.": "3"
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
   },
   {
     "Stationsname": "Waltrop-Abdinghof",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Werl",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Duisburg-Baerl",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Warburg",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Bochum",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Geldern-Walbeck",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Arnsberg-Neheim",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Brilon-Thülen",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Essen-Bredeney",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Gevelsberg-Oberbröking",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Düsseldorf (Flughafen)",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Tönisvorst",
-    "Do 16.07.": "3",
     "Fr 17.07.": "4",
     "Sa 18.07.": "3",
     "So 19.07.": "3",
-    "Mo 20.07.": "3"
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Werl",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Duisburg-Baerl",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Warburg",
+    "Fr 17.07.": "1",
+    "Sa 18.07.": "2",
+    "So 19.07.": "2",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Bochum",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Geldern-Walbeck",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Arnsberg-Neheim",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Brilon-Thülen",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Essen-Bredeney",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Gevelsberg-Oberbröking",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Düsseldorf (Flughafen)",
+    "Fr 17.07.": "4",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Tönisvorst",
+    "Fr 17.07.": "4",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
   },
   {
     "Stationsname": "Eslohe",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
+    "Fr 17.07.": "2",
     "Sa 18.07.": "3",
     "So 19.07.": "3",
-    "Mo 20.07.": "3"
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
   },
   {
     "Stationsname": "Lüdenscheid",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
+    "Fr 17.07.": "2",
     "Sa 18.07.": "3",
     "So 19.07.": "3",
-    "Mo 20.07.": "3"
+    "Mo 20.07.": "2",
+    "Di 21.07.": "3"
   },
   {
     "Stationsname": "Wuppertal-Buchenhofen",
-    "Do 16.07.": "3",
     "Fr 17.07.": "3",
     "Sa 18.07.": "3",
     "So 19.07.": "3",
-    "Mo 20.07.": "3"
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
   },
   {
     "Stationsname": "Kahler Asten",
-    "Do 16.07.": "3",
     "Fr 17.07.": "2",
-    "Sa 18.07.": "3",
+    "Sa 18.07.": "1",
     "So 19.07.": "2",
-    "Mo 20.07.": "3"
+    "Mo 20.07.": "2",
+    "Di 21.07.": "3"
   },
   {
     "Stationsname": "Lennestadt-Theten",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Mönchengladbach-Hilderath",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Meinerzhagen-Redlendorf",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Reichshof-Eckenhagen",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Bad Berleburg-Stünzel",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Geilenkirchen-Neutevern",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Köln/Bonn (Flughafen)",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Neunkirchen-Seelscheid-Krawinkel",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Nörvenich-Niederbolheim",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Aachen-Orsbach",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Königswinter-Heiderhof",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Weilerswist-Lommersum",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Nideggen-Schmidt",
-    "Do 16.07.": "3",
-    "Fr 17.07.": "3",
-    "Sa 18.07.": "3",
-    "So 19.07.": "3",
-    "Mo 20.07.": "3"
-  },
-  {
-    "Stationsname": "Kall-Sistig",
-    "Do 16.07.": "3",
     "Fr 17.07.": "2",
     "Sa 18.07.": "3",
     "So 19.07.": "3",
-    "Mo 20.07.": "3"
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Mönchengladbach-Hilderath",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Meinerzhagen-Redlendorf",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Reichshof-Eckenhagen",
+    "Fr 17.07.": "2",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Bad Berleburg-Stünzel",
+    "Fr 17.07.": "1",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Geilenkirchen-Neutevern",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Köln/Bonn (Flughafen)",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Neunkirchen-Seelscheid-Krawinkel",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Nörvenich-Niederbolheim",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Aachen-Orsbach",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Königswinter-Heiderhof",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Weilerswist-Lommersum",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "4",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Nideggen-Schmidt",
+    "Fr 17.07.": "3",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
+  },
+  {
+    "Stationsname": "Kall-Sistig",
+    "Fr 17.07.": "2",
+    "Sa 18.07.": "3",
+    "So 19.07.": "3",
+    "Mo 20.07.": "3",
+    "Di 21.07.": "3"
   }
 ]
