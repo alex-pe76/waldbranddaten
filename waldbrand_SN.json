@@ -1,218 +1,218 @@
 [
   {
     "Stationsname": "Bad Muskau",
-    "Fr 02.10.": "3",
-    "Sa 03.10.": "3",
+    "Sa 03.10.": "2",
     "So 04.10.": "2",
     "Mo 05.10.": "2",
-    "Di 06.10.": "3"
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
   },
   {
     "Stationsname": "Klitzschen bei Torgau",
-    "Fr 02.10.": "2",
     "Sa 03.10.": "2",
-    "So 04.10.": "3",
+    "So 04.10.": "2",
     "Mo 05.10.": "2",
-    "Di 06.10.": "2"
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
   },
   {
     "Stationsname": "Hoyerswerda",
-    "Fr 02.10.": "3",
-    "Sa 03.10.": "3",
+    "Sa 03.10.": "2",
     "So 04.10.": "2",
     "Mo 05.10.": "2",
-    "Di 06.10.": "3"
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
   },
   {
     "Stationsname": "Leipzig/Halle (Flughafen)",
-    "Fr 02.10.": "2",
-    "Sa 03.10.": "2",
-    "So 04.10.": "2",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Leipzig-Holzhausen",
-    "Fr 02.10.": "2",
-    "Sa 03.10.": "1",
-    "So 04.10.": "2",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Oschatz",
-    "Fr 02.10.": "2",
-    "Sa 03.10.": "2",
-    "So 04.10.": "3",
-    "Mo 05.10.": "3",
-    "Di 06.10.": "3"
-  },
-  {
-    "Stationsname": "Görlitz",
-    "Fr 02.10.": "2",
-    "Sa 03.10.": "2",
-    "So 04.10.": "2",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Kubschütz",
-    "Fr 02.10.": "2",
-    "Sa 03.10.": "2",
-    "So 04.10.": "2",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Klipphausen-Garsebach",
-    "Fr 02.10.": "2",
-    "Sa 03.10.": "2",
-    "So 04.10.": "2",
-    "Mo 05.10.": "3",
-    "Di 06.10.": "3"
-  },
-  {
-    "Stationsname": "Dresden-Klotzsche (Flughafen)",
-    "Fr 02.10.": "2",
-    "Sa 03.10.": "2",
-    "So 04.10.": "2",
-    "Mo 05.10.": "3",
-    "Di 06.10.": "3"
-  },
-  {
-    "Stationsname": "Geringswalde-Altgeringswalde",
-    "Fr 02.10.": "1",
-    "Sa 03.10.": "2",
-    "So 04.10.": "2",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Sohland/Spree",
-    "Fr 02.10.": "2",
-    "Sa 03.10.": "2",
-    "So 04.10.": "2",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Nossen",
-    "Fr 02.10.": "2",
-    "Sa 03.10.": "2",
-    "So 04.10.": "2",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Dresden-Hosterwitz",
-    "Fr 02.10.": "2",
-    "Sa 03.10.": "2",
-    "So 04.10.": "2",
-    "Mo 05.10.": "3",
-    "Di 06.10.": "3"
-  },
-  {
-    "Stationsname": "Lichtenhain-Mittelndorf",
-    "Fr 02.10.": "2",
-    "Sa 03.10.": "2",
-    "So 04.10.": "2",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Dippoldiswalde-Reinberg",
-    "Fr 02.10.": "1",
-    "Sa 03.10.": "2",
-    "So 04.10.": "2",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Bertsdorf-Hörnitz",
-    "Fr 02.10.": "2",
-    "Sa 03.10.": "2",
-    "So 04.10.": "2",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Chemnitz",
-    "Fr 02.10.": "1",
-    "Sa 03.10.": "2",
-    "So 04.10.": "2",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Zinnwald-Georgenfeld",
-    "Fr 02.10.": "1",
-    "Sa 03.10.": "2",
-    "So 04.10.": "2",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Lichtentanne",
-    "Fr 02.10.": "1",
-    "Sa 03.10.": "2",
-    "So 04.10.": "2",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Marienberg",
-    "Fr 02.10.": "1",
-    "Sa 03.10.": "2",
-    "So 04.10.": "1",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Deutschneudorf-Brüderwiese",
-    "Fr 02.10.": "1",
-    "Sa 03.10.": "2",
-    "So 04.10.": "2",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Aue",
-    "Fr 02.10.": "1",
-    "Sa 03.10.": "1",
-    "So 04.10.": "2",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Treuen",
-    "Fr 02.10.": "2",
-    "Sa 03.10.": "2",
-    "So 04.10.": "2",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Plauen",
-    "Fr 02.10.": "2",
-    "Sa 03.10.": "1",
-    "So 04.10.": "1",
-    "Mo 05.10.": "2",
-    "Di 06.10.": "2"
-  },
-  {
-    "Stationsname": "Carlsfeld",
-    "Fr 02.10.": "1",
     "Sa 03.10.": "1",
     "So 04.10.": "1",
     "Mo 05.10.": "1",
-    "Di 06.10.": "1"
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
   },
   {
-    "Stationsname": "Bad Elster-Sohl",
-    "Fr 02.10.": "2",
+    "Stationsname": "Leipzig-Holzhausen",
     "Sa 03.10.": "2",
     "So 04.10.": "2",
     "Mo 05.10.": "2",
-    "Di 06.10.": "2"
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
+  },
+  {
+    "Stationsname": "Oschatz",
+    "Sa 03.10.": "2",
+    "So 04.10.": "2",
+    "Mo 05.10.": "3",
+    "Di 06.10.": "3",
+    "Mi 07.10.": "3"
+  },
+  {
+    "Stationsname": "Görlitz",
+    "Sa 03.10.": "2",
+    "So 04.10.": "2",
+    "Mo 05.10.": "2",
+    "Di 06.10.": "3",
+    "Mi 07.10.": "3"
+  },
+  {
+    "Stationsname": "Kubschütz",
+    "Sa 03.10.": "2",
+    "So 04.10.": "2",
+    "Mo 05.10.": "2",
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
+  },
+  {
+    "Stationsname": "Klipphausen-Garsebach",
+    "Sa 03.10.": "2",
+    "So 04.10.": "2",
+    "Mo 05.10.": "3",
+    "Di 06.10.": "3",
+    "Mi 07.10.": "3"
+  },
+  {
+    "Stationsname": "Dresden-Klotzsche (Flughafen)",
+    "Sa 03.10.": "2",
+    "So 04.10.": "2",
+    "Mo 05.10.": "2",
+    "Di 06.10.": "3",
+    "Mi 07.10.": "3"
+  },
+  {
+    "Stationsname": "Geringswalde-Altgeringswalde",
+    "Sa 03.10.": "2",
+    "So 04.10.": "2",
+    "Mo 05.10.": "2",
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
+  },
+  {
+    "Stationsname": "Sohland/Spree",
+    "Sa 03.10.": "2",
+    "So 04.10.": "1",
+    "Mo 05.10.": "2",
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
+  },
+  {
+    "Stationsname": "Nossen",
+    "Sa 03.10.": "2",
+    "So 04.10.": "2",
+    "Mo 05.10.": "2",
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
+  },
+  {
+    "Stationsname": "Dresden-Hosterwitz",
+    "Sa 03.10.": "2",
+    "So 04.10.": "2",
+    "Mo 05.10.": "2",
+    "Di 06.10.": "3",
+    "Mi 07.10.": "3"
+  },
+  {
+    "Stationsname": "Lichtenhain-Mittelndorf",
+    "Sa 03.10.": "1",
+    "So 04.10.": "1",
+    "Mo 05.10.": "1",
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
+  },
+  {
+    "Stationsname": "Dippoldiswalde-Reinberg",
+    "Sa 03.10.": "1",
+    "So 04.10.": "1",
+    "Mo 05.10.": "2",
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
+  },
+  {
+    "Stationsname": "Bertsdorf-Hörnitz",
+    "Sa 03.10.": "2",
+    "So 04.10.": "2",
+    "Mo 05.10.": "2",
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
+  },
+  {
+    "Stationsname": "Chemnitz",
+    "Sa 03.10.": "2",
+    "So 04.10.": "2",
+    "Mo 05.10.": "2",
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
+  },
+  {
+    "Stationsname": "Zinnwald-Georgenfeld",
+    "Sa 03.10.": "1",
+    "So 04.10.": "1",
+    "Mo 05.10.": "1",
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
+  },
+  {
+    "Stationsname": "Lichtentanne",
+    "Sa 03.10.": "2",
+    "So 04.10.": "2",
+    "Mo 05.10.": "2",
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
+  },
+  {
+    "Stationsname": "Marienberg",
+    "Sa 03.10.": "1",
+    "So 04.10.": "1",
+    "Mo 05.10.": "1",
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
+  },
+  {
+    "Stationsname": "Deutschneudorf-Brüderwiese",
+    "Sa 03.10.": "2",
+    "So 04.10.": "2",
+    "Mo 05.10.": "2",
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
+  },
+  {
+    "Stationsname": "Aue",
+    "Sa 03.10.": "1",
+    "So 04.10.": "1",
+    "Mo 05.10.": "2",
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
+  },
+  {
+    "Stationsname": "Treuen",
+    "Sa 03.10.": "2",
+    "So 04.10.": "2",
+    "Mo 05.10.": "2",
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
+  },
+  {
+    "Stationsname": "Plauen",
+    "Sa 03.10.": "2",
+    "So 04.10.": "2",
+    "Mo 05.10.": "2",
+    "Di 06.10.": "3",
+    "Mi 07.10.": "2"
+  },
+  {
+    "Stationsname": "Carlsfeld",
+    "Sa 03.10.": "1",
+    "So 04.10.": "1",
+    "Mo 05.10.": "1",
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
+  },
+  {
+    "Stationsname": "Bad Elster-Sohl",
+    "Sa 03.10.": "2",
+    "So 04.10.": "2",
+    "Mo 05.10.": "2",
+    "Di 06.10.": "2",
+    "Mi 07.10.": "2"
   }
 ]
