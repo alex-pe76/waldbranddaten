@@ -1,282 +1,282 @@
 [
   {
     "Stationsname": "Wesertal-Lippoldsberg",
-    "So 08.11.": "1",
     "Mo 09.11.": "1",
     "Di 10.11.": "1",
     "Mi 11.11.": "1",
-    "Do 12.11.": "1"
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
   },
   {
     "Stationsname": "Twistetal-Mühlhausen",
-    "So 08.11.": "2",
     "Mo 09.11.": "1",
     "Di 10.11.": "1",
     "Mi 11.11.": "1",
-    "Do 12.11.": "1"
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
   },
   {
     "Stationsname": "Schauenburg-Elgershausen",
-    "So 08.11.": "2",
     "Mo 09.11.": "1",
     "Di 10.11.": "1",
     "Mi 11.11.": "1",
-    "Do 12.11.": "1"
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
   },
   {
     "Stationsname": "Eschwege",
-    "So 08.11.": "2",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Fritzlar/Eder",
-    "So 08.11.": "2",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Sontra",
-    "So 08.11.": "2",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Burgwald-Bottendorf",
-    "So 08.11.": "2",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Gilserberg-Moischeid",
-    "So 08.11.": "1",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Neukirchen-Hauptschwenda",
-    "So 08.11.": "1",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Bad Hersfeld",
-    "So 08.11.": "2",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Cölbe",
-    "So 08.11.": "1",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Neu-Ulrichstein",
-    "So 08.11.": "2",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Alsfeld-Eifa",
-    "So 08.11.": "2",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Tann/Rhön",
-    "So 08.11.": "1",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Wettenberg bei Gießen",
-    "So 08.11.": "1",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Fulda-Horas",
-    "So 08.11.": "1",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Löhnberg-Obershausen",
-    "So 08.11.": "1",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Hoherodskopf/Vogelsberg",
-    "So 08.11.": "2",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Wasserkuppe",
-    "So 08.11.": "1",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "2",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Runkel-Ennerich",
-    "So 08.11.": "1",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Bad Nauheim",
-    "So 08.11.": "1",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Schlüchtern-Herolz",
-    "So 08.11.": "2",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Gründau-Breitenborn",
-    "So 08.11.": "2",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Waldems-Reinborn",
-    "So 08.11.": "2",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Kleiner Feldberg/Taunus",
-    "So 08.11.": "1",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Wiesbaden-Auringen",
-    "So 08.11.": "1",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Frankfurt/Main-Westend",
-    "So 08.11.": "2",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Offenbach-Wetterpark",
-    "So 08.11.": "2",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Frankfurt (Flughafen)",
-    "So 08.11.": "2",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Geisenheim",
-    "So 08.11.": "2",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Schaafheim-Schlierbach",
-    "So 08.11.": "1",
-    "Mo 09.11.": "1",
-    "Di 10.11.": "1",
-    "Mi 11.11.": "1",
-    "Do 12.11.": "1"
-  },
-  {
-    "Stationsname": "Darmstadt",
-    "So 08.11.": "2",
     "Mo 09.11.": "2",
     "Di 10.11.": "1",
     "Mi 11.11.": "1",
-    "Do 12.11.": "1"
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Fritzlar/Eder",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Sontra",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Burgwald-Bottendorf",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Gilserberg-Moischeid",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Neukirchen-Hauptschwenda",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Bad Hersfeld",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Cölbe",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Neu-Ulrichstein",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Alsfeld-Eifa",
+    "Mo 09.11.": "2",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Tann/Rhön",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Wettenberg bei Gießen",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Fulda-Horas",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Löhnberg-Obershausen",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Hoherodskopf/Vogelsberg",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Wasserkuppe",
+    "Mo 09.11.": "2",
+    "Di 10.11.": "2",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Runkel-Ennerich",
+    "Mo 09.11.": "2",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Bad Nauheim",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Schlüchtern-Herolz",
+    "Mo 09.11.": "2",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Gründau-Breitenborn",
+    "Mo 09.11.": "2",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Waldems-Reinborn",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Kleiner Feldberg/Taunus",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Wiesbaden-Auringen",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Frankfurt/Main-Westend",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Offenbach-Wetterpark",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Frankfurt (Flughafen)",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Geisenheim",
+    "Mo 09.11.": "2",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Schaafheim-Schlierbach",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
+  },
+  {
+    "Stationsname": "Darmstadt",
+    "Mo 09.11.": "1",
+    "Di 10.11.": "1",
+    "Mi 11.11.": "1",
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
   },
   {
     "Stationsname": "Michelstadt-Vielbrunn",
-    "So 08.11.": "1",
     "Mo 09.11.": "1",
     "Di 10.11.": "1",
     "Mi 11.11.": "1",
-    "Do 12.11.": "1"
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
   },
   {
     "Stationsname": "Michelstadt",
-    "So 08.11.": "2",
     "Mo 09.11.": "1",
-    "Di 10.11.": "1",
+    "Di 10.11.": "2",
     "Mi 11.11.": "1",
-    "Do 12.11.": "1"
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
   },
   {
     "Stationsname": "Oberzent-Beerfelden",
-    "So 08.11.": "2",
     "Mo 09.11.": "1",
-    "Di 10.11.": "1",
+    "Di 10.11.": "2",
     "Mi 11.11.": "1",
-    "Do 12.11.": "1"
+    "Do 12.11.": "1",
+    "Fr 13.11.": "1"
   }
 ]
